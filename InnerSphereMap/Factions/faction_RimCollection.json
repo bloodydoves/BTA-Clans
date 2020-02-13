@@ -1,0 +1,37 @@
+{
+  "ID": "faction_RimCollection",
+  "Name": "Rim Collection",
+  "ShortName": "Rim",
+  "Demonym": "Rimmer",
+  "Government": "Democracy",
+  "Allies": [
+  ],
+  "Enemies": [
+  "Steiner","Marik","Kurita","Davion","Liao","AuriganRestoration","ComStar",
+            "MagistracyOfCanopus","TaurianConcordat","Outworld","Marian","Oberon","Lothian","Circinus", "Illyrian","Rasalhague","Ives",
+            "Castile","Chainelane","ClanBurrock","ClanCloudCobra","ClanCoyote","ClanDiamondShark","ClanFireMandrill","ClanGhostBear","ClanGoliathScorpion",
+            "ClanHellsHorses","ClanIceHellion","ClanJadeFalcon","ClanNovaCat","ClansGeneric","ClanSmokeJaguar","ClanSnowRaven","ClanStarAdder",
+            "ClanSteelViper","ClanWolf","Delphi","Elysia","Hanse","JarnFolk","Tortuga","Valkyrate","NoFaction","Locals", "AuriganDirectorate", "AuriganPirates","WordOfBlake"
+  ],
+  "Presence": 0.1,
+  "factionID": "Rim",
+    "icon": "uixTxrLogo_Rim",
+    "factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
+    "factionMapColor": "rgba(218,165,32,1.0)",
+  "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
+  "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
+  "HeraldryDefId": "heraldrydef_RimCollection",
+  "ReputationStatements": [
+    "You've been real bad to us, but we don't have an alternative right now. Do this contract, maybe we'll talk pay.",
+	"You don't like me, I don't like you, but I think we can do business today.",
+	"We've had a little rough history but I'm hoping we can put that behind us. Give this contract a shot and maybe we can be friends.",
+	"We've got a contract, you've got a need for c-bills, let's do some business and everyone goes home happy.",
+	"Hello my friend, I'm happy that you're here. I've got this contract and I think it'll be amenable to your skills. Take a look, tell me what you think.",
+	"It's great to see you, and boy do we need your help today. I've got this contract that I need a trusted company to handle and I think you're the perfect fit for it.",
+	"My friend, the Rim Collection trust you like we trust Able's Aces. I've got a contract here and I trust no one else with it, take a look at your earliest convenience, Commander."
+  ],
+  "MissionSuccessStatements":[ "Many thanks, Commander, you really saved our bacon with this victory."
+  ],"GoodFaithFailureStatements":[ "Well, you did your best, and we can respect that, but I'll admit to some disappointment that you couldn't get it done. Still, you deserve at least some compensation for that effort."
+  ],"BadFaithFailureStatements":[ "That was a poor, poor showing, Commander. We should have just stuck with Able's Aces. They always get the job done."
+  ],"Description" : "The Rim Collection is a minor nationstate founded by six planets that remembered the old Rim Worlds Republic, pre-Amaris, and wanted to recreate that dream. They are small, democratic, and pretty much harmless. Their military is composed of the mercenary group Able's Aces who have become national heroes for the Collection."
+}
