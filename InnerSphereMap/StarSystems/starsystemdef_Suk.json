@@ -128,13 +128,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
+    "itemCollection_major_ClanWorld",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
   "factionShopOwnerID": "ClanWolf",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_ClanWorld"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Suk",

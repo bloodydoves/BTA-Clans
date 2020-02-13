@@ -125,13 +125,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
+    "itemCollection_major_Rim",
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
   "factionShopOwnerID": "TaurianConcordat",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_Rim"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Caldarium",
