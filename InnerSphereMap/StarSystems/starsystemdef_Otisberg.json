@@ -130,7 +130,7 @@
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "Rim",
   "FactionShopItems": [
     "itemCollection_faction_Rim"
   ],

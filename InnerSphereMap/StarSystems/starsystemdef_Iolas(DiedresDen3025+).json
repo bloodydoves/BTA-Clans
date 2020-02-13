@@ -140,7 +140,7 @@
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "Circinus",
   "FactionShopItems": [
     "itemCollection_faction_Circinus"
   ],

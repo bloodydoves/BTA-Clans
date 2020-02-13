@@ -130,7 +130,7 @@
         "itemCollection_minor_MagistracyOfCanopus",
         "itemCollection_shop_chemicals"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "MagistracyOfCanopus",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_NewAbilene",

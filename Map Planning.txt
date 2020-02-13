@@ -1,8 +1,22 @@
+Factions that need Store Updates (both itemCollection_faction_xxx and itemCollection_major_xxx)
+
+Delphi
+JarnFolk
+Tortuga
+Chainelane
+Hanse
+Outworld
+Steiner
+Kurita
+ClanWorlds
+Circinus
+Rim
+Marian
+
 Factions that need mechs tagged for them
 
 ***DONE*** Free Rasalhague Republic (as per MUL)
 ***DONE*** Outworlds Alliance (as per MUL)
-***DONE*** St. Ives (as per MUL)
 ***DONE*** Tortuga Dominions (same as pirates, this is an easy copy-paste later on)
 ***DONE*** Marian Hegemony (tech level is 3025+primitives+COM-4H/MAD-4HB)
 ***DONE*** Jarnfolk (primitives only)
@@ -14,13 +28,11 @@ Factions that need mechs tagged for them
 
 Factions that are going away: 
 
-Obereon (rolled into Clan OZ)
-Valkyriate (rolled into Clan OZ)
-Elysian Fields (rolled into Clan OZ)
-
+***DONE*** Obereon (rolled into Clan OZ)
+***DONE*** Valkyriate (rolled into Clan OZ)
+***DONE*** Elysian Fields (rolled into Clan OZ)
 ***DONE*** Lothain (rolled into Marian)
 ***DONE*** Illyrian (rolled into Marian)
-
 ***DONE*** Axumite (removed)
 ***DONE*** Word of Blake (removed)
 ***DONE*** Clan space (removed)
@@ -28,4 +40,4 @@ Elysian Fields (rolled into Clan OZ)
 
 Factions that need planets:
 
-Clan Occupation Zones: Clan Jade Falcon, Clan Wolf, Clan Ghost Bear
+***DONE*** Clan Occupation Zones: Clan Jade Falcon, Clan Wolf, Clan Ghost Bear
