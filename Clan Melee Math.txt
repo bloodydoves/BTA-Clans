@@ -1,0 +1,9 @@
+Clan Melee Rules:
+Base: tonnage
+Clan penalty: -15
+has lower: +5
+has hand: +5
+DFA: x2
+
+Stab: melee/3, round down to 5s
+DFA stab: x2

@@ -1,0 +1,44 @@
+20 tons: Piranha
+25 tons: Mist Lynx
+30 tons: Arctic Cheetah, Incubus, Kit Fox
+35 tons: Adder, Cougar, Jenner IIC
+
+40 tons: Viper
+45 tons: Ice Ferret, Shadow Cat
+50 tons: Hellhound, Hunchback IIC, Huntsman, Nova
+55 tons: Black Lanner, Stormcrow, Vapor Eagle
+
+60 tons: Hellfire, Lupus, Mad Dog
+65 tons: Ebon Jag, Hellbringer, Linebacker, Rifleman IIC
+70 tons: Nova Cat, Summoner, Sunspider
+75 tons: Night Gyr, Orion IIC, Timber Wolf
+
+80 tons: Gargoyle, Warhammer IIC
+85 tons: Marauder IIC, Warhawk
+90 tons: Blood Asp, Highlander IIC, Mad Cat Mk II, Supernova
+95 tons: Executioner
+100 tons: Dire Wolf, Kodiak, Stone Rhino
+
+Armor maximums for each tonnage (listed as arms/legs/sides/side rear/center/center rear; head excluded because it's always 45)
+
+## tons: A, L, ST, STR, CT, CTR
+20 tons: 20, 35, 40, 10, 45, 10
+25 tons: 40, 60, 45, 15, 60, 20
+30 tons: 50, 70, 55, 15, 75, 25
+35 tons: 60, 80, 60, 20, 85, 25
+
+40 tons: 60, 100, 75, 25, 90, 30
+45 tons: 70, 110, 85, 25, 105, 35
+50 tons: 80, 120, 90, 30, 120, 40
+55 tons: 90, 130, 100, 30, 135, 45
+
+60 tons: 100, 140, 110, 35, 150, 50
+65 tons: 100, 150, 115, 35, 160, 50
+70 tons: 110, 150, 115, 35, 165, 55
+75 tons: 120, 160, 120, 40, 175, 55
+
+80 tons: 130, 170, 130, 40, 190, 60
+85 tons: 140, 180, 135, 45, 210, 65
+90 tons: 150, 190, 145, 45, 220, 70
+95 tons: 160, 200, 150, 50, 225, 75
+100 tons: 170, 210, 160, 50, 235, 75
