@@ -21,7 +21,7 @@
       "planet_civ_primitive",
       "planet_industry_poor",
       "planet_ruins",
-      "planet_faction_davion"
+      "planet_faction_steiner"
     ],
     "tagSetSourceFile": ""
   },
@@ -39,7 +39,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 13,
-  "ownerID": "Davion",
+  "ownerID": "Steiner",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -144,7 +144,7 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Davion",
+    "Steiner",
     "Locals"
   ],
   "contractTargetIDs": [

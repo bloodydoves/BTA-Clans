@@ -26,7 +26,7 @@
       "planet_industry_research",
       "planet_other_starleague",
       "planet_ruins",
-      "planet_faction_liao"
+      "planet_faction_davion"
     ],
     "tagSetSourceFile": ""
   },
@@ -45,7 +45,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 7,
-  "ownerID": "Liao",
+  "ownerID": "Davion",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -135,7 +135,7 @@
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "Liao",
+  "factionShopOwnerID": "Davion",
   "FactionShopItems": [
     "itemCollection_faction_TaurianConcordat"
   ],
@@ -150,19 +150,56 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Liao",
+    "Davion",
     "Locals"
   ],
   "contractTargetIDs": [
     "Steiner",
     "Marik",
     "Kurita",
-    "Davion",
+    "Liao",
     "AuriganRestoration",
     "ComStar",
     "MagistracyOfCanopus",
     "TaurianConcordat",
+    "Outworld",
+    "Marian",
+    "Oberon",
+    "Lothian",
+    "Circinus",
+    "Illyrian",
+    "Rasalhague",
     "Ives",
-    "AuriganPirates"
+    "Axumite",
+    "Castile",
+    "Chainelane",
+    "ClanBurrock",
+    "ClanCloudCobra",
+    "ClanCoyote",
+    "ClanDiamondShark",
+    "ClanFireMandrill",
+    "ClanGhostBear",
+    "ClanGoliathScorpion",
+    "ClanHellsHorses",
+    "ClanIceHellion",
+    "ClanJadeFalcon",
+    "ClanNovaCat",
+    "ClansGeneric",
+    "ClanSmokeJaguar",
+    "ClanSnowRaven",
+    "ClanStarAdder",
+    "ClanSteelViper",
+    "ClanWolf",
+    "Delphi",
+    "Elysia",
+    "Hanse",
+    "JarnFolk",
+    "Tortuga",
+    "Valkyrate",
+    "NoFaction",
+    "Locals",
+    "AuriganDirectorate",
+    "AuriganPirates",
+    "WordOfBlake"
   ]
 }
