@@ -1,25 +1,25 @@
 Factions that need Store Updates (both itemCollection_faction_xxx and itemCollection_major_xxx)
 
-Crap-tier:
+***DONE*** Crap-tier:
 Delphi
 Chainelane
 
-Periphery/10 tier:
+***DONE*** Periphery/10 tier:
 JarnFolk
 Hanse
 Circinus
 Rim
 Tortuga
 
-Actual real Periphery power tier:
+***DONE*** Actual Periphery power tier:
 Outworld
 Marian
 
-Great House tier:
+***DONE*** Great House tier:
 Steiner
 Kurita
 
-CLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANS tier:
+***major DONE*** CLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANS tier:
 ClanWorlds
 
 Factions that need mechs tagged for them
