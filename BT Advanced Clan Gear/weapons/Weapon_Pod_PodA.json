@@ -9,7 +9,7 @@
         },
         "BonusDescriptions": {
             "Bonuses": [
-                "AOEOnly",
+                "AreaOfEffectDmg: 50",
                 "AreaOfEffect: 60",
                 "PipsIgnored: 6",
                 "InternalAmmo: 1"
@@ -50,7 +50,11 @@
     "ProjectilesPerShot": 1,
     "AttackRecoil": 4,
     "Instability": 5,
-    "WeaponEffectID": "WeaponEffect-Weapon_MachineGun",
+    "CantHitUnaffecedByPathing": true,
+    "ImprovedBallistic": true,
+    "AlwaysIndirectVisuals": true,
+    "AMSImmune": true,
+    "WeaponEffectID": "WeaponEffect-Weapon_SRM2",
     "Description": {
         "Cost": 10000,
         "Rarity": 0,
