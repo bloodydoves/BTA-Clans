@@ -130,13 +130,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Steiner",
+    "itemCollection_major_TaurianConcordat",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
   "factionShopOwnerID": "Steiner",
   "FactionShopItems": [
-    "itemCollection_faction_Steiner"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Wyatt",

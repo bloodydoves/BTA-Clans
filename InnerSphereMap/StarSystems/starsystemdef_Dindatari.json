@@ -140,13 +140,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Outworld",
+    "itemCollection_major_TaurianConcordat",
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "Outworld",
+  "factionShopOwnerID": "TaurianConcordat",
   "FactionShopItems": [
-    "itemCollection_faction_Outworld"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Dindatari",

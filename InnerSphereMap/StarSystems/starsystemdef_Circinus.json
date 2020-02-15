@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Circinus",
     "Name": "Circinus",
-    "Details": "The capital of the Circinus Federation, Circinus is a world coming out of a lawless time and trying to go legit, so far to mixed results.",
+    "Details": "NOT DONE",
     "Icon": ""
   },
   "Position": {
@@ -142,13 +142,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Circinus",
+    "itemCollection_major_TaurianConcordat",
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "Circinus",
+  "factionShopOwnerID": "TaurianConcordat",
   "FactionShopItems": [
-    "itemCollection_faction_Circinus"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Circinus",

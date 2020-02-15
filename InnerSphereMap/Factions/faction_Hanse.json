@@ -77,7 +77,7 @@
     "BadFaithFailureStatements": [
         "Do you have any idea how much your failure will cost the Hanseatic League, and myself personally?  Leave, and don't return until you are capable of completing a contract!"
     ],
-    "Description": "The Hanseatic League is a mercantile faction located in the Deep Periphery.  Mercenaries are welcome, and the overall technological level of their defence forces is equal to the Inner Sphere's level of technology circa 3025.",
+    "Description": "The Hanseatic League is a mercantile faction located in the Deep Periphery.  Mercenaries are welcome, and the overall technological level of their defence forces is equal to any faction in the Inner Sphere.",
     "factionID": "Hanse",
     "icon": "uixTxrLogo_Hanse",
     "factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",

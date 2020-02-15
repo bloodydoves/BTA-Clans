@@ -20,7 +20,7 @@
       "planet_pop_none",
       "planet_civ_innersphere",
       "planet_industry_mining",
-      "planet_faction_davion"
+      "planet_faction_outworld"
     ],
     "tagSetSourceFile": ""
   },
@@ -38,65 +38,65 @@
   },
   "FuelingStation": false,
   "JumpDistance": 15,
-  "ownerID": "Davion",
+  "ownerID": "Outworld",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
   "SystemInfluence": [
     {
-      "factionID": "NoFaction",
+      "Faction": "NoFaction",
       "Influence": 0
     },
     {
-      "factionID": "Davion",
+      "Faction": "Davion",
       "Influence": 0
     },
     {
-      "factionID": "Liao",
+      "Faction": "Liao",
       "Influence": 0
     },
     {
-      "factionID": "Kurita",
+      "Faction": "Kurita",
       "Influence": 0
     },
     {
-      "factionID": "Marik",
+      "Faction": "Marik",
       "Influence": 0
     },
     {
-      "factionID": "Steiner",
+      "Faction": "Steiner",
       "Influence": 0
     },
     {
-      "factionID": "TaurianConcordat",
+      "Faction": "TaurianConcordat",
       "Influence": 0
     },
     {
-      "factionID": "MagistracyOfCanopus",
+      "Faction": "MagistracyOfCanopus",
       "Influence": 0
     },
     {
-      "factionID": "AuriganDirectorate",
+      "Faction": "AuriganDirectorate",
       "Influence": 0
     },
     {
-      "factionID": "AuriganRestoration",
+      "Faction": "AuriganRestoration",
       "Influence": 0
     },
     {
-      "factionID": "ComStar",
+      "Faction": "ComStar",
       "Influence": 0
     },
     {
-      "factionID": "MercenaryReviewBoard",
+      "Faction": "MercenaryReviewBoard",
       "Influence": 0
     },
     {
-      "factionID": "AuriganPirates",
+      "Faction": "AuriganPirates",
       "Influence": 0
     },
     {
-      "factionID": "AuriganMercenaries",
+      "Faction": "AuriganMercenaries",
       "Influence": 0
     }
   ],
@@ -124,13 +124,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Davion",
-    "itemCollection_shop_chemicalsProgression",
-    "itemCollection_shop_miningProgression"
+    "itemCollection_major_TaurianConcordat",
+    "itemCollection_shop_industrial",
+    "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "Davion",
+  "factionShopOwnerID": "TaurianConcordat",
   "FactionShopItems": [
-    "itemCollection_faction_Davion"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Tellman",
@@ -143,56 +143,14 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Davion",
+    "Outworld",
     "Locals"
   ],
   "contractTargetIDs": [
-    "Steiner",
-    "Marik",
     "Kurita",
-    "Liao",
-    "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
-    "Outworld",
-    "Marian",
-    "Oberon",
-    "Lothian",
-    "Circinus",
-    "Illyrian",
-    "Rasalhague",
-    "Ives",
-    "Axumite",
-    "Castile",
-    "Chainelane",
-    "ClanBurrock",
-    "ClanCloudCobra",
-    "ClanCoyote",
-    "ClanDiamondShark",
-    "ClanFireMandrill",
-    "ClanGhostBear",
-    "ClanGoliathScorpion",
-    "ClanHellsHorses",
-    "ClanIceHellion",
-    "ClanJadeFalcon",
-    "ClanNovaCat",
-    "ClansGeneric",
-    "ClanSmokeJaguar",
-    "ClanSnowRaven",
-    "ClanStarAdder",
-    "ClanSteelViper",
-    "ClanWolf",
-    "Delphi",
-    "Elysia",
-    "Hanse",
-    "JarnFolk",
+    "Davion",
     "Tortuga",
-    "Valkyrate",
-    "NoFaction",
-    "Locals",
-    "AuriganDirectorate",
     "AuriganPirates",
-    "WordOfBlake"
+    "ComStar"
   ]
 }

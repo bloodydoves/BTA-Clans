@@ -22,16 +22,16 @@
   "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
   "HeraldryDefId": "heraldrydef_RimCollection",
   "ReputationStatements": [
-    "You've been real bad to us, but we don't have an alternative right now. Do this contract, maybe we'll talk pay.",
-	"You don't like me, I don't like you, but I think we can do business today.",
-	"We've had a little rough history but I'm hoping we can put that behind us. Give this contract a shot and maybe we can be friends.",
-	"We've got a contract, you've got a need for c-bills, let's do some business and everyone goes home happy.",
-	"Hello my friend, I'm happy that you're here. I've got this contract and I think it'll be amenable to your skills. Take a look, tell me what you think.",
-	"It's great to see you, and boy do we need your help today. I've got this contract that I need a trusted company to handle and I think you're the perfect fit for it.",
-	"My friend, the Rim Collection trust you like we trust Able's Aces. I've got a contract here and I trust no one else with it, take a look at your earliest convenience, Commander."
+    "As much as the Axumite Providence is loath to deal with infidel, we have need of mercenaries, and you are here.",
+	"The Axumite Providence has a contract that you may be competent enough to fulfill, insha'Allah.",
+	"Hello Commander.  We hope you can assist us in a small matter that requires a suitable mercenary force.",
+	"Peace be unto you Commander.  We have heard you are a competent mercenary, and we would like present this contract for your consideration.",
+	"Peace be unto you and so may the mercy of Allah and his blessings, friend of the Axumites.  You have served us well in the past, and we offer this contract in the hopes this relationship will continue to grow.",
+	"Allah's blessings upon you, my friend.  We have need of your services once again, and in consideration of your past services to the Axumite Providence, we have a profitable contract for you today.",
+	"Allah bless you, and the Prophet Mohammad for guiding you back to us, my brother.  Once again we have a profitable contract for you, honoured friend, one we would entrust to no other."
   ],
-  "MissionSuccessStatements":[ "Many thanks, Commander, you really saved our bacon with this victory."
-  ],"GoodFaithFailureStatements":[ "Well, you did your best, and we can respect that, but I'll admit to some disappointment that you couldn't get it done. Still, you deserve at least some compensation for that effort."
-  ],"BadFaithFailureStatements":[ "That was a poor, poor showing, Commander. We should have just stuck with Able's Aces. They always get the job done."
+  "MissionSuccessStatements":[ "Allah be praised, for it is by his will that you have completed this task for us.  Full payment has already been transferred to you for your services."
+  ],"GoodFaithFailureStatements":[ "It is unfortunate that you were unable to complete the task, however as Allah is merciful, so are we.  Perhaps we expected too much of you this time, and we hope you are able to perform better if we call upon you again."
+  ],"BadFaithFailureStatements":[ "Infidel, I hope you do not expect payment for your pathetic performance.  Know that you have insulted the Axumite Providence with your cowardice."
   ],"Description" : "The Rim Collection is a minor nationstate founded by six planets that remembered the old Rim Worlds Republic, pre-Amaris, and wanted to recreate that dream. They are small, democratic, and pretty much harmless. Their military is composed of the mercenary group Able's Aces who have become national heroes for the Collection."
 }

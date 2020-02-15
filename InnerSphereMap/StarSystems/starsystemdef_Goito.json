@@ -143,13 +143,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ClanWorld",
+    "itemCollection_major_TaurianConcordat",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
   "factionShopOwnerID": "ClanGhostBear",
   "FactionShopItems": [
-    "itemCollection_faction_ClanWorld"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Goito",
@@ -162,15 +162,56 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
+    "ClanGhostBear",
+    "Locals"
+  ],
+  "contractTargetIDs": [
     "Steiner",
-	"Marik",
+    "Marik",
     "Kurita",
     "Davion",
     "Liao",
-	"ComStar",
-	"Rasalhague"
-  ],
-  "contractTargetIDs": [
-    "ClanGhostBear"
+    "AuriganRestoration",
+    "ComStar",
+    "MagistracyOfCanopus",
+    "TaurianConcordat",
+    "Outworld",
+    "Marian",
+    "Oberon",
+    "Lothian",
+    "Circinus",
+    "Illyrian",
+    "Rasalhague",
+    "Ives",
+    "Axumite",
+    "Castile",
+    "Chainelane",
+    "ClanBurrock",
+    "ClanCloudCobra",
+    "ClanCoyote",
+    "ClanDiamondShark",
+    "ClanFireMandrill",
+    "ClanGoliathScorpion",
+    "ClanHellsHorses",
+    "ClanIceHellion",
+    "ClanJadeFalcon",
+    "ClanNovaCat",
+    "ClansGeneric",
+    "ClanSmokeJaguar",
+    "ClanSnowRaven",
+    "ClanStarAdder",
+    "ClanSteelViper",
+    "ClanWolf",
+    "Delphi",
+    "Elysia",
+    "Hanse",
+    "JarnFolk",
+    "Tortuga",
+    "Valkyrate",
+    "NoFaction",
+    "Locals",
+    "AuriganDirectorate",
+    "AuriganPirates",
+    "WordOfBlake"
   ]
 }

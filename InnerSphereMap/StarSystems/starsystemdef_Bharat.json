@@ -26,7 +26,7 @@
       "planet_industry_manufacturing",
       "planet_other_comstar",
       "planet_other_alienvegetation",
-      "planet_faction_davion"
+      "planet_faction_liao"
     ],
     "tagSetSourceFile": ""
   },
@@ -49,7 +49,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 12,
-  "ownerID": "Davion",
+  "ownerID": "Liao",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -135,13 +135,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Davion",
+    "itemCollection_major_TaurianConcordat",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "Davion",
+  "factionShopOwnerID": "Liao",
   "FactionShopItems": [
-    "itemCollection_faction_Davion"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Bharat",
@@ -154,56 +154,19 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Davion",
+    "Liao",
     "Locals"
   ],
   "contractTargetIDs": [
     "Steiner",
     "Marik",
     "Kurita",
-    "Liao",
+    "Davion",
     "AuriganRestoration",
     "ComStar",
     "MagistracyOfCanopus",
     "TaurianConcordat",
-    "Outworld",
-    "Marian",
-    "Oberon",
-    "Lothian",
-    "Circinus",
-    "Illyrian",
-    "Rasalhague",
     "Ives",
-    "Axumite",
-    "Castile",
-    "Chainelane",
-    "ClanBurrock",
-    "ClanCloudCobra",
-    "ClanCoyote",
-    "ClanDiamondShark",
-    "ClanFireMandrill",
-    "ClanGhostBear",
-    "ClanGoliathScorpion",
-    "ClanHellsHorses",
-    "ClanIceHellion",
-    "ClanJadeFalcon",
-    "ClanNovaCat",
-    "ClansGeneric",
-    "ClanSmokeJaguar",
-    "ClanSnowRaven",
-    "ClanStarAdder",
-    "ClanSteelViper",
-    "ClanWolf",
-    "Delphi",
-    "Elysia",
-    "Hanse",
-    "JarnFolk",
-    "Tortuga",
-    "Valkyrate",
-    "NoFaction",
-    "Locals",
-    "AuriganDirectorate",
-    "AuriganPirates",
-    "WordOfBlake"
+    "AuriganPirates"
   ]
 }

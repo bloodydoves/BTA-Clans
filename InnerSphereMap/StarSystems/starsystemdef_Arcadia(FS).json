@@ -21,7 +21,7 @@
       "planet_civ_primitive",
       "planet_industry_poor",
       "planet_ruins",
-      "planet_faction_steiner"
+      "planet_faction_davion"
     ],
     "tagSetSourceFile": ""
   },
@@ -39,7 +39,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 13,
-  "ownerID": "Steiner",
+  "ownerID": "Davion",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -125,13 +125,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Steiner",
+    "itemCollection_major_TaurianConcordat",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
   "factionShopOwnerID": "Steiner",
   "FactionShopItems": [
-    "itemCollection_faction_Steiner"
+    "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Arcadia(FS)",
@@ -144,7 +144,7 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Steiner",
+    "Davion",
     "Locals"
   ],
   "contractTargetIDs": [
