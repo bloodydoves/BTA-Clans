@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_GillfillansGold",
     "Name": "Gillfillan's Gold",
-    "Details": "NOT DONE",
+    "Details": "The capital world of the fledgling Rim Collection, Gillfillan's Gold has been settled for centuries and only recently led the push to unify the Rim Collection under one banner of mutual interest.",
     "Icon": ""
   },
   "Position": {
@@ -141,13 +141,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
+    "itemCollection_major_Rim",
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "Rim",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_Rim"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_GillfillansGold",

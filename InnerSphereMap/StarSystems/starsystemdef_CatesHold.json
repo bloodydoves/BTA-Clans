@@ -137,10 +137,10 @@
         "itemCollection_minor_MagistracyOfCanopus",
         "itemCollection_shop_battlefield"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "MagistracyOfCanopus",
     "FactionShopItems": null,
     "BlackMarketShopItems": [
-        "itemCollection_faction_AuriganPirates"
+        "itemCollection_faction_MagistracyOfCanopus"
     ],
     "CoreSystemID": "starsystemdef_CatesHold",
     "StartingSystemModes": [

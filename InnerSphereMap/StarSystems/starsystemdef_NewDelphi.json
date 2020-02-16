@@ -121,13 +121,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
-    "itemCollection_shop_industrial",
-    "itemCollection_shop_research"
+    "itemCollection_major_Delphi"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "Delphi",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_Delphi"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_NewDelphi",

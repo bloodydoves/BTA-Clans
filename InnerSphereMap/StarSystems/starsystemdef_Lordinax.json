@@ -144,13 +144,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
+    "itemCollection_major_Marian",
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "Marian",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_Marian"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Lordinax",
