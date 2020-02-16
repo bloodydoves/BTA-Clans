@@ -131,13 +131,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
-    "itemCollection_shop_industrial",
-    "itemCollection_shop_research"
+    "itemCollection_major_ComStar"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "ComStar",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_ComStar"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Versailles(Taussen2822+)",
@@ -150,15 +148,10 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "ComStar",
-    "Locals"
+    "ComStar"
   ],
   "contractTargetIDs": [
-    "Steiner",
-    "Marik",
-    "Kurita",
     "Davion",
-    "Liao",
     "AuriganPirates"
   ]
 }

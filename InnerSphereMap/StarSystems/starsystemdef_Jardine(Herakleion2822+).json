@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Jardine(Herakleion2822+)",
     "Name": "Jardine (Herakleion 2822+)",
-    "Details": "NOT DONE",
+    "Details": "Settled during the earler eras of space exploration, Jardine fell off of maps during the Succession Wars. ComStar kept access to the planet though and used it as a secret base of operations for clandestine efforts.",
     "Icon": ""
   },
   "Position": {
@@ -133,13 +133,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
-    "itemCollection_shop_industrial",
-    "itemCollection_shop_research"
+    "itemCollection_major_ComStar"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "ComStar",
   "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+    "itemCollection_faction_ComStar"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Jardine(Herakleion2822+)",
@@ -152,15 +150,10 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "ComStar",
-    "Locals"
+    "ComStar"
   ],
   "contractTargetIDs": [
     "Steiner",
-    "Marik",
-    "Kurita",
-    "Davion",
-    "Liao",
     "AuriganPirates"
   ]
 }
