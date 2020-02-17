@@ -128,7 +128,9 @@
         "itemCollection_shop_miningProgression"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Fjaldr",
     "StartingSystemModes": [

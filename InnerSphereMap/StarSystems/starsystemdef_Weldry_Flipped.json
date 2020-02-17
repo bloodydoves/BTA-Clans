@@ -133,7 +133,9 @@
         "itemCollection_shop_manufacturingProgression"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Weldry",
     "StartingSystemModes": [

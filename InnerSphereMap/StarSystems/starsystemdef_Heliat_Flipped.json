@@ -137,7 +137,9 @@
         "itemCollection_shop_chemicalsProgression"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Heliat",
     "StartingSystemModes": [

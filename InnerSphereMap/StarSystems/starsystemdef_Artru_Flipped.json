@@ -127,7 +127,9 @@
         "itemCollection_shop_starleague"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Artru",
     "StartingSystemModes": [

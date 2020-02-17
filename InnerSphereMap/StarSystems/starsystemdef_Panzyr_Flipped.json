@@ -140,7 +140,9 @@
         "itemCollection_shop_battlefieldProgression"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Panzyr",
     "StartingSystemModes": [

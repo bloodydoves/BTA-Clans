@@ -143,7 +143,9 @@
         "itemCollection_shop_researchProgression"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Coromodir",
     "StartingSystemModes": [

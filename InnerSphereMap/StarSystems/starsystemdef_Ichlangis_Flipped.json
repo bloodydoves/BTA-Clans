@@ -131,7 +131,9 @@
         "itemCollection_shop_miningProgression"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
-    "FactionShopItems": null,
+    "FactionShopItems": [
+		"itemCollection_faction_AuriganRestoration",
+	],
     "BlackMarketShopItems": [
         "itemCollection_faction_AuriganPirates"
     ],
