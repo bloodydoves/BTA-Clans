@@ -6,11 +6,14 @@
   "Government": "League",
   "Allies": [
   ],
-  "Enemies": ["Steiner","Kurita","Davion","Liao","AuriganRestoration","ComStar",
-            "MagistracyOfCanopus","TaurianConcordat","Outworld","Marian","Oberon","Lothian","Circinus", "Illyrian","Rasalhague","Ives","Axumite",
-            "Castile","Chainelane","ClanBurrock","ClanCloudCobra","ClanCoyote","ClanDiamondShark","ClanFireMandrill","ClanGhostBear","ClanGoliathScorpion",
-            "ClanHellsHorses","ClanIceHellion","ClanJadeFalcon","ClanNovaCat","ClansGeneric","ClanSmokeJaguar","ClanSnowRaven","ClanStarAdder",
-            "ClanSteelViper","ClanWolf","Delphi","Elysia","Hanse","JarnFolk","Tortuga","Valkyrate","NoFaction","Locals", "AuriganDirectorate", "AuriganPirates", "WordOfBlake", "Rim"
+  "Enemies": [
+		"Steiner",
+		"Liao",
+		"ComStar",
+		"MagistracyOfCanopus",
+		"Marian",
+		"Circinus",
+		"AuriganPirates"
   ],
   "Presence": 1,
   "factionID" : "Marik",

@@ -7,11 +7,11 @@
   "Allies": [
   ],
   "Enemies": [
-    "Steiner","Marik","Kurita","Davion","Liao","ComStar",
-            "MagistracyOfCanopus","TaurianConcordat","Outworld","Marian","Oberon","Lothian","Circinus", "Illyrian","Rasalhague","Ives","Axumite",
-            "Castile","Chainelane","ClanBurrock","ClanCloudCobra","ClanCoyote","ClanDiamondShark","ClanFireMandrill","ClanGhostBear","ClanGoliathScorpion",
-            "ClanHellsHorses","ClanIceHellion","ClanJadeFalcon","ClanNovaCat","ClansGeneric","ClanSmokeJaguar","ClanSnowRaven","ClanStarAdder",
-            "ClanSteelViper","ClanWolf","Delphi","Elysia","Hanse","JarnFolk","Tortuga","Valkyrate","NoFaction","Locals", "AuriganDirectorate", "AuriganPirates", "WordOfBlake", "Rim"
+		"AuriganPirates",
+        "Liao",
+        "TaurianConcordat",
+        "MagistracyOfCanopus",
+        "Davion"
   ],
   "Presence": 2,
   "factionID" : "AuriganRestoration",
