@@ -15,7 +15,7 @@
         ], 
         "tagSetSourceFile": ""
     }, 
-    "ChassisID": "chassisdef_arcticwolf_ACW-1", 
+    "ChassisID": "chassisdef_arcticwolf_ACW-2", 
     "HeraldryID": null, 
     "Description": {
         "Cost": 3340000, 
@@ -23,10 +23,10 @@
         "Purchasable": true, 
         "Manufacturer": null, 
         "Model": null, 
-        "UIName": "Arctic Wolf 1", 
-        "Id": "mechdef_arcticwolf_ACW-1", 
+        "UIName": "Arctic Wolf 2", 
+        "Id": "mechdef_arcticwolf_ACW-2", 
         "Name": "Arctic Wolf", 
-        "Details": "The design of the Arctic Wolf is simple: get close, unleash a torrent of missiles, and get out. To do this, it is armed with six Type 1 SRM Six-Shooters and two Type 1 Cross-Pattern SRM-4 Launchers. Aiding the accuracy of these missiles is the Tracker Series Narc Missile Beacon. The Arctic Wolf also boasts an impressive four tons of ammunition for its launchers. The 'Mech has ten double heat sinks which can be overwhelmed, but only if a MechWarrior insists on staying in the fight or going full-tilt for long periods. The Arctic Wolf is protected by six tons of standard armor.", 
+        "Details": "The design of the Arctic Wolf is simple: get close, unleash a torrent of missiles, and get out. The one variant replaces the SRM-4s and two SRM-6s with an Alpha Series Large Pulse Laser. This gives the 'Mech some long-range capability and provides it with a punch weapon, as well as increased accuracy and a reduction on ammunition dependency. The 'Mech has ten double heat sinks which can be overwhelmed, but only if a MechWarrior insists on staying in the fight or going full-tilt for long periods. The Arctic Wolf is protected by six tons of standard armor.", 
         "Icon": "uixTxrIcon_arcticwolf"
     }, 
     "simGameMechPartCost": 330000, 
@@ -446,17 +446,6 @@
             "hasPrefabName": false
         }, 
         {
-            "MountedLocation": "RightArm", 
-            "ComponentDefID": "Weapon_SRM_SRM4_CLAN", 
-            "SimGameUID": null, 
-            "ComponentDefType": "Weapon", 
-            "HardpointSlot": 0, 
-            "GUID": null, 
-            "DamageLevel": "Functional", 
-            "prefabName": null, 
-            "hasPrefabName": false
-        }, 
-        {
             "MountedLocation": "RightTorso", 
             "ComponentDefID": "Weapon_SRM_SRM6_CLAN", 
             "SimGameUID": null, 
@@ -480,18 +469,7 @@
         }, 
         {
             "MountedLocation": "LeftTorso", 
-            "ComponentDefID": "Weapon_SRM_SRM6_CLAN", 
-            "SimGameUID": null, 
-            "ComponentDefType": "Weapon", 
-            "HardpointSlot": 0, 
-            "GUID": null, 
-            "DamageLevel": "Functional", 
-            "prefabName": null, 
-            "hasPrefabName": false
-        }, 
-        {
-            "MountedLocation": "LeftTorso", 
-            "ComponentDefID": "Weapon_SRM_SRM6_CLAN", 
+            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_CLAN", 
             "SimGameUID": null, 
             "ComponentDefType": "Weapon", 
             "HardpointSlot": 0, 
@@ -503,17 +481,6 @@
         {
             "MountedLocation": "LeftArm", 
             "ComponentDefID": "Weapon_SRM_SRM6_CLAN", 
-            "SimGameUID": null, 
-            "ComponentDefType": "Weapon", 
-            "HardpointSlot": 0, 
-            "GUID": null, 
-            "DamageLevel": "Functional", 
-            "prefabName": null, 
-            "hasPrefabName": false
-        }, 
-        {
-            "MountedLocation": "LeftArm", 
-            "ComponentDefID": "Weapon_SRM_SRM4_CLAN", 
             "SimGameUID": null, 
             "ComponentDefType": "Weapon", 
             "HardpointSlot": 0, 
