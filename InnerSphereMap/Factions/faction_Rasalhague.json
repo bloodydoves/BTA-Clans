@@ -9,7 +9,10 @@
         "Steiner",
         "Kurita",
         "Chainelane",
-        "AuriganPirates"
+        "AuriganPirates",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"ClanGhostBear"
     ],
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

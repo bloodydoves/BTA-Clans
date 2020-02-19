@@ -13,7 +13,10 @@
 		"ComStar",
 		"MagistracyOfCanopus",
 		"TaurianConcordat",
-		"AuriganPirates"
+		"AuriganPirates",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"ClanGhostBear"
 	],
   "Presence": 1.5,
   "factionID" : "Liao",

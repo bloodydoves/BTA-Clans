@@ -11,7 +11,10 @@
     "Davion",
     "ComStar",
     "Outworld",
-    "AuriganPirates"
+    "AuriganPirates",
+	"ClanWolf",
+	"ClanJadeFalcon",
+	"ClanGhostBear"
   ],
   "Presence": 0.25,
   "factionID" : "Kurita",
