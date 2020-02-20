@@ -42,3 +42,31 @@ Armor maximums for each tonnage (listed as arms/legs/sides/side rear/center/cent
 90 tons: 150, 190, 145, 45, 220, 70
 95 tons: 160, 200, 150, 50, 225, 75
 100 tons: 170, 210, 160, 50, 235, 75
+
+Mechs in Beta 1 that load up from storage with excess armor:
+BAS-Prime; ST Rear
+STR-1; ST Rear
+GAR-1; ST Rear
+ON1-IIC; ST Rear, CT Front
+HGN-IIC-1; All Torso Rear
+WHK-Prime; ST Rear
+WHM-IIC; All Torso Rear
+NTG-Prime; ST Rear
+TW-Prime; All Torso Front
+NCT-Prime; CT Front
+EBJ-Prime; All Torso Rear, ST Front. Also 1 Ton overweight in Stock.
+LBK-Prime; ST Rear
+RFL-IIC; All Torso Rear
+SCR-Prime; All Torso Rear
+VGL-1; ST Rear, CT Front
+HLH-1; ST Front
+NVA-Prime; ST Rear
+IFR-Prime; ST Rear
+SHC-Prime; All Torso Rear, ST Front
+VPR-Prime; All Torso Rear, ST Front
+ADR-Prime; All Torso Front, CT Rear
+ACH-Prime; ST Rear
+INC-1; ST Rear
+KFX-Prime; ST Rear
+MLX-Prime; All Torso Rear
+PIR-1; Arms, CT Rear; Error as Stock: Can't equip more than 14 weapons.
