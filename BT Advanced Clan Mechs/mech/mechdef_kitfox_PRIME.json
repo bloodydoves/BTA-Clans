@@ -7,6 +7,10 @@
       "unit_lance_support",
       "unit_role_scout",
       "unit_advanced",
+	  "ClanWolf",
+	  "ClanJadeFalcon",
+	  "ClanGhostBear",
+	  "unit_notsacellum",
       "unit_bracket_low"
     ],
     "tagSetSourceFile": ""
@@ -49,20 +53,20 @@
     {
       "DamageLevel": "Functional",
       "Location": "LeftTorso",
-      "CurrentArmor": 35,
-      "CurrentRearArmor": 20,
+      "CurrentArmor": 40,
+      "CurrentRearArmor": 15,
       "CurrentInternalStructure": 40,
-      "AssignedArmor": 35,
-      "AssignedRearArmor": 20
+      "AssignedArmor": 40,
+      "AssignedRearArmor": 15
     },
     {
       "DamageLevel": "Functional",
       "Location": "RightTorso",
-      "CurrentArmor": 35,
-      "CurrentRearArmor": 20,
+      "CurrentArmor": 40,
+      "CurrentRearArmor": 15,
       "CurrentInternalStructure": 40,
-      "AssignedArmor": 35,
-      "AssignedRearArmor": 20
+      "AssignedArmor": 40,
+      "AssignedRearArmor": 15
     },
     {
       "DamageLevel": "Functional",

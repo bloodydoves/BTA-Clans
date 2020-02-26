@@ -6,6 +6,10 @@
       "unit_medium",
       "unit_ready",
       "unit_lance_support",
+	  "ClanWolf",
+	  "ClanJadeFalcon",
+	  "ClanGhostBear",
+	  "unit_notsacellum",
       "unit_role_sniper"
     ],
     "tagSetSourceFile": ""

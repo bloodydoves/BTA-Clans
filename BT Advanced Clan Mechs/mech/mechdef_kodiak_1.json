@@ -7,7 +7,9 @@
       "unit_ready",
       "unit_lance_vanguard",
       "unit_role_sniper",
-      "unit_bracket_high"
+	  "ClanGhostBear",
+      "unit_notsacellum",
+	  "unit_bracket_high"
     ],
     "tagSetSourceFile": ""
   },

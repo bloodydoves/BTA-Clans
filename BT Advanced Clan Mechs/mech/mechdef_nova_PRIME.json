@@ -7,6 +7,10 @@
       "unit_lance_support",
       "unit_role_sniper",
       "unit_advanced",
+	  "ClanWolf",
+	  "ClanJadeFalcon",
+	  "ClanGhostBear",
+	  "unit_notsacellum",
       "unit_bracket_high"
     ],
     "tagSetSourceFile": ""
@@ -49,11 +53,11 @@
     {
       "DamageLevel": "Functional",
       "Location": "LeftTorso",
-      "CurrentArmor": 80,
-      "CurrentRearArmor": 40,
+      "CurrentArmor": 90,
+      "CurrentRearArmor": 30,
       "CurrentInternalStructure": 60,
-      "AssignedArmor": 80,
-      "AssignedRearArmor": 40
+      "AssignedArmor": 90,
+      "AssignedRearArmor": 30
     },
     {
       "DamageLevel": "Functional",
@@ -67,11 +71,11 @@
     {
       "DamageLevel": "Functional",
       "Location": "RightTorso",
-      "CurrentArmor": 80,
-      "CurrentRearArmor": 40,
+      "CurrentArmor": 90,
+      "CurrentRearArmor": 30,
       "CurrentInternalStructure": 60,
-      "AssignedArmor": 80,
-      "AssignedRearArmor": 40
+      "AssignedArmor": 90,
+      "AssignedRearArmor": 30
     },
     {
       "DamageLevel": "Functional",

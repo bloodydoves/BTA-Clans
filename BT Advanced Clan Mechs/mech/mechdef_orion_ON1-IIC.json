@@ -7,8 +7,8 @@
       "unit_role_flanker",
       "unit_release",
       "unit_bracket_high",
-      "unit_totem",
-      "clanwolf"
+	  "ClanWolf",
+	  "unit_notsacellum"
     ],
     "tagSetSourceFile": ""
   },

@@ -7,6 +7,10 @@
       "unit_lance_support",
       "unit_role_sniper",
       "unit_advanced",
+	  "ClanWolf",
+	  "ClanJadeFalcon",
+	  "ClanGhostBear",
+	  "unit_notsacellum",
       "unit_bracket_med"
     ],
     "tagSetSourceFile": ""
@@ -19,7 +23,7 @@
     "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
-    "UIName": "Hellhound CNJ-1",
+    "UIName": "Hellhound HLH-1",
     "Id": "mechdef_hellhound_1",
     "Name": "Hellhound",
     "Details": "The Hellhound is a fast, inexpensive medium BattleMech that excels at medium to short range. As befitting its status as a second-line 'Mech, the Hellhound uses a standard engine, though it is constructed on an Endo Steel chassis and uses eight and a half tons of Ferro-Fibrous armor. The Hellhound uses a Large Pulse Laser that is quite accurate and effective at a respectable range. To back that up, it mounts paired ER Medium Lasers and Streak SRM-2s. Ten double heat sinks are able to keep heat under control, though a Hellhound can summon up a heat problem if pressed too hard.",

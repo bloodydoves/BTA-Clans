@@ -169,8 +169,8 @@
       ],
       "Tonnage": 0,
       "InventorySlots": 12,
-      "MaxArmor": 115,
-      "MaxRearArmor": 35,
+      "MaxArmor": 120,
+      "MaxRearArmor": 40,
       "InternalStructure": 75
     },
     {
@@ -179,7 +179,7 @@
       "Tonnage": 0,
       "InventorySlots": 14,
       "MaxArmor": 160,
-      "MaxRearArmor": 50,
+      "MaxRearArmor": 55,
       "InternalStructure": 105
     },
     {
@@ -196,8 +196,8 @@
       ],
       "Tonnage": 0,
       "InventorySlots": 12,
-      "MaxArmor": 115,
-      "MaxRearArmor": 35,
+      "MaxArmor": 120,
+      "MaxRearArmor": 40,
       "InternalStructure": 75
     },
     {
