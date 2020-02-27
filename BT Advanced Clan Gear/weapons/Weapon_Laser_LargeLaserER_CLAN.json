@@ -4,25 +4,22 @@
       "Bonuses": [
         "ERLaser"
       ]
-    },
-    "InventorySorter": {
-      "SortKey": "02009"
     }
   },
   "Category": "Energy",
   "Type": "Laser",
   "WeaponSubType": "LargeLaser",
   "MinRange": 0,
-  "MaxRange": 900,
+  "MaxRange": 800,
   "RangeSplit": [
-    240,
-    450,
-    750
+    200,
+    400,
+    600
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 36,
-  "Damage": 50,
+  "Damage": 55,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 0,

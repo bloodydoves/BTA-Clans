@@ -10,15 +10,15 @@
   "Type": "Laser",
   "WeaponSubType": "MediumLaser",
   "MinRange": 0,
-  "MaxRange": 600,
+  "MaxRange": 475,
   "RangeSplit": [
-    150,
-    300,
-    450
+    100,
+    225,
+    350
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 15,
+  "HeatGenerated": 20,
   "Damage": 35,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
