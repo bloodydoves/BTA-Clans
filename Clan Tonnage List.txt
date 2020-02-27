@@ -45,5 +45,3 @@ Armor maximums for each tonnage (listed as arms/legs/sides/side rear/center/cent
 
 Mechs in Beta 1 that load up from storage with excess armor:
 EBJ-Prime; All Torso Rear, ST Front. Also 1 Ton overweight in Stock.
-
-PIR-1; Arms, CT Rear; Error as Stock: Can't equip more than 14 weapons.

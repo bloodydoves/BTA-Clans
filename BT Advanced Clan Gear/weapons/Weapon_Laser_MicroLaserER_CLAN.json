@@ -1,5 +1,5 @@
 {
-	"Custom": {
+  "Custom": {
     "BonusDescriptions": {
       "Bonuses": [
         "ERLaser"
@@ -10,15 +10,15 @@
   "Type": "Laser",
   "WeaponSubType": "SmallLaser",
   "MinRange": 0,
-  "MaxRange": 120,
+  "MaxRange": 60,
   "RangeSplit": [
     30,
-    60,
-    120
+    40,
+    50
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 3,
+  "HeatGenerated": 6,
   "Damage": 10,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
@@ -26,7 +26,7 @@
   "DamageVariance": 0,
   "HeatDamage": 0,
   "AccuracyModifier": -1,
-  "CriticalChanceMultiplier": 1,
+  "CriticalChanceMultiplier": 0.5,
   "AOECapable": false,
   "IndirectFireCapable": false,
   "RefireModifier": 0,

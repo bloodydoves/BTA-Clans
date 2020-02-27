@@ -14,18 +14,18 @@
     "MaxRange": 120,
     "RangeSplit": [
         30,
-        90,
-        900
+        60,
+        90
     ],
     "AmmoCategory": "NotSet",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 6,
-    "Damage": 10,
+    "HeatGenerated": 9,
+    "Damage": 5,
     "OverheatedDamageMultiplier": 1.2,
     "EvasiveDamageMultiplier": 0,
     "EvasivePipsIgnored": 1,
     "DamageVariance": 0,
-    "HeatDamage": 10,
+    "HeatDamage": 5,
     "AccuracyModifier": 0,
     "CriticalChanceMultiplier": 0.1,
     "AOECapable": false,

@@ -12,15 +12,15 @@
   "Type": "LRM",
   "WeaponSubType": "LRM5",
   "MinRange": 0,
-  "MaxRange": 840,
+  "MaxRange": 600,
   "RangeSplit": [
-    210,
-    420,
-    630
+    150,
+    300,
+    450
   ],
   "AmmoCategory": "STREAKLRM",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 6,
+  "HeatGenerated": 12,
   "Damage": 4,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,

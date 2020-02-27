@@ -13,16 +13,16 @@
   "Type": "SRM",
   "WeaponSubType": "SRM4",
   "MinRange": 0,
-  "MaxRange": 360,
+  "MaxRange": 280,
   "RangeSplit": [
-    90,
-    180,
-    270
+    70,
+    140,
+    210
   ],
   "AmmoCategory": "SRM",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 9,
-  "Damage": 8,
+  "HeatGenerated": 12,
+  "Damage": 9,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 0,

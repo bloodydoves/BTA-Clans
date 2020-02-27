@@ -10,22 +10,22 @@
   "Type": "Laser",
   "WeaponSubType": "LargeLaser",
   "MinRange": 0,
-  "MaxRange": 840,
+  "MaxRange": 480,
   "RangeSplit": [
-    180,
-    420,
-    600
+    120,
+    240,
+    360
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 30,
-  "Damage": 50,
+  "Damage": 60,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 1,
+  "EvasivePipsIgnored": 2,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": -2,
+  "AccuracyModifier": -1,
   "CriticalChanceMultiplier": 1,
   "AOECapable": false,
   "IndirectFireCapable": false,
@@ -33,7 +33,7 @@
   "ShotsWhenFired": 1,
   "ProjectilesPerShot": 1,
   "AttackRecoil": 1,
-  "Instability": 8,
+  "Instability": 0,
   "FireTerrainChance": 0,
   "ColorsTable": [
     {

@@ -1,22 +1,16 @@
 {
     "Custom": {
-        "Category": [
-			{ "CategoryID": "w/s/m/ac" }
-		],
         "ComponentExplosion": {
             "ExplosionDamagePerAmmo": 10,
             "StabilityDamagePerAmmo": 5
         },
         "BonusDescriptions": {
             "Bonuses": [
-                "AreaOfEffectDmg: 50",
+                "AOEOnly",
                 "AreaOfEffect: 60",
                 "PipsIgnored: 6",
                 "InternalAmmo: 1"
 			]
-        },
-        "InventorySorter": {
-            "SortKey": "04002"
         }
     },
     "Category": "AntiPersonnel",
@@ -39,7 +33,7 @@
     "DamageVariance": 0,
     "HeatDamage": 0,
     "AccuracyModifier": -2,
-    "CriticalChanceMultiplier": 1,
+    "CriticalChanceMultiplier": 1.5,
     "AOECapable": true,
     "AOEDamage": 10,
     "AOERange": 60,
@@ -50,11 +44,7 @@
     "ProjectilesPerShot": 1,
     "AttackRecoil": 4,
     "Instability": 5,
-    "CantHitUnaffecedByPathing": true,
-    "ImprovedBallistic": true,
-    "AlwaysIndirectVisuals": true,
-    "AMSImmune": true,
-    "WeaponEffectID": "WeaponEffect-Weapon_SRM2",
+    "WeaponEffectID": "WeaponEffect-Weapon_MachineGun",
     "Description": {
         "Cost": 10000,
         "Rarity": 0,
@@ -64,7 +54,7 @@
         "UIName": "A POD",
         "Id": "Weapon_Pod_PodA",
         "Name": "Anti-Personnel Pod",
-        "Details": "An Anti-Personnel Pod (A-Pod) is a piece of equipment designed specifically for 'Mechs. When detonated, effectively fill a small area with deadly shrapnel.",
+        "Details": "An Anti-Personnel Pod (A-Pod) is a piece of equipment designed specifically for 'Mechs. When detonated, it effectively fills a small area with deadly shrapnel. Although the A-Pod is mostly ineffective against hardened targets, soft targets such as infantry are devasated by the attack.",
         "Icon": "uixSvgIcon_weapon_Ballistic"
     },
     "BonusValueA": "",

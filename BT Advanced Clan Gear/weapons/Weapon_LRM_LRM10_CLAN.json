@@ -11,11 +11,11 @@
   "Type": "LRM",
   "WeaponSubType": "LRM10",
   "MinRange": 0,
-  "MaxRange": 840,
+  "MaxRange": 600,
   "RangeSplit": [
-    210,
-    420,
-    630
+    150,
+    300,
+    450
   ],
   "AmmoCategory": "LRM",
   "StartingAmmoCapacity": 0,

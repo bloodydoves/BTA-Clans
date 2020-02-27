@@ -12,16 +12,16 @@
   "Type": "SRM",
   "WeaponSubType": "SRM6",
   "MinRange": 0,
-  "MaxRange": 480,
+  "MaxRange": 240,
   "RangeSplit": [
+    60,
     120,
-    240,
-    360
+    180
   ],
   "AmmoCategory": "STREAKSRM",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 12,
-  "Damage": 8,
+  "HeatGenerated": 15,
+  "Damage": 9,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 1,
