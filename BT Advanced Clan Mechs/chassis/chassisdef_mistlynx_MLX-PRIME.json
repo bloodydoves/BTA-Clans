@@ -264,6 +264,10 @@
         {
           "WeaponMount": "Missile",
           "Omni": true
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": true
         }
       ],
       "Tonnage": 0,

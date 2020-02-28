@@ -154,6 +154,10 @@
         {
           "WeaponMount": "Energy",
           "Omni": true
+        },
+		{
+          "WeaponMount": "Energy",
+          "Omni": true
         }
       ],
       "Tonnage": 0,
@@ -167,6 +171,14 @@
       "Hardpoints": [
         {
           "WeaponMount": "Missile",
+          "Omni": true
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": true
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
           "Omni": true
         }
       ],

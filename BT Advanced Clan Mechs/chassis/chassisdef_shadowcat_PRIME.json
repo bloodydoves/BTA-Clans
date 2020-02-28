@@ -224,6 +224,10 @@
 		{
           "WeaponMount": "Energy",
           "Omni": true
+        },
+		{
+          "WeaponMount": "Energy",
+          "Omni": true
         }
       ],
       "Tonnage": 0,

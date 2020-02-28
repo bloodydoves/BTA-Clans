@@ -152,6 +152,10 @@
         {
           "WeaponMount": "Energy",
           "Omni": true
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": true
         }
       ],
       "Tonnage": 0,
@@ -190,6 +194,10 @@
     {
       "Location": "RightArm",
       "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": true
+        },
         {
           "WeaponMount": "Energy",
           "Omni": true

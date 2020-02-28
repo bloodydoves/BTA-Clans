@@ -158,6 +158,10 @@
         {
           "WeaponMount": "Energy",
           "Omni": true
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": true
         }
       ],
       "Tonnage": 0,
@@ -198,6 +202,10 @@
       "Hardpoints": [
         {
           "WeaponMount": "Ballistic",
+          "Omni": true
+        },
+        {
+          "WeaponMount": "Energy",
           "Omni": true
         },
         {

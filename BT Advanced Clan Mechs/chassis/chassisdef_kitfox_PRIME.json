@@ -188,6 +188,10 @@
         {
           "WeaponMount": "Energy",
           "Omni": true
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": true
         }
       ],
       "Tonnage": 0,
