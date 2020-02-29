@@ -1,35 +1,26 @@
 {
   "Custom": {
-    "Category": [
-      {
-        "CategoryID": "w/a/o/mortar"
-      }
-    ],
-    "InventorySorter": {
-      "SortKey": "03013"
-    },
     "BonusDescriptions": {
       "Bonuses": [
         "IsMortar",
-        "NoAA",
         "Indirect"
       ]
     }
   },
   "Category": "Ballistic",
   "Type": "Autocannon",
-  "WeaponSubType": "AC10",
-  "MinRange": 0,
-  "MaxRange": 620,
-  "RangeSplit": [
-    160,
-    360,
-    570
-  ],
+  "WeaponSubType": "AC2",
+  "MinRange": 180,
+    "MaxRange": 840,
+    "RangeSplit": [
+        210,
+        420,
+        630
+    ],
   "AmmoCategory": "MORTAR",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 15,
-  "Damage": 8,
+  "HeatGenerated": 2,
+  "Damage": 10,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 0,
@@ -37,9 +28,6 @@
   "HeatDamage": 0,
   "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 1,
-  "APArmorShardsMod": 0.5,
-  "APMaxArmorThickness": 40,
-  "APCriticalChanceMultiplier": 0.1,
   "AOECapable": false,
   "IndirectFireCapable": true,
   "RefireModifier": 0,
@@ -49,7 +37,7 @@
   "Instability": 1,
   "AMSImmune": true,
   "AlternateDamageCalc": true,
-  "FireTerrainChance": 0.00666,
+  "FireTerrainChance": 0,
   "ImprovedBallistic": true,
   "StatusEffectsPerHit": true,
   "MissileVolleySize": 6,
@@ -65,9 +53,9 @@
     "Purchasable": true,
     "Manufacturer": "Ceres Metals",
     "Model": "Mortar",
-    "UIName": "Mortar/6 (C)",
-    "Id": "Weapon_MECHMORTAR_6_CLAN",
-    "Name": "Mortar/6",
+    "UIName": "Mortar/1 (C)",
+    "Id": "Weapon_MECHMORTAR_1_CLAN",
+    "Name": "Mortar/1",
     "Details": "Based on the weapon used by infantry for centuries, the Mech Mortar fires a small shell in a high arc that falls onto the target. Though the Mech Mortar was created by the Terran Hegemony, by 2835 the Succession Wars had relegated it to history. With the reintroduction of the Anti-Missile System, engineers revived the Mech Mortar concept. The munitions used by the mortars, though often possessing limited guidance packages, weren't destroyed by AMS systems in tests. Mortar shells also proved very adaptable, accepting several types of payloads. \n\n <b><color=#ffcc00>Uses Mortar Ammo.</color></b>",
     "Icon": "uixSvgIcon_weapon_Ballistic"
   },
@@ -77,8 +65,8 @@
   "ComponentSubType": "Weapon",
   "PrefabIdentifier": "AC10",
   "BattleValue": 0,
-  "InventorySize": 2,
-  "Tonnage": 3.5,
+  "InventorySize": 1,
+  "Tonnage": 1,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
   "CriticalComponent": false,

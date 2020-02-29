@@ -1,17 +1,8 @@
 {
   "Custom": {
-    "Category": [
-      {
-        "CategoryID": "w/a/o/mortar"
-      }
-    ],
-    "InventorySorter": {
-      "SortKey": "03011"
-    },
     "BonusDescriptions": {
       "Bonuses": [
         "IsMortar",
-        "NoAA",
         "Indirect"
       ]
     }
@@ -19,17 +10,17 @@
   "Category": "Ballistic",
   "Type": "Autocannon",
   "WeaponSubType": "AC2",
-  "MinRange": 0,
-  "MaxRange": 620,
-  "RangeSplit": [
-    160,
-    360,
-    570
-  ],
+  "MinRange": 180,
+    "MaxRange": 840,
+    "RangeSplit": [
+        210,
+        420,
+        630
+    ],
   "AmmoCategory": "MORTAR",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 4,
-  "Damage": 8,
+  "Damage": 10,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 0,
@@ -37,9 +28,6 @@
   "HeatDamage": 0,
   "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 1,
-  "APArmorShardsMod": 0.5,
-  "APMaxArmorThickness": 40,
-  "APCriticalChanceMultiplier": 0.1,
   "AOECapable": false,
   "IndirectFireCapable": true,
   "RefireModifier": 0,
@@ -49,7 +37,7 @@
   "Instability": 1,
   "AMSImmune": true,
   "AlternateDamageCalc": true,
-  "FireTerrainChance": 0.00666,
+  "FireTerrainChance": 0,
   "ImprovedBallistic": true,
   "StatusEffectsPerHit": true,
   "MissileVolleySize": 2,
@@ -78,7 +66,7 @@
   "PrefabIdentifier": "AC2",
   "BattleValue": 0,
   "InventorySize": 1,
-  "Tonnage": 1,
+  "Tonnage": 2,
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
   "CriticalComponent": false,
