@@ -9,12 +9,12 @@
   "Category": "Ballistic",
   "Type": "Autocannon",
   "WeaponSubType": "AC2",
-  "MinRange": 60,
-  "MaxRange": 1080,
+  "MinRange": 90,
+  "MaxRange": 840,
   "RangeSplit": [
-    270,
-    540,
-    810
+    210,
+    420,
+    630
   ],
   "AmmoCategory": "UAC2",
   "StartingAmmoCapacity": 0,

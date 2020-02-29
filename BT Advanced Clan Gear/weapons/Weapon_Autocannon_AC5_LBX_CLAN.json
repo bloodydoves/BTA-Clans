@@ -10,11 +10,11 @@
   "Type": "Autocannon",
   "WeaponSubType": "AC5",
   "MinRange": 90,
-  "MaxRange": 900,
+  "MaxRange": 840,
   "RangeSplit": [
-    240,
-    450,
-    720
+    210,
+    420,
+    630
   ],
   "AmmoCategory": "LBX5",
   "StartingAmmoCapacity": 0,

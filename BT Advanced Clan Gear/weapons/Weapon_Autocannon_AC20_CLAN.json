@@ -10,11 +10,11 @@
   "Type": "Autocannon",
   "WeaponSubType": "AC20",
   "MinRange": 0,
-  "MaxRange": 480,
+  "MaxRange": 400,
   "RangeSplit": [
-    120,
-    240,
-    360
+    100,
+    200,
+    300
   ],
   "AmmoCategory": "UAC20",
   "StartingAmmoCapacity": 0,
