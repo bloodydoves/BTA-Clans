@@ -102,6 +102,17 @@
       "DamageLevel": "Functional",
       "prefabName": null,
       "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_engine_cooling_2",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
     }
   ],
   "Description": {
@@ -111,9 +122,9 @@
     "Manufacturer": "",
     "Model": "",
     "UIName": "Dire Wolf",
-    "Id": "chassisdef_direwolf_DW-PRIME",
+    "Id": "chassisdef_direwolf_DW-W",
     "Name": "Dire Wolf",
-    "Details": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers.",
+    "Details": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. This Wolf's Dragoons variant is effective at both long and short range. For long range, it uses a Gauss Rifle, an ER Large Laser, and an LRM-20. At close range, an Ultra Autocannon/20, ER Small Laser, and a pair of Medium Pulse Lasers provide devastating firepower. Twenty double heat sinks allow the design to almost continually fire all of its weapons.",
     "Icon": "uixTxrIcon_direwolf"
   },
   "MovementCapDefID": "movedef_direwhale",
@@ -154,7 +165,12 @@
   "Locations": [
     {
       "Location": "Head",
-      "Hardpoints": [],
+      "Hardpoints": [
+		{
+          "WeaponMount": "AntiPersonnel",
+          "Omni": true
+        }
+	  ],
       "Tonnage": 0,
       "InventorySlots": 6,
       "MaxArmor": 45,
@@ -170,18 +186,6 @@
         },
         {
           "WeaponMount": "Energy",
-          "Omni": true
-        },
-        {
-          "WeaponMount": "Missile",
-          "Omni": true
-        },
-        {
-          "WeaponMount": "AntiPersonnel",
-          "Omni": true
-        },
-        {
-          "WeaponMount": "Missile",
           "Omni": true
         }
       ],
@@ -207,7 +211,16 @@
     },
     {
       "Location": "CenterTorso",
-      "Hardpoints": [],
+      "Hardpoints": [
+		{
+          "WeaponMount": "AntiPersonnel",
+          "Omni": true
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": true
+        }
+	  ],
       "Tonnage": 0,
       "InventorySlots": 14,
       "MaxArmor": 235,
@@ -237,18 +250,6 @@
         },
         {
           "WeaponMount": "Energy",
-          "Omni": true
-        },
-        {
-          "WeaponMount": "Missile",
-          "Omni": true
-        },
-        {
-          "WeaponMount": "AntiPersonnel",
-          "Omni": true
-        },
-        {
-          "WeaponMount": "Missile",
           "Omni": true
         }
       ],
@@ -321,7 +322,7 @@
       "z": -1
     }
   ],
-  "VariantName": "DW-PRIME",
+  "VariantName": "DW-W",
   "ChassisTags": {
     "items": [
       "OmniMech",
@@ -330,5 +331,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Unstoppable Whale",
-  "YangsThoughts": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers."
+  "YangsThoughts": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. This Wolf's Dragoons variant is effective at both long and short range. For long range, it uses a Gauss Rifle, an ER Large Laser, and an LRM-20. At close range, an Ultra Autocannon/20, ER Small Laser, and a pair of Medium Pulse Lasers provide devastating firepower. Twenty double heat sinks allow the design to almost continually fire all of its weapons."
 }

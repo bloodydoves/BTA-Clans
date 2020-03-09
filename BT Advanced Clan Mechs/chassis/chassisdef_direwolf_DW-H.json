@@ -102,6 +102,17 @@
       "DamageLevel": "Functional",
       "prefabName": null,
       "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_engine_cooling_2",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
     }
   ],
   "Description": {
@@ -111,9 +122,9 @@
     "Manufacturer": "",
     "Model": "",
     "UIName": "Dire Wolf",
-    "Id": "chassisdef_direwolf_DW-PRIME",
+    "Id": "chassisdef_direwolf_DW-H",
     "Name": "Dire Wolf",
-    "Details": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers.",
+    "Details": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. A simple direct fire configuration of the Dire Wolf, the H configuration carries a pair of Gauss Rifles as its primary long range weaponry. These are backed up by two Heavy Large Lasers for medium to short ranges. Finally, for short range combat, the H configuration has a Medium Pulse Laser and a Flamer. All of this configuration's weapons are linked to a Targeting Computer, increasing their accuracy.",
     "Icon": "uixTxrIcon_direwolf"
   },
   "MovementCapDefID": "movedef_direwhale",
@@ -154,7 +165,12 @@
   "Locations": [
     {
       "Location": "Head",
-      "Hardpoints": [],
+      "Hardpoints": [
+		{
+          "WeaponMount": "Missile",
+          "Omni": true
+        }
+	  ],
       "Tonnage": 0,
       "InventorySlots": 6,
       "MaxArmor": 45,
@@ -246,10 +262,6 @@
         {
           "WeaponMount": "AntiPersonnel",
           "Omni": true
-        },
-        {
-          "WeaponMount": "Missile",
-          "Omni": true
         }
       ],
       "Tonnage": 0,
@@ -321,7 +333,7 @@
       "z": -1
     }
   ],
-  "VariantName": "DW-PRIME",
+  "VariantName": "DW-H",
   "ChassisTags": {
     "items": [
       "OmniMech",
@@ -330,5 +342,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Unstoppable Whale",
-  "YangsThoughts": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers."
+  "YangsThoughts": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. A simple direct fire configuration of the Dire Wolf, the H configuration carries a pair of Gauss Rifles as its primary long range weaponry. These are backed up by two Heavy Large Lasers for medium to short ranges. Finally, for short range combat, the H configuration has a Medium Pulse Laser and a Flamer. All of this configuration's weapons are linked to a Targeting Computer, increasing their accuracy."
 }

@@ -102,6 +102,17 @@
       "DamageLevel": "Functional",
       "prefabName": null,
       "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_engine_cooling_2",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
     }
   ],
   "Description": {
@@ -111,9 +122,9 @@
     "Manufacturer": "",
     "Model": "",
     "UIName": "Dire Wolf",
-    "Id": "chassisdef_direwolf_DW-PRIME",
+    "Id": "chassisdef_direwolf_DW-B",
     "Name": "Dire Wolf",
-    "Details": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers.",
+    "Details": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. The B configuration is armed for long range engagements with four Ultra Autocannon/2s which have a reach of 810 meters and are backed up by a pair of ER PPCs for even greater punch. An LB-X Autocannon/10 provides excellent medium to long range firepower and allows the Dire Wolf B to act in a variety of roles including vehicle hunting and anti-aircraft. For close combat, the B configuration has two Medium Pulse Lasers and an ER Small Laser.",
     "Icon": "uixTxrIcon_direwolf"
   },
   "MovementCapDefID": "movedef_direwhale",
@@ -197,6 +208,10 @@
         {
           "WeaponMount": "Ballistic",
           "Omni": true
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": true
         }
       ],
       "Tonnage": 0,
@@ -207,7 +222,12 @@
     },
     {
       "Location": "CenterTorso",
-      "Hardpoints": [],
+      "Hardpoints": [
+		{
+          "WeaponMount": "Missile",
+          "Omni": true
+        }
+	  ],
       "Tonnage": 0,
       "InventorySlots": 14,
       "MaxArmor": 235,
@@ -219,6 +239,10 @@
       "Hardpoints": [
         {
           "WeaponMount": "Ballistic",
+          "Omni": true
+        },
+        {
+          "WeaponMount": "Missile",
           "Omni": true
         }
       ],
@@ -321,7 +345,7 @@
       "z": -1
     }
   ],
-  "VariantName": "DW-PRIME",
+  "VariantName": "DW-B",
   "ChassisTags": {
     "items": [
       "OmniMech",
@@ -330,5 +354,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Unstoppable Whale",
-  "YangsThoughts": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers."
+  "YangsThoughts": "The Dire Wolf is one of the OmniMechs that became feared throughout the Inner Sphere during the initial Clan Invasion and rightly so. Its speed and armor protection matches that of an Atlas, but it has superior potential firepower with fifty and a half tons of free pod space for weapons and equipment. The B configuration is armed for long range engagements with four Ultra Autocannon/2s which have a reach of 810 meters and are backed up by a pair of ER PPCs for even greater punch. An LB-X Autocannon/10 provides excellent medium to long range firepower and allows the Dire Wolf B to act in a variety of roles including vehicle hunting and anti-aircraft. For close combat, the B configuration has two Medium Pulse Lasers and an ER Small Laser."
 }
