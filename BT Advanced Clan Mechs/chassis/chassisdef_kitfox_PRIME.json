@@ -161,13 +161,13 @@
   "Signature": 0,
   "Radius": 4,
   "PunchesWithLeftArm": false,
-  "MeleeDamage": 15,
-  "MeleeInstability": 8,
+  "MeleeDamage": 25,
+  "MeleeInstability": 5,
   "MeleeToHitModifier": 0,
-  "DFADamage": 30,
+  "DFADamage": 25,
   "DFAToHitModifier": 0,
-  "DFASelfDamage": 30,
-  "DFAInstability": 15,
+  "DFASelfDamage": 25,
+  "DFAInstability": 5,
   "Locations": [
     {
       "Location": "Head",

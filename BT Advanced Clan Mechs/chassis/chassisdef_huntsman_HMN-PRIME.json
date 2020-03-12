@@ -178,10 +178,10 @@
   "MeleeDamage": 35,
   "MeleeInstability": 10,
   "MeleeToHitModifier": 0,
-  "DFADamage": 70,
+  "DFADamage": 35,
   "DFAToHitModifier": 0,
-  "DFASelfDamage": 70,
-  "DFAInstability": 20,
+  "DFASelfDamage": 35,
+  "DFAInstability": 10,
   "Locations": [
     {
       "Location": "Head",
