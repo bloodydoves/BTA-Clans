@@ -1,5 +1,8 @@
 {
   "Custom": {
+	"Category": [
+			{ "CategoryID": "w/s/l/laser" }
+    ],
     "BonusDescriptions": {
       "Bonuses": [
         "HeavyLaser"

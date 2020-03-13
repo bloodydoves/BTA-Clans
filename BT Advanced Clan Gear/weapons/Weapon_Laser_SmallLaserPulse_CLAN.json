@@ -1,5 +1,8 @@
 {
   "Custom": {
+	"Category": [
+			{ "CategoryID": "w/s/l/pulse" }
+    ],
     "BonusDescriptions": {
       "Bonuses": [
         "PulseLaser"

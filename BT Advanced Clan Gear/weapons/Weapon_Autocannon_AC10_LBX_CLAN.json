@@ -1,5 +1,8 @@
 {
   "Custom": {
+	"Category": [
+			{ "CategoryID": "w/a/a/lbx" }
+    ],
     "BonusDescriptions": {
       "Bonuses": [
         "WpnRecoil: 3",

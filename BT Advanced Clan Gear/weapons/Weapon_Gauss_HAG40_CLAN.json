@@ -1,5 +1,8 @@
 {
   "Custom": {
+	"Category": [
+			{ "CategoryID": "w/a/g/hag" }
+    ],
     "ComponentExplosion": {
 		"ExplosionDamage": 200, 
 		"StabilityDamage": 100

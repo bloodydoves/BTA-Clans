@@ -1,5 +1,8 @@
 {
   "Custom": {
+	"Category": [
+			{ "CategoryID": "a/m/l/lrm" }
+    ],
     "BonusDescriptions": {
       "Bonuses": [
         "WpnAccuracy: +1",

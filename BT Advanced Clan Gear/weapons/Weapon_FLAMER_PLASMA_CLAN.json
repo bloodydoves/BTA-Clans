@@ -1,5 +1,8 @@
 {
     "Custom": {
+		"Category": [
+			{ "CategoryID": "w/e/p/plasma" }
+		],
 		"BonusDescriptions": {
             "Bonuses": [
                 "PLASMADEBUFF: 20%",
@@ -23,7 +26,7 @@
     "Damage": 1,
     "EvasiveDamageMultiplier": 0,
     "EvasivePipsIgnored": 0,
-    "HeatDamage": 30,
+    "HeatDamage": 40,
     "AccuracyModifier": 0,
     "CriticalChanceMultiplier": 0.1,
     "AOECapable": false,
