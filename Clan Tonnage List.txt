@@ -42,6 +42,3 @@ Armor maximums for each tonnage (listed as arms/legs/sides/side rear/center/cent
 90 tons: 150, 190, 145, 45, 220, 70
 95 tons: 160, 200, 150, 50, 225, 75
 100 tons: 170, 210, 160, 50, 235, 75
-
-Mechs in Beta 1 that load up from storage with excess armor:
-EBJ-Prime; All Torso Rear, ST Front. Also 1 Ton overweight in Stock.
