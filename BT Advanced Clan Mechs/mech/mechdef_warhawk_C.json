@@ -120,7 +120,7 @@
     },
     {
       "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_PPC_PPCER_CLAN",
+      "ComponentDefID": "Weapon_Laser_LargeLaserPulse_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -197,7 +197,7 @@
     },
     {
       "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_LargeLaserPulse_CLAN",
+      "ComponentDefID": "Weapon_PPC_PPCER_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
