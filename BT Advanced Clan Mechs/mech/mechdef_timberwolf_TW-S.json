@@ -12,12 +12,11 @@
 	  "ClanJadeFalcon",
 	  "ClanGhostBear",
 	  "unit_notsacellum",
-	  "unit_indirectFire",
       "unit_bracket_high"
     ],
     "tagSetSourceFile": ""
   },
-  "ChassisID": "chassisdef_timberwolf_TW-PRIME",
+  "ChassisID": "chassisdef_timberwolf_TW-S",
   "HeraldryID": null,
   "Description": {
     "Cost": 2789359,
@@ -25,10 +24,10 @@
     "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
-    "UIName": "Timber Wolf TW-Prime",
-    "Id": "mechdef_timberwolf_TW-PRIME",
+    "UIName": "Timber Wolf TW-S",
+    "Id": "mechdef_timberwolf_TW-S",
     "Name": "Timber Wolf",
-    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. The default configuration of the Timber Wolf features a well blended mix of energy and missile weaponry: paired ER Large and LRM-20s at range and paired ER Mediums and Machine Guns with a Medium Pulse at close range guarantee there is no safe way to approach a Timber Wolf.",
+    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. A highly maneuverable urban combat configuration of the Timber Wolf, the S mounts five jump jets, allowing it to jump up to one hundred and fifty meters. To offset the inaccuracy from using jump jets, the S configuration is armed with a Large Pulse Laser backed up by two Medium Pulse Lasers. The S configuration also carries four SRM-6 launchers and two Machine Guns, making it a deadly close combat fighter. ",
     "Icon": "uixTxrIcon_madcat"
   },
   "simGameMechPartCost": 2789359,
@@ -286,7 +285,7 @@
     },
     {
       "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_LargeLaserER_CLAN",
+      "ComponentDefID": "Weapon_Laser_LargeLaserPulse_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -297,61 +296,6 @@
     },
     {
       "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_LargeLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 0,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 0,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftTorso",
       "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
@@ -362,8 +306,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -373,6 +317,61 @@
       "hasPrefabName": false
     },
     {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_SRM_SRM6_CLAN",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_SRM_SRM6_CLAN",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Weapon_SRM_SRM6_CLAN",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Weapon_SRM_SRM6_CLAN",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
       "MountedLocation": "RightTorso",
       "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
       "SimGameUID": null,
@@ -384,30 +383,19 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Weapon_Laser_SmallLaserER_CLAN",
       "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 1,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
       "SimGameUID": null,
       "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
@@ -417,10 +405,98 @@
       "hasPrefabName": false
     },
 	{
-      "MountedLocation": "RightTorso",
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG_half",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "RightArm",
       "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "SimGameUID": null,
+      "ComponentDefType": "JumpJet",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "SimGameUID": null,
+      "ComponentDefType": "JumpJet",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "SimGameUID": null,
+      "ComponentDefType": "JumpJet",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "SimGameUID": null,
+      "ComponentDefType": "JumpJet",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "SimGameUID": null,
+      "ComponentDefType": "JumpJet",
       "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",

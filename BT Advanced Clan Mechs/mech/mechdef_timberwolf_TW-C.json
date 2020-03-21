@@ -17,7 +17,7 @@
     ],
     "tagSetSourceFile": ""
   },
-  "ChassisID": "chassisdef_timberwolf_TW-PRIME",
+  "ChassisID": "chassisdef_timberwolf_TW-C",
   "HeraldryID": null,
   "Description": {
     "Cost": 2789359,
@@ -25,10 +25,10 @@
     "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
-    "UIName": "Timber Wolf TW-Prime",
-    "Id": "mechdef_timberwolf_TW-PRIME",
+    "UIName": "Timber Wolf TW-C",
+    "Id": "mechdef_timberwolf_TW-C",
     "Name": "Timber Wolf",
-    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. The default configuration of the Timber Wolf features a well blended mix of energy and missile weaponry: paired ER Large and LRM-20s at range and paired ER Mediums and Machine Guns with a Medium Pulse at close range guarantee there is no safe way to approach a Timber Wolf.",
+    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. For direct fire capabilities, the Timber Wolf C mounts two ER Large Lasers and an Ultra Autocannon/5. For indirect fire support capability, its two LRM-15 launchers provide an ample quantity of firepower. Finally, for close range protection, the C carries an ER Medium Laser and an Anti-Missile System.",
     "Icon": "uixTxrIcon_madcat"
   },
   "simGameMechPartCost": 2789359,
@@ -91,19 +91,19 @@
     {
       "DamageLevel": "Functional",
       "Location": "LeftLeg",
-      "CurrentArmor": 160,
+      "CurrentArmor": 140,
       "CurrentRearArmor": -1,
       "CurrentInternalStructure": 80,
-      "AssignedArmor": 160,
+      "AssignedArmor": 140,
       "AssignedRearArmor": -1
     },
     {
       "DamageLevel": "Functional",
       "Location": "RightLeg",
-      "CurrentArmor": 160,
+      "CurrentArmor": 140,
       "CurrentRearArmor": -1,
       "CurrentInternalStructure": 80,
-      "AssignedArmor": 160,
+      "AssignedArmor": 140,
       "AssignedRearArmor": -1
     }
   ],
@@ -296,7 +296,7 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightArm",
+      "MountedLocation": "LeftArm",
       "ComponentDefID": "Weapon_Laser_LargeLaserER_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
@@ -307,19 +307,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
+      "ComponentDefID": "Weapon_Autocannon_AC5_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -330,7 +319,18 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
+      "ComponentDefID": "Weapon_AMS_CLAN",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_LRM_LRM15_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -341,21 +341,10 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
+      "ComponentDefID": "Weapon_LRM_LRM15_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
@@ -363,21 +352,10 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
+      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 0,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
@@ -407,7 +385,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
+      "ComponentDefID": "Ammo_AmmunitionBox_AntiMissile_half",
       "SimGameUID": null,
       "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
@@ -417,10 +395,10 @@
       "hasPrefabName": false
     },
 	{
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Ammo_AmmunitionBox_Ultra_AC5",
       "SimGameUID": null,
-      "ComponentDefType": "HeatSink",
+      "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",

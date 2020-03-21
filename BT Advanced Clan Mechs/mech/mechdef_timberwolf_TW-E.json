@@ -17,7 +17,7 @@
     ],
     "tagSetSourceFile": ""
   },
-  "ChassisID": "chassisdef_timberwolf_TW-PRIME",
+  "ChassisID": "chassisdef_timberwolf_TW-E",
   "HeraldryID": null,
   "Description": {
     "Cost": 2789359,
@@ -25,10 +25,10 @@
     "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
-    "UIName": "Timber Wolf TW-Prime",
-    "Id": "mechdef_timberwolf_TW-PRIME",
+    "UIName": "Timber Wolf TW-E",
+    "Id": "mechdef_timberwolf_TW-E",
     "Name": "Timber Wolf",
-    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. The default configuration of the Timber Wolf features a well blended mix of energy and missile weaponry: paired ER Large and LRM-20s at range and paired ER Mediums and Machine Guns with a Medium Pulse at close range guarantee there is no safe way to approach a Timber Wolf.",
+    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. Configured to use the added flexibility of the new Advanced Tactical Missile system, the E configuration mounts two ER Large Lasers as its primary direct fire weapons. The E Configuration also carries two ATM 9 launchers which can fire ammunition that is tailored to the ranges which it is engaging the enemy at. Finally, it carries a Light TAG designator for calling in Arrow IV artillery fire.",
     "Icon": "uixTxrIcon_madcat"
   },
   "simGameMechPartCost": 2789359,
@@ -307,30 +307,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
+      "ComponentDefID": "Weapon_LRM_ATM9_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -341,21 +319,10 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
+      "ComponentDefID": "Weapon_LRM_ATM9_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
@@ -363,7 +330,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
+      "ComponentDefID": "Weapon_Laser_Light_TAG_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -373,41 +340,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 0,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_ATM",
       "SimGameUID": null,
       "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
@@ -417,7 +351,73 @@
       "hasPrefabName": false
     },
 	{
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_HE_ATM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_ER_ATM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
       "MountedLocation": "RightTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_ATM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_HE_ATM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_ER_ATM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "LeftArm",
       "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",

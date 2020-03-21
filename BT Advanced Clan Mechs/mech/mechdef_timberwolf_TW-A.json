@@ -12,12 +12,11 @@
 	  "ClanJadeFalcon",
 	  "ClanGhostBear",
 	  "unit_notsacellum",
-	  "unit_indirectFire",
       "unit_bracket_high"
     ],
     "tagSetSourceFile": ""
   },
-  "ChassisID": "chassisdef_timberwolf_TW-PRIME",
+  "ChassisID": "chassisdef_timberwolf_TW-A",
   "HeraldryID": null,
   "Description": {
     "Cost": 2789359,
@@ -25,10 +24,10 @@
     "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
-    "UIName": "Timber Wolf TW-Prime",
-    "Id": "mechdef_timberwolf_TW-PRIME",
+    "UIName": "Timber Wolf TW-A",
+    "Id": "mechdef_timberwolf_TW-A",
     "Name": "Timber Wolf",
-    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. The default configuration of the Timber Wolf features a well blended mix of energy and missile weaponry: paired ER Large and LRM-20s at range and paired ER Mediums and Machine Guns with a Medium Pulse at close range guarantee there is no safe way to approach a Timber Wolf.",
+    "Details": "The Timber Wolf is a fast, heavy OmniMech. A signature design of the Clans' military might, it was arguably the first Clan OmniMech encountered by Inner Sphere forces on The Rock in 3049 by Phelan Kell. When first encountered by Inner Sphere forces the idea that a heavy 'Mech could move so swiftly while being as heavily armed and armored as the Timber Wolf was inconceivable. Configured specifically for long range, direct fire combat, the A configuration of the Timber Wolf is armed with a pair of ER PPCs. For close combat, the A configuration has three Medium Pulse Lasers, an ER Small Laser, and a Streak SRM-6 to find any weak points in an enemy's armor.",
     "Icon": "uixTxrIcon_madcat"
   },
   "simGameMechPartCost": 2789359,
@@ -286,7 +285,7 @@
     },
     {
       "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_LargeLaserER_CLAN",
+      "ComponentDefID": "Weapon_PPC_PPCER_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -297,29 +296,7 @@
     },
     {
       "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_LargeLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
+      "ComponentDefID": "Weapon_PPC_PPCER_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -330,7 +307,7 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
+      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -340,8 +317,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_CLAN",
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -363,7 +340,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
+      "ComponentDefID": "Weapon_Laser_SmallLaserER_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -374,7 +351,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN",
+      "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -384,30 +361,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
+      "ComponentDefID": "Ammo_AmmunitionBox_Streak_SRM",
       "SimGameUID": null,
       "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
@@ -417,7 +372,40 @@
       "hasPrefabName": false
     },
 	{
-      "MountedLocation": "RightTorso",
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+	{
+      "MountedLocation": "LeftArm",
       "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",
