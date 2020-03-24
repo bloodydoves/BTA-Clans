@@ -77,7 +77,7 @@
     "MatchAllyLanceCountToEnemy": false
   },
   "ExtendedLances": {
-    "Enable": false,
+    "Enable": true,
     "Autofill": true,
     "ExcludeContractTypes": ["SoloDuel", "DuoDuel"],
     "LanceSizes": {
@@ -97,8 +97,8 @@
 	  ],
       "6": [
 		{
-        "Faction": "Comstar",
-        "DifficultyMod": -2
+			"Faction": "ComStar",
+			"DifficultyMod": -2
 		}
 	  ]
     }
