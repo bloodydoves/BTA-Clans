@@ -3,7 +3,7 @@
 30 tons: Arctic Cheetah, Incubus, Kit Fox
 35 tons: Adder, Cougar, Jenner IIC
 
-40 tons: Viper
+40 tons: Viper, Arctic Wolf
 45 tons: Ice Ferret, Shadow Cat
 50 tons: Hellhound, Hunchback IIC, Huntsman, Nova
 55 tons: Black Lanner, Stormcrow, Vapor Eagle
