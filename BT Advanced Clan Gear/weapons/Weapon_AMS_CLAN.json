@@ -14,8 +14,7 @@
         "InventorySorter": {
             "SortKey": "00025"
         }
-    }
-  ],
+    },
     "Category": "AntiPersonnel",
     "Type": "MachineGun",
     "WeaponSubType": "MachineGun",
