@@ -15,6 +15,7 @@
             "unit_vehicle",
             "unit_medium",
             "unit_hover",
+			"unit_notsacellum",
             "unit_release",
             "unit_indirectFire",
             "unit_lance_support",
