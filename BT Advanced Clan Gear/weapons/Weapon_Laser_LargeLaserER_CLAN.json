@@ -54,7 +54,7 @@
     "Purchasable": false,
     "Manufacturer": "CLAN",
     "Model": "Extended-Range Large Laser",
-    "UIName": "ER Large Laser (C)",
+    "UIName": "ER L Laser (C)",
     "Id": "Weapon_Laser_LargeLaserER_CLAN",
     "Name": "ER L Laser (C)",
     "Details": "An improvement upon standard Large Lasers, Extended-Range Large Lasers extend their effective range at the cost of massive heat generation. Like all Lasers, ER Large Lasers enjoy a baseline accuracy bonus over other weapons.",

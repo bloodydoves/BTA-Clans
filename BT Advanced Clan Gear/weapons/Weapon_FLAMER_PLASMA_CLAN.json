@@ -43,8 +43,8 @@
 	"AdditionalImpactVFXScaleZ": 1,
 	"ColorsTable" : [
 		{
-			"C":"#7CFC00"
-			,"I":5
+			"C":"#7CFC00",
+			"I":5
 		}
 	],
 	"ImprovedBallistic": true,

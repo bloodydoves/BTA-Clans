@@ -54,7 +54,7 @@
     "Purchasable": true,
     "Manufacturer": "CLAN",
     "Model": "Small Pulse Laser",
-    "UIName": "Small Pulse (C)",
+    "UIName": "S Pulse (C)",
     "Id": "Weapon_Laser_SmallLaserPulse_CLAN",
     "Name": "S Pulse (C)",
     "Details": "An improvement upon standard Small Lasers, Small Pulse Lasers use pulses of light instead of a single beam. This results in better accuracy and damage output but with greatly increased heat and weight. Like all Lasers, Small Pulse Lasers enjoy a baseline accuracy bonus over other weapons.",

@@ -54,9 +54,9 @@
     "Purchasable": true,
     "Manufacturer": "CLAN",
     "Model": "Med. ER Pulse Laser",
-    "UIName": "Med. ER Pulse (C)",
+    "UIName": "ER M Pulse Laser (C)",
     "Id": "Weapon_Laser_MediumLaserERPulse_CLAN",
-    "Name": "M ER Pulse (C)",
+    "Name": "ER M Pulse Laser (C)",
     "Details": "The technicians of Clan Wolf were interested in creating an improved pulse laser with extended range. Unlike their Inner Sphere counterparts, who simply pumped more energy into a standard pulse laser, the Wolf techs combined the best features of their Pulse and Extended range lasers to create the ER Pulse Laser family.",
     "Icon": "uixSvgIcon_weapon_Energy"
   },

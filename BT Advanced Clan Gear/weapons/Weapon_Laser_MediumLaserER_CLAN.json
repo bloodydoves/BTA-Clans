@@ -54,7 +54,7 @@
     "Purchasable": false,
     "Manufacturer": "CLAN",
     "Model": "Extended-Range Medium Laser",
-    "UIName": "ER Medium Laser (C)",
+    "UIName": "ER M Laser (C)",
     "Id": "Weapon_Laser_MediumLaserER_CLAN",
     "Name": "ER M Laser (C)",
     "Details": "An improvement upon standard Medium Lasers, Extended-Range Medium Lasers extend their effective range at the cost of considerable heat generation.",

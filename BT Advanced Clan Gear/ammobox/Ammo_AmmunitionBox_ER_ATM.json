@@ -19,14 +19,7 @@
 				"Range: +90%",
 				"ATMAmmo: 60"
 			]
-		},
-		"InventorySorter": {
-			"SortKey": "000044"
-		},
-  "TRGBColor" : { 
-    "Color" : "#63A655",
-    "SkipText": true
-  }
+		}
 	},
 	"AmmoID": "Ammunition_ATM_ER",
 	"Capacity": 60,
