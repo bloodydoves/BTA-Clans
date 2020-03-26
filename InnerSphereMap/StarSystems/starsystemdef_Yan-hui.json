@@ -1,33 +1,35 @@
 {
   "Description": {
-    "Id": "starsystemdef_Hè-shi",
-    "Name": "Hè-shì",
-    "Details": "Hè-shì was settled during the Star League era at some point after the end of the Reunification War but died out during the fighting in the Succession Wars.",
+    "Id": "starsystemdef_Yan-hui",
+    "Name": "Yàn-huì",
+    "Details": "The Yàn-huì system was colonized by the Confederation during the Star League era at some point after the end of the Reunification War, but was devastated due to the fighting during the Third Succession War.",
     "Icon": ""
   },
   "Position": {
-    "x": 190.389,
-    "y": -305.208,
+    "x": 55.622,
+    "y": -273.649,
     "z": 0
   },
   "Tags": {
     "items": [
-      "planet_name_hè-shì",
+      "planet_name_yàn-huì",
       "planet_size_small",
-      "planet_climate_water",
+      "planet_climate_mars",
+      "planet_other_volcanic",
+      "planet_feature_gasgiant",
+      "planet_feature_moon02",
+      "planet_other_moon",
       "planet_pop_none",
       "planet_civ_primitive",
       "planet_industry_poor",
-      "planet_other_pirate",
-      "planet_ruins",
       "planet_faction_nofaction",
       "planet_other_empty"
     ],
     "tagSetSourceFile": ""
   },
   "SupportedBiomes": [
-    "lowlandsCoastal",
-    "highlandsSpring"
+    "martianVacuum",
+    "badlandsParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -38,7 +40,7 @@
     "tagSetSourceFile": ""
   },
   "FuelingStation": false,
-  "JumpDistance": 7,
+  "JumpDistance": 5,
   "ownerID": "NoFaction",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
@@ -134,13 +136,13 @@
     "itemCollection_faction_TaurianConcordat"
   ],
   "BlackMarketShopItems": null,
-  "CoreSystemID": "starsystemdef_Hè-shi",
+  "CoreSystemID": "starsystemdef_Yàn-hui",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 1,
+  "DefaultDifficulty": 3,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [],
