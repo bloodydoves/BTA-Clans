@@ -1,17 +1,18 @@
 {
     "Name": "BT Advanced Core",
     "Enabled": true,
-    "Version": "4.2.2",
+    "Version": "4.5",
     "Description": "For files that have nowhere else to live and are fundamental to the modpack's functionality.",
     "DataAddendumEntries": [
 		{ "name": "BattleTech.FactionEnumeration", "path": "Faction.json" },
 		{ "name": "BattleTech.AmmoCategoryEnumeration", "path": "AmmoCategory.json" }
     ],
+	"CustomResourceTypes": ["MEBonusDescriptions", "MECriticalEffects", "CCCategories", "CCDefaults", "CCTagRestrictions", "CustomSVGIcon"],
     "DependsOn": [
-        "Merc Emblems", "BattletechPerformanceFix", "bd weapon rebalance", "Better AI",
+        "Merc Emblems", "BattletechPerformanceFix", "bd weapon rebalance", "Better AI", "BT Advanced Custom Mechs",
         "BTA Contracts", "BTA Difficulty Settings", "BT Advanced Factions", "Xtreme Advanced Gear Component",
         "BT Advanced Lances", "BT Advanced Mech Quirks", "BT Advanced Mechs", "BT Advanced Tanks", "Select Pilots BTA Edition",
-        "CBTBehaviorsEnhanced", "cFixes", "CommanderPortraitLoader", "CommunityBundles",
+        "CBTBehaviorsEnhanced", "cFixes", "CommanderPortraitLoader", "CommunityBundles", "CleverGirl", "DontShootTheDead", "CustomFilters",
         "Custom Ammo Categories", "CustomComponents", "CustomLocalization", "CustomSalvage", "CustomUnits", "CustomVoices",
         "DynamicShops", "FlashpointEnabler", "ExpandedInitiative", "FYLS", "IRTweaks", "JK_VariantsCampaign", "LessHeadInjuries",
         "Loading Screen Tips", "LogoReplacement", "MechEngineer", "MechEngineer Vanilla Mechs",
@@ -42,9 +43,11 @@
 		"More Tanks 3025", "Undebuffed Vehicles",
 		"FasterVehiclesModTek", "CareerSelectPilots", "HeadshotWeaponLimit",
 		"Galaxy at War", "MeleeMover", "Heavy Metal Plus", "Custom Mechs HM+",
-		"New Mechs HM+", "MechResizer", "The Engine Initiative"
+		"New Mechs HM+", "MechResizer", "The Engine Initiative", "Flashpoints worthwhile rewards",
+		"BetterMortar", "Elite Forces", "MASH"
 		],
     "Manifest": [
+		{ "Type": "SVGAsset", "Path": "icons", "ShouldMergeJSON" : false },
 		{ "Type": "DesignMaskDef", "Path": "designmask" },
 		{
 			"Type": "CCCategories",
