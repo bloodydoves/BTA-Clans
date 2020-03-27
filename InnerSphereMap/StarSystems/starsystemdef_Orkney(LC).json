@@ -127,13 +127,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ClanWorld",
+    "itemCollection_major_ClanWorlds",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
   "factionShopOwnerID": "ClanJadeFalcon",
   "FactionShopItems": [
-    "itemCollection_faction_ClanWorld"
+    "itemCollection_faction_ClanWorlds"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Orkney(LC)",

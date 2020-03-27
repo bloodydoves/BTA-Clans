@@ -122,11 +122,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ClanWorld"
+    "itemCollection_major_ClanWorlds"
   ],
   "factionShopOwnerID": "ClanWolf",
   "FactionShopItems": [
-    "itemCollection_faction_ClanWorld"
+    "itemCollection_faction_ClanWorlds"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Alleghe",

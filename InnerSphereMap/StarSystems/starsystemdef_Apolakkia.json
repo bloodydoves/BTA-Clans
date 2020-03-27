@@ -126,10 +126,10 @@
   "RoninHiringChance": 0,
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
-  "SystemShopItems": [   "itemCollection_major_ClanWorld"  ],
+  "SystemShopItems": [   "itemCollection_major_ClanWorlds"  ],
   "factionShopOwnerID": "ClanJadeFalcon",
   "FactionShopItems": [
-    "itemCollection_faction_ClanWorld"
+    "itemCollection_faction_ClanWorlds"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Apolakkia",
