@@ -15,15 +15,15 @@
             "unit_vehicle",
             "unit_medium",
             "unit_hover",
-			"unit_notsacellum",
+            "unit_notsacellum",
             "unit_release",
             "unit_indirectFire",
             "unit_lance_support",
             "unit_bracket_low",
             "unit_vehicle_apc",
             "ClanWolf",
-      "ClanJadeFalcon",
-      "ClanGhostBear"
+            "ClanJadeFalcon",
+            "ClanGhostBear"
         ],
         "tagSetSourceFile": ""
     },
