@@ -24,7 +24,13 @@
         ],
         "InventorySorter": {
             "SortKey": "00016"
-        }
+        },
+		"Flags": {
+			"flags": [
+				"ignore_damage",
+				"not_broken"
+			]
+		},
     },
     "DissipationCapacity": 0,
     "Description": {

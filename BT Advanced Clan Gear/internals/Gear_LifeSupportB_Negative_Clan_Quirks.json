@@ -14,7 +14,7 @@
 		},
 		"BonusDescriptions": {
 			"Bonuses": [
-				"MeleeAcc: -2"
+				"MeleeAcc: -4"
 			]
 		}
 	},
@@ -68,7 +68,7 @@
 			"Description": {
 				"Id": "ClanQuirkMelee",
 				"Name": "Clan Melee Penalty",
-				"Details": "Melee attacks have -2 Accuracy.",
+				"Details": "Melee attacks have -4 Accuracy.",
 				"Icon": "uixSvgIcon_equipment_ActuatorArm"
 			},
 			"nature": "Buff",
@@ -77,7 +77,7 @@
 				"effectsPersistAfterDestruction": false,
 				"statName": "AccuracyModifier",
 				"operation": "Float_Add",
-				"modValue": "2.0",
+				"modValue": "4.0",
 				"modType": "System.Single",
 				"additionalRules": "NotSet",
 				"targetCollection": "Weapon",

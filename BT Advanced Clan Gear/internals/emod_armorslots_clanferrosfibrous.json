@@ -33,6 +33,7 @@
         "Flags": {
             "flags": [
                 "autorepair",
+				"ignore_damage",
                 "not_broken"
             ]
         },
