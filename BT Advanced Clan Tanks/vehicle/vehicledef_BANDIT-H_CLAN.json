@@ -86,6 +86,13 @@
             "DamageLevel": "Functional"
         },
         {
+            "ComponentDefID": "Gear_TTS_AdvancedTC",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
             "ComponentDefID": "Tank_CASE_CLAN",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Rear",
