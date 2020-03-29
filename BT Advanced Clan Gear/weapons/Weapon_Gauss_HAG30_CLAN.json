@@ -5,12 +5,14 @@
     ],
     "ComponentExplosion": {
 		"ExplosionDamage": 150, 
-		"StabilityDamage": 75
+		"StabilityDamage": 30
     },
     "BonusDescriptions": {
       "Bonuses": [
         "WeaponBoom: 150",
-        "HAGR"
+        "HAGR",
+		"ExplodeStab: 30",
+		"WpnRecoil: 4"
       ]
     }
   },
@@ -41,7 +43,7 @@
   "ShotsWhenFired": 3,
   "ProjectilesPerShot": 10,
   "AttackRecoil": 4,
-  "Instability": 0.5,
+  "Instability": 1,
   "DisableClustering": false,
   "ImprovedBallistic": true,
   "BallisticDamagePerPallet": true,

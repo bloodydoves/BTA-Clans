@@ -6,8 +6,7 @@
     "BonusDescriptions": {
       "Bonuses": [
         "DFAccuracy: +1",
-        "ATM",
-        "Indirect"
+        "ATM"
       ]
     }
   },
@@ -30,7 +29,7 @@
   "EvasivePipsIgnored": 1,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": -1,
+  "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 1,
   "AOECapable": false,
   "IndirectFireCapable": true,

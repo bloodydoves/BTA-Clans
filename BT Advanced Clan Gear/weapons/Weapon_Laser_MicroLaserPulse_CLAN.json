@@ -5,7 +5,7 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "Pulse"
+        "ClanPulse"
       ]
     }
   },
@@ -25,10 +25,10 @@
   "Damage": 15,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 1,
+  "EvasivePipsIgnored": 3,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": -2,
+  "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 0.5,
   "AOECapable": false,
   "IndirectFireCapable": false,
@@ -57,7 +57,7 @@
     "UIName": "Micro Pulse (C)",
     "Id": "Weapon_Laser_MicroLaserPulse_CLAN",
     "Name": "Micro Pulse (C)",
-    "Details": "The Micro Pulse Laser was designed by Clan Smoke Jaguar (alongside the ER Micro Laser) primarily for use on their ProtoMechs. It has since spread to all the Clans.",
+    "Details": "The Micro Pulse Laser was designed by Clan Smoke Jaguar (alongside the ER Micro Laser) primarily for use on their ProtoMechs. It has since spread to all the Clans. Micro lasers do less damage and have less crit chance than normal Small Lasers, but weigh less.",
     "Icon": "uixSvgIcon_weapon_Energy"
   },
   "BonusValueA": "",
