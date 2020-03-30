@@ -5,7 +5,7 @@
 		],
         "BonusDescriptions": {
             "Bonuses": [
-                "IsMG"
+                "WpnCrits: 25%"
             ]
         }
     },
@@ -29,7 +29,7 @@
     "DamageVariance": 0,
     "HeatDamage": 0,
     "AccuracyModifier": 0,
-    "CriticalChanceMultiplier": 1.5,
+    "CriticalChanceMultiplier": 1.25,
     "AOECapable": false,
     "IndirectFireCapable": false,
     "RefireModifier": 0,

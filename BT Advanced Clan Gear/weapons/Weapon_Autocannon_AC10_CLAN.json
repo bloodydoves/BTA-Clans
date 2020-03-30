@@ -5,7 +5,10 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "Ultra"
+        "Ultra",
+		"WpnRecoil: 3",
+		"WeaponJAMFlat: 10",
+		"Refire: 3"
       ]
     }
   },
@@ -21,7 +24,7 @@
   ],
   "AmmoCategory": "UAC10",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 18,
+  "HeatGenerated": 19,
   "Damage": 60,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
@@ -32,7 +35,7 @@
   "CriticalChanceMultiplier": 1,
   "AOECapable": false,
   "IndirectFireCapable": false,
-  "RefireModifier": 4,
+  "RefireModifier": 3,
   "ShotsWhenFired": 2,
   "ProjectilesPerShot": 1,
   "AttackRecoil": 3,

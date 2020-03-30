@@ -5,6 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
+		"WpnRecoil: 1",
+		"Refire: 1",
         "LBX"
       ]
     }
@@ -21,7 +23,7 @@
   ],
   "AmmoCategory": "LBX2",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 3,
+  "HeatGenerated": 4,
   "Damage": 25,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
@@ -35,7 +37,7 @@
   "RefireModifier": 1,
   "ShotsWhenFired": 1,
   "ProjectilesPerShot": 1,
-  "AttackRecoil": 4,
+  "AttackRecoil": 1,
   "Instability": 6,
   "FireTerrainChance": 0,
   "DisableClustering": false,
