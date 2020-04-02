@@ -6,7 +6,9 @@
 		"BonusDescriptions": {
             "Bonuses": [
                 "PLASMADEBUFF: 20%",
-                "IsPlasma"
+                "IsPlasma",
+				"WpnRecoil: 2",
+				"Refire: 4"
             ]
         }
     },
@@ -26,7 +28,7 @@
     "Damage": 1,
     "EvasiveDamageMultiplier": 0,
     "EvasivePipsIgnored": 0,
-    "HeatDamage": 40,
+    "HeatDamage": 30,
     "AccuracyModifier": 0,
     "CriticalChanceMultiplier": 0.1,
     "AOECapable": false,

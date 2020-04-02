@@ -5,7 +5,8 @@
 		],
         "BonusDescriptions": {
             "Bonuses": [
-                "IsMG"
+                "WpnCrits: 25%",
+				"WpnRecoil: 1"
             ]
         }
     },
@@ -29,13 +30,13 @@
     "DamageVariance": 0,
     "HeatDamage": 0,
     "AccuracyModifier": 0,
-    "CriticalChanceMultiplier": 1.25,
+    "CriticalChanceMultiplier": 1,
     "AOECapable": false,
     "IndirectFireCapable": false,
     "RefireModifier": 1,
     "ShotsWhenFired": 4,
     "ProjectilesPerShot": 1,
-    "AttackRecoil": 0,
+    "AttackRecoil": 1,
     "Instability": 0,
     "WeaponEffectID": "WeaponEffect-Weapon_MachineGun",
     "Description": {
@@ -47,7 +48,7 @@
         "UIName": "HMG (C)",
         "Id": "Weapon_MachineGun_HEAVY_CLAN",
         "Name": "HMG (C)",
-        "Details": "As its name implies, the Heavy Machine Gun is less a Machine Gun and more like an automated Grenade Launcher. The HMG does more damage and has a better chance of penetrating and destroying critical components, but weighs twice as much, and suffers from recoil. \n\n<b><color=#ffcc00>Uses HMG Ammo.</color></b> \n\n <b><color=#00ffff>Left Click on Chance to hit during battle to switch firing mode</color> </b>",
+        "Details": "As its name implies, the Heavy Machine Gun is less a Machine Gun and more like an automated Grenade Launcher. The HMG does more damage but weighs twice as much, and suffers from recoil.",
         "Icon": "uixSvgIcon_weapon_Ballistic"
     },
     "BonusValueA": "",

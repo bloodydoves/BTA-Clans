@@ -3,6 +3,15 @@
 		"CASE": {
 			"MaximumDamage": 10
 		},
+		"Flags": {
+            "flags": [
+                "default",
+                "ignore_damage",
+                "autorepair",
+                "not_broken",
+                "no_salvage"
+            ]
+        },
 		"Category" : { 
 			"CategoryID" : "CASE" 
 		}

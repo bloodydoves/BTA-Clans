@@ -13,7 +13,7 @@
   "Type": "Laser",
   "WeaponSubType": "LargeLaser",
   "MinRange": 0,
-  "MaxRange": 800,
+  "MaxRange": 700,
   "RangeSplit": [
     200,
     400,

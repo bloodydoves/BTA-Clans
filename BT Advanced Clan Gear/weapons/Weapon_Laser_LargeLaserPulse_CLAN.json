@@ -5,7 +5,7 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "Pulse"
+        "ClanPulse"
       ]
     }
   },
@@ -22,13 +22,13 @@
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 30,
-  "Damage": 60,
+  "Damage": 55,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 2,
+  "EvasivePipsIgnored": 3,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": -1,
+  "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 1,
   "AOECapable": false,
   "IndirectFireCapable": false,

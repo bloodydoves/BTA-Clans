@@ -5,7 +5,10 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "Ultra"
+        "Ultra",
+		"WpnRecoil: 4",
+		"WeaponJAMFlat: 10",
+		"Refire: 4"
       ]
     }
   },
@@ -21,7 +24,7 @@
   ],
   "AmmoCategory": "UAC20",
   "StartingAmmoCapacity": 0,
-  "HeatGenerated": 22,
+  "HeatGenerated": 24,
   "Damage": 100,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,

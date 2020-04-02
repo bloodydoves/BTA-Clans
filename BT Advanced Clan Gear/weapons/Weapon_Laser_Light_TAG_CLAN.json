@@ -6,7 +6,8 @@
     "BonusDescriptions": {
       "Bonuses": [
         "PipsIgnored: 1",
-        "WpnAccuracy: +1"
+        "WpnAccuracy: +1",
+		"TAG: 1"
       ]
     }
   },

@@ -28,7 +28,7 @@
   "EvasivePipsIgnored": 0,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": -1,
+  "AccuracyModifier": 0,
   "CriticalChanceMultiplier": 0.5,
   "AOECapable": false,
   "IndirectFireCapable": false,
@@ -57,7 +57,7 @@
     "UIName": "ER Micro Laser (C)",
     "Id": "Weapon_Laser_MicroLaserER_CLAN",
     "Name": "ER Micro Laser (C)",
-    "Details": "The Extended-Range Micro Laser is a very compact version of conventional ER laser weaponry. This laser weapon was specifically developed by Clan Smoke Jaguar for use on very light combat units,",
+    "Details": "The Extended-Range Micro Laser is a very compact version of conventional ER laser weaponry. This laser weapon was specifically developed by Clan Smoke Jaguar for use on very light combat units. Micro lasers do less damage and have less crit chance than normal Small Lasers, but weigh less.",
     "Icon": "uixSvgIcon_weapon_Energy"
   },
   "BonusValueA": "",

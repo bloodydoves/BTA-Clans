@@ -9,8 +9,9 @@
         },
         "BonusDescriptions": {
             "Bonuses": [
-                "AOEOnly",
+                "NoSelfHarm",
                 "AreaOfEffect: 60",
+				"AreaOfEffectDmg: 10",
                 "PipsIgnored: 6",
                 "InternalAmmo: 1"
 			]

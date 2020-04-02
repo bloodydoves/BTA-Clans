@@ -28,7 +28,7 @@
   "EvasivePipsIgnored": 0,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": 2,
+  "AccuracyModifier": 3,
   "CriticalChanceMultiplier": 0.5,
   "AOECapable": false,
   "IndirectFireCapable": false,
@@ -57,7 +57,7 @@
     "UIName": "Heavy L Laser (C)",
     "Id": "Weapon_Laser_HeavyLargeLaser_CLAN",
     "Name": "Heavy L Laser (C)",
-    "Details": "Clan Star Adder developed the Heavy Lasers to deal more damage, but with an increased heat output. In addition, interference with a BattleMech's sensors means that a Heavy Large Laser is penalized with a +2 to-hit modifier.",
+    "Details": "Clan Star Adder developed the Heavy Lasers to deal more damage, but with an increased heat output. In addition, interference with a BattleMech's sensors means that a Heavy Large Laser is penalized with a +3 to-hit modifier.",
     "Icon": "uixSvgIcon_weapon_Energy"
   },
   "BonusValueA": "Inaccurate",

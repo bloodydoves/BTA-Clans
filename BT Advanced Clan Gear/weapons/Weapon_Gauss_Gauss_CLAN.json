@@ -9,8 +9,9 @@
     },
     "BonusDescriptions": {
       "Bonuses": [
-        "IsGauss",
-        "WeaponBoom: 75"
+        "WeaponBoom: 75",
+		"ExplodeStab: 18",
+		"WpnRecoil: 4"
       ]
     }
   },
