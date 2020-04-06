@@ -26,6 +26,8 @@
 		{ "CategoryID" : "LegLowerActuator", "Type" : "Upgrade", "DefID" : "emod_leg_lower", "Location" : "RightLeg", "AnyLocation" : false },
 		{ "CategoryID" : "LegFootActuator", "Type" : "Upgrade", "DefID" : "emod_leg_foot", "Location" : "RightLeg", "AnyLocation" : false },
 		
+		{ "Tag": "RoyalMech", "CategoryID": "LifeSupportB", "Type": "Upgrade", "DefID": "Gear_Quirk_Royal_BattleMechs", "Location": "Head" },
+		
 		{ "Tag": "ClanMech", "CategoryID": "Armor", "Type": "Upgrade", "DefID": "emod_armorslots_clstandard", "Location": "CenterTorso" },
 		{ "Tag": "ClanMech", "CategoryID" : "LifeSupportA", "Type" : "Upgrade", "DefID" : "Gear_LifeSupportA_Positive_Clan_Quirks", "Location" : "Head" },
 		{ "Tag": "ClanMech", "CategoryID" : "LifeSupportB", "Type" : "Upgrade", "DefID" : "Gear_LifeSupportB_Negative_Clan_Quirks", "Location" : "Head" }
