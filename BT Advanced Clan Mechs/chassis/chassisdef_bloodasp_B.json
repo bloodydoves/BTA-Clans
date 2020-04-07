@@ -208,6 +208,14 @@
         {
           "WeaponMount": "Ballistic",
           "Omni": true
+        },
+		{
+          "WeaponMount": "Ballistic",
+          "Omni": true
+        },
+		{
+          "WeaponMount": "Ballistic",
+          "Omni": true
         }
       ],
       "Tonnage": 0,
