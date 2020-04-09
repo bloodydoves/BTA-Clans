@@ -129,15 +129,6 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_structureslots_clanendosteel",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": -1,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_engine_315",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",
