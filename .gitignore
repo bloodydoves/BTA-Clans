@@ -1,5 +1,9 @@
 
 modstate.json
-BTJsonIDCheck.exe
-Newtonsoft.Json.dll
-BTJsonIDCheck.log
+BattletechPerformanceFix.log
+desktop.ini
+
+#Exlude Wulfbanes mess
+BT Advanced Events/events_Debug
+BT Advanced Events/.vs
+BT Advanced Events/ToDo.txt
