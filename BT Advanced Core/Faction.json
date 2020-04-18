@@ -1213,7 +1213,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1233,7 +1233,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1299,7 +1299,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1319,7 +1319,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1339,7 +1339,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1359,7 +1359,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1379,7 +1379,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1422,7 +1422,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1442,7 +1442,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1462,7 +1462,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1505,7 +1505,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1525,7 +1525,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1545,7 +1545,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1565,7 +1565,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1585,7 +1585,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1605,7 +1605,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1671,7 +1671,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1714,7 +1714,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1734,7 +1734,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1777,7 +1777,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1820,7 +1820,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1909,7 +1909,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
@@ -1929,7 +1929,7 @@
 			"CanAlly" : false,
 			"IsProceduralContractFaction" : false,
 			"IsCareerScoringFaction" : false,
-			"IsCareerIgnoredContractTarget" : false,
+			"IsCareerIgnoredContractTarget" : true,
 			"IsCareerStartingDisplayFaction" : false,
 			"IsStoryStartingDisplayFaction" : false,
 			"HasAIBehaviorVariableScope" : false
