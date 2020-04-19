@@ -15,7 +15,7 @@
   "factionStoreColor" : null,
   "DefaultCombatLeaderCastDefId": "castDef_DariusDefault",
   "DefaultRepresentativeCastDefId": "castDef_DariusDefault",
-  "HeraldryDefId": "heraldrydef_random",
+  "heraldryDefId": "heraldrydef_random",
   "ReputationStatements": [
     "I'd prefer to be working for a paying client, but sometimes we get jobs we just can't refuse, Commander.",
     "I'd prefer to be working for a paying client, but sometimes we get jobs we just can't refuse, Commander.",

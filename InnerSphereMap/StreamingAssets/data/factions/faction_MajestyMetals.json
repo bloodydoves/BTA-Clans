@@ -13,7 +13,7 @@
   "icon" : "uixTxrLogo_MajestyMetals",
   "DefaultCombatLeaderCastDefId": "castDef_SE02_OpForDefault",
   "DefaultRepresentativeCastDefId": "castDef_SE02_OpForDefault",
-  "HeraldryDefId": "heraldrydef_MajestyMetals",
+  "heraldryDefId": "heraldrydef_MajestyMetals",
   "ReputationStatements": [
     "We've heard you're a competent mercenary. We've been having some trouble lately, and if you could resolve it for us, we'll ensure you're paid well. If not, so be it.",
     "We've heard you're a competent mercenary. We've been having some trouble lately, and if you could resolve it for us, we'll ensure you're paid well. If not, so be it.",

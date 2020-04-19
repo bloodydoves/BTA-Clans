@@ -20,7 +20,7 @@
   "factionMapColor" : "rgba(191,41,41,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_KameaDefault",
   "DefaultRepresentativeCastDefId": "castDef_KameaDefault",
-  "HeraldryDefId": "heraldrydef_restoration",
+  "heraldryDefId": "heraldrydef_restoration",
   "ReputationStatements": [
     "Where did we go wrong? What turned you against us? Was it money? Power? We can offer those. As far as you've drifted from us, we still know your value as a mercenary. Please, accept this offer and aid us.",
     "I mourn our friendship of old, Commander. I don't know what led you away from us, but for the sake of our old allegiance, the Restoration offers you this contract. Please… come back to us.",
