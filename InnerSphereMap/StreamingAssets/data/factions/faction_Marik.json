@@ -25,7 +25,7 @@
   "factionMapColor" : "rgba(200,146,255,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_MarikDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_MarikRepDefault",
-  "HeraldryDefId": "heraldrydef_marik",
+  "heraldryDefId": "heraldrydef_marik",
   "ReputationStatements": [
     "I don't know why we bother offering you contracts, to be perfectly honest. It's obvious you're not a friend to the Free Worlds League. Regardless, we find ourselves in desperate times, so we have to scrape the bottom of the barrel.",
     "Greetings, mercenary. Lowly and despicable though you may be, you may yet serve our interests. Finish this job, and we may look upon you with more favor than you likely deserve.",

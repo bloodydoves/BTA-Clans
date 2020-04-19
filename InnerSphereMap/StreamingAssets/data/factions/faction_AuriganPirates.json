@@ -19,7 +19,7 @@
   "factionStoreColor" : null,
   "DefaultCombatLeaderCastDefId": "castDef_PirateDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_PirateDefault",
-  "HeraldryDefId": "heraldrydef_pirate",
+  "heraldryDefId": "heraldrydef_pirate",
   "ReputationStatements": [
     "You wanna get paid, don't you? Take this job, and we all end up with more money. You've nothing to lose.",
     "You wanna get paid, don't you? Take this job, and we all end up with more money. You've nothing to lose.",

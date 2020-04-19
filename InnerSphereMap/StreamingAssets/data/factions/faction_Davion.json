@@ -25,7 +25,7 @@
   "factionMapColor" : "rgba(255,220,107,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_DavionDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_DavionRepDefault",
-  "HeraldryDefId": "heraldrydef_davion",
+  "heraldryDefId": "heraldrydef_davion",
   "ReputationStatements": [
     "We have a job for you, Mercenary scum. As distasteful as that is to us.",
     "Mercenary though you may be, you seem effective enough. House Davion has need of your skills, Commander.",

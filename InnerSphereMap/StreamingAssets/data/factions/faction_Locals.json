@@ -22,7 +22,7 @@
   "factionMapBorderOverrideColor" : "rgba(0,0,0,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
   "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
-  "HeraldryDefId": "heraldrydef_random",
+  "heraldryDefId": "heraldrydef_random",
   "ReputationStatements": [
     "We've heard you're a competent mercenary. We've been having some trouble lately, and if you could resolve it for us, we'll ensure you're paid well. If not, so be it.",
     "We've heard you're a competent mercenary. We've been having some trouble lately, and if you could resolve it for us, we'll ensure you're paid well. If not, so be it.",

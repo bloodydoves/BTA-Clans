@@ -57,7 +57,7 @@
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_Valkyrate",
     "DefaultRepresentativeCastDefId": "castDef_Valkyrate",
-    "HeraldryDefId": "heraldrydef_Valkyrate",
+    "heraldryDefId": "heraldrydef_Valkyrate",
     "ReputationStatements": [
         "You wanna get paid, don't you? Take this job, and we all end up with more money. You've nothing to lose.",
         "Mercenary, we got a Job for you and Money to waste. Do this and you will be compensated above your station.",
