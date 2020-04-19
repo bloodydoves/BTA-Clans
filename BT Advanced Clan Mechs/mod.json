@@ -10,6 +10,6 @@
 		{ "Type": "ChassisDef", "Path": "chassis", "AddToDB": true },
 		{ "Type": "MechDef", "Path": "mech", "AddToDB": true },
 		{ "Type": "MovementCapabilitiesDef", "Path": "move" },
-        { "Type": "Sprite", "Path": "portraits" },
+        { "Type": "Sprite", "Path": "portraits" }
     ]
 }

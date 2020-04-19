@@ -85,7 +85,7 @@
   "Description": {
     "Cost": 9237800,
     "Rarity": 1,
-    "Purchasable": false,
+    "Purchasable": true,
     "Manufacturer": "",
     "Model": "",
     "UIName": "Nova Cat",

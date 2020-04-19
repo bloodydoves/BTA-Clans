@@ -14,7 +14,7 @@
             "DamageLevel": "Functional", 
             "prefabName": null, 
             "hasPrefabName": false
-        }, 
+        }
 	],
   "Description": {
     "Cost": 3000000,
