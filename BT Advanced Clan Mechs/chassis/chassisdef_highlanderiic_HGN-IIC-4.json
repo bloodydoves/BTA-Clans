@@ -15,7 +15,7 @@
     "Description": {
         "Cost": 14182750, 
         "Rarity": 5, 
-        "Purchasable": false, 
+        "Purchasable": true, 
         "Manufacturer": "", 
         "Model": "", 
         "UIName": "Highlander IIC", 
