@@ -57,7 +57,7 @@
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
     "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
-    "HeraldryDefId": "heraldrydef_WordOfBlake",
+    "heraldryDefId": "heraldrydef_WordOfBlake",
     "ReputationStatements": [
         "Greetings, Seeker. Blakes Peace needs to be spread.",
         "Mercenary, we got a Job for you and Money to waste. Do this and you will be compensated above your station.",

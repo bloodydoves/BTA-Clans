@@ -1,6 +1,6 @@
 {
   "ID": "faction_MagistracyCentrella",
-  "Name": "the Magistracy of Canopus",
+  "Name": "the Magistracy of Centrella",
   "ShortName": "the Magistracy",
   "Demonym": "Canopian",
   "Government": "Magistracy",
@@ -20,7 +20,7 @@
   "icon" : "uixTxrLogo_MagistracyCentrella",
   "DefaultCombatLeaderCastDefId": "castDef_CentrellaDefault",
   "DefaultRepresentativeCastDefId": "castDef_CentrellaDefault",
-  "HeraldryDefId": "heraldrydef_canopus",
+  "heraldryDefId": "heraldrydef_canopus",
   "ReputationStatements": [
     "I don't know why we bother with you, Mercenary. Perhaps my superiors are desperate. Regardless, they've seen fit to offer you this contract against my better judgement, Accept it or don't, it doesn't matter to me.",
     "You may be a disgrace and a scoundrel, but you're one of the only mercenaries in the area. Apparently the Magistracy has seen fit to offer you this contract despite my protests. Don't make us regret this.",

@@ -13,7 +13,7 @@
   "icon" : "uixTxrLogo_Nautilus",
   "DefaultCombatLeaderCastDefId": "castDef_SE06_SLDFArmoryComputerDefault",
   "DefaultRepresentativeCastDefId": "castDef_SE06_SLDFArmoryComputerDefault",
-  "HeraldryDefId": "heraldrydef_nautilus",
+  "heraldryDefId": "heraldrydef_nautilus",
   "ReputationStatements": [
     "Even ComStar occasionally requires the services of mercenaries, Commander. We will look highly upon you, should you aid us.",
     "Even ComStar occasionally requires the services of mercenaries, Commander. We will look highly upon you, should you aid us.",

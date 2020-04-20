@@ -26,7 +26,7 @@
   "factionMapColor" : "rgba(65,105,225,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_SteinerDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_SteinerRepDefault",
-  "HeraldryDefId": "heraldrydef_steiner",
+  "heraldryDefId": "heraldrydef_steiner",
   "ReputationStatements": [
     "You know the rule of war, don't you? 'Money can buy anything except honor.' While you have none of the latter, we have plenty of the former. Fight like the dog of war you are, and we may overlook your past transgressions.",
     "You know what I love best about mercenaries? You're willing to wade into battle when it's too dangerous for us to risk our own soldiers. So take the job, MechWarrior—fight and die for money, as is your role.",

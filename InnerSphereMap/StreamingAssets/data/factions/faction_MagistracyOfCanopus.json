@@ -21,7 +21,7 @@
   "factionMapColor" : "rgba(69,255,240,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_MagistracyDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_MagistracyRepDefault",
-  "HeraldryDefId": "heraldrydef_canopus",
+  "heraldryDefId": "heraldrydef_canopus",
   "ReputationStatements": [
     "I don't know why we bother with you, mercenary. Perhaps my superiors are desperate. Regardless, they've seen fit to offer you this contract against my better judgment. Accept it or don't, it doesn't matter to me.",
     "You may be a disgrace and a scoundrel, but you're one of the only mercenaries in the area. Apparently the Magistracy has seen fit to offer you this contract despite my protests. Don't make us regret this.",

@@ -23,7 +23,7 @@
   "factionMapColor" : "rgba(220,20,60,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_KuritaDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_KuritaRepDefault",
-  "HeraldryDefId": "heraldrydef_kurita",
+  "heraldryDefId": "heraldrydef_kurita",
   "ReputationStatements": [
     "Despicable as you are, House Kurita can still find a use for your services. Attend, Commander: your betters have need of you.",
     "You work for pay, do you not? House Kurita has plenty of money for you, mercenary. Simply be quick and efficient about it—we have little time for your kind.",
