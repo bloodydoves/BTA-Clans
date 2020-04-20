@@ -10,7 +10,7 @@
 					"Name": "Clan",
 					"TelemetryEventDesc": "",
 					"DifficultyValue": 0,
-					"CareerScoreModifier": 0.2,
+					"CareerScoreModifier": 0.5,
 					"DifficultyConstants": [
 						{
 							"ConstantType": "CareerMode",
