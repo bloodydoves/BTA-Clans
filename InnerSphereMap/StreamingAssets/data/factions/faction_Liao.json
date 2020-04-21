@@ -22,10 +22,10 @@
   "factionID" : "Liao",
   "icon" : "uixTxrLogo_Liao",
   "factionStoreColor" : "rgba(30,39,27,1.0)",
-  "factionMapColor" : "rgba(208,255,144,1.0)",
+  "factionMapColor" : "rgba(0,179,60,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_LiaoDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_LiaoRepDefault",
-  "heraldryDefId": "heraldrydef_liao",
+  "HeraldryDefId": "heraldrydef_liao",
 
   "ReputationStatements": [
     "In desperate times, even the mighty must resort to hiring those such as you. This is a kindness we do to you, mercenary: you serve your betters.",
