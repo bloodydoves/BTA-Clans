@@ -141,7 +141,7 @@
         "itemCollection_shop_manufacturing"
   ],
   "factionShopOwnerID": "INVALID_UNSET",
-  "FactionShopItems": null
+  "FactionShopItems": null,
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Zhaomaon(CluffsStand3130+)",
   "StartingSystemModes": [
