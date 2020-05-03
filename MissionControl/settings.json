@@ -8,6 +8,7 @@
     "ExcludeContractTypes": [
 			"SoloDuel",
 			"DuoDuel",
+			"DefendBase",
 			"Story_1A_Retreat",
 			"Story_1B_Retreat",
 			"Story_2_ThreeYearsLater",
@@ -42,6 +43,7 @@
     "ExcludeContractTypes": [
 			"SoloDuel",
 			"DuoDuel",
+			"DefendBase",
 			"Story_1A_Retreat",
 			"Story_1B_Retreat",
 			"Story_2_ThreeYearsLater",
