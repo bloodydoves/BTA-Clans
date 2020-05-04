@@ -13,16 +13,16 @@
   "Type": "Laser",
   "WeaponSubType": "SmallLaser",
   "MinRange": 0,
-  "MaxRange": 90,
+  "MaxRange": 110,
   "RangeSplit": [
-    30,
-    50,
-    70
+    40,
+    60,
+    80
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 6,
-  "Damage": 20,
+  "Damage": 25,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 3,

@@ -213,7 +213,9 @@
   ],
   "VariantName": "MAD-IIC-8",
   "ChassisTags": {
-    "items": [],
+    "items": [
+		"ClanMech"
+	],
     "tagSetSourceFile": ""
   },
   "StockRole": "Second-Line Assault",
