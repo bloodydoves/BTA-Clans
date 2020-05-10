@@ -187,12 +187,7 @@
     "Locations": [
         {
             "Location": "Head", 
-            "Hardpoints": [
-                {
-                    "Omni": false, 
-                    "WeaponMount": "AntiPersonnel"
-                }
-            ], 
+            "Hardpoints": [], 
             "Tonnage": 0, 
             "InventorySlots": 6, 
             "MaxArmor": 45, 
@@ -285,11 +280,11 @@
             "Hardpoints": [
                 {
                     "Omni": false, 
-                    "WeaponMount": "AntiPersonnel"
+                    "WeaponMount": "Ballistic"
                 }, 
                 {
                     "Omni": false, 
-                    "WeaponMount": "AntiPersonnel"
+                    "WeaponMount": "Ballistic"
                 }
             ], 
             "Tonnage": 0, 
@@ -303,11 +298,11 @@
             "Hardpoints": [
                 {
                     "Omni": false, 
-                    "WeaponMount": "AntiPersonnel"
+                    "WeaponMount": "Ballistic"
                 }, 
                 {
                     "Omni": false, 
-                    "WeaponMount": "AntiPersonnel"
+                    "WeaponMount": "Ballistic"
                 }
             ], 
             "Tonnage": 0, 
