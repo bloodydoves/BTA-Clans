@@ -34,7 +34,7 @@
     "BadFaithFailureStatements": [
         "I have half a mind to enslave you and your company for failing to complete any of the objectives.  Leave my presence before I change my mind."
     ],
-    "Description": "The Marian Hegemony is an expansionist periphery faction who's government and military are based on the ancient Terran Roman Empire.",
+    "Description": "The Marian Hegemony is an expansionist periphery faction whose government and military are based on the ancient Terran Roman Empire.",
     "factionID": "Marian",
     "icon": "uixTxrLogo_Marian",
     "factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
