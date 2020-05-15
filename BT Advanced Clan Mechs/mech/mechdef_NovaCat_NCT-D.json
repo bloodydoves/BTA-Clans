@@ -439,15 +439,6 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
-      "SimGameUID": "",
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
-      "DamageLevel": "Functional",
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "LeftArm",
       "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
       "SimGameUID": "",
