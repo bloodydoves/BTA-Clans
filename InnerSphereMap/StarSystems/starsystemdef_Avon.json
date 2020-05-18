@@ -34,7 +34,8 @@
     "tagSetSourceFile": ""
   },
   "SupportedBiomes": [
-    "jungleTropical"
+    "jungleTropical",
+	"desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
