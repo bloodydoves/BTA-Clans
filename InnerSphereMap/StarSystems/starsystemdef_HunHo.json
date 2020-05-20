@@ -36,7 +36,8 @@
   },
   "SupportedBiomes": [
     "jungleTropical",
-    "urbanHighTech"
+    "urbanHighTech",
+    "desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
