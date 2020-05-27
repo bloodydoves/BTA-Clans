@@ -14,7 +14,7 @@
 	"MovementCapDefID": "movedef_commando_COM-2D",
 	"PathingCapDefID": "pathingdef_light",
 	"HardpointDataDefID": "hardpointdatadef_locustiic",
-	"PrefabIdentifier": "chrprfmech_locustiicBase-001",
+	"PrefabIdentifier": "chrprfmech_locustiicbase-001",
 	"PrefabBase": "locustiic",
 	"Tonnage": 25,
 	"InitialTonnage": 2.5,
