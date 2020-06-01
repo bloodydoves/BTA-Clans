@@ -21,7 +21,7 @@
   "Description": {
     "Cost": 1847560,
     "Rarity": 1,
-    "Purchasable": false,
+    "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
     "UIName": "Nova Cat NCT-B",
@@ -107,15 +107,6 @@
     }
   ],
   "inventory": [
-    {
-      "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_armorslots_clstandard",
-      "SimGameUID": "",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": -1,
-      "DamageLevel": "Functional",
-      "hasPrefabName": false
-    },
     {
       "MountedLocation": "Head",
       "ComponentDefID": "Gear_Cockpit_Generic_Standard",
