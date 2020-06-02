@@ -46,7 +46,7 @@
 	"ImprovedBallistic": true,
 	"BallisticDamagePerPallet": true,
 	"AlternateDamageCalc": true,
-	"preFireSFX": "AudioEventList_ac10_ac10_cannon",
+	"preFireSFX": "AudioEventList_ac10_ac10_auto_single",
 	"WeaponEffectID": "WeaponEffect-Weapon_LB10X",
 	"Description": {
 		"Cost": 491400,
