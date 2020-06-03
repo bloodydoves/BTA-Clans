@@ -128,7 +128,9 @@
   "MaxContractOverride": 0,
   "SystemShopItems": [],
   "factionShopOwnerID": "SelfEmployed",
-  "FactionShopItems": [],
+  "FactionShopItems": [
+    "itemCollection_faction_Rezak"
+  ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RezaksHole",
   "StartingSystemModes": [
