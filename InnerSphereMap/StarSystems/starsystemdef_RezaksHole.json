@@ -21,7 +21,8 @@
       "planet_industry_recreation",
       "planet_other_blackmarket",
       "planet_other_pirate",
-      "planet_faction_locals"
+      "planet_faction_locals",
+	  "planet_pirate_lord"
     ],
     "tagSetSourceFile": ""
   },
@@ -39,7 +40,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 7,
-  "ownerID": "Locals",
+  "ownerID": "SelfEmployed",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -106,7 +107,8 @@
       "Scope": "Company",
       "RequirementTags": {
         "items": [
-          "map_travel_2a"
+          "map_travel_2a",
+		  "pirate_lord"
         ],
         "tagSetSourceFile": ""
       },
@@ -125,8 +127,10 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [],
-  "factionShopOwnerID": "Locals",
-  "FactionShopItems": [],
+  "factionShopOwnerID": "SelfEmployed",
+  "FactionShopItems": [
+    "itemCollection_faction_Rezak"
+  ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RezaksHole",
   "StartingSystemModes": [
@@ -134,14 +138,9 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 2,
+  "DefaultDifficulty": 10,
   "DifficultyList": [],
   "DifficultyModes": [],
-  "contractEmployerIDs": [
-    "Locals"
-  ],
-  "contractTargetIDs": [
-    "Kurita",
-    "Outworld"
-  ]
+  "contractEmployerIDs": [],
+  "contractTargetIDs": []
 }
