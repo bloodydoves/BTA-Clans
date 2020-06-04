@@ -107,7 +107,8 @@
       "Scope": "Company",
       "RequirementTags": {
         "items": [
-          "map_travel_2a"
+          "map_travel_2a",
+		  "pirate_lord"
         ],
         "tagSetSourceFile": ""
       },
@@ -127,7 +128,9 @@
   "MaxContractOverride": 0,
   "SystemShopItems": [],
   "factionShopOwnerID": "SelfEmployed",
-  "FactionShopItems": [],
+  "FactionShopItems": [
+    "itemCollection_faction_Rezak"
+  ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RezaksHole",
   "StartingSystemModes": [
