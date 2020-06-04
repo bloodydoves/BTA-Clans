@@ -19,7 +19,6 @@
       "planet_feature_asteroids",
       "planet_pop_none",
       "planet_industry_recreation",
-      "planet_other_blackmarket",
       "planet_other_pirate",
       "planet_faction_locals",
 	  "planet_pirate_lord"
@@ -126,11 +125,11 @@
   "RoninHiringChance": 0,
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
-  "SystemShopItems": [],
-  "factionShopOwnerID": "SelfEmployed",
-  "FactionShopItems": [
-    "itemCollection_faction_Rezak"
+  "SystemShopItems": [
+	"itemCollection_faction_Rezak"
   ],
+  "factionShopOwnerID": "SelfEmployed",
+  "FactionShopItems": [],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RezaksHole",
   "StartingSystemModes": [
