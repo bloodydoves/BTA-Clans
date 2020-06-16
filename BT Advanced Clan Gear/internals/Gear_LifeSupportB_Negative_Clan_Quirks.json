@@ -76,8 +76,8 @@
 				"appliesEachTick": false,
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_Charge_Attack_Mod",
-				"operation": "Float_Add",
-				"modValue": "4.0",
+				"operation": "Add",
+				"modValue": "-4.0",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
@@ -122,8 +122,8 @@
 				"appliesEachTick": false,
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_DFA_Attack_Mod",
-				"operation": "Float_Add",
-				"modValue": "4.0",
+				"operation": "Add",
+				"modValue": "-4.0",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
@@ -168,8 +168,8 @@
 				"appliesEachTick": false,
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_Kick_Attack_Mod",
-				"operation": "Float_Add",
-				"modValue": "4.0",
+				"operation": "Add",
+				"modValue": "-4.0",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
@@ -214,8 +214,8 @@
 				"appliesEachTick": false,
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_Punch_Attack_Mod",
-				"operation": "Float_Add",
-				"modValue": "4.0",
+				"operation": "Add",
+				"modValue": "-4.0",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
