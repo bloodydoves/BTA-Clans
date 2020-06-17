@@ -5,7 +5,12 @@
 				"DFADamageBonus: +22%",
 				"KickDamageBonus: +22%"
             ]
-        }
+        },
+		"Category": [
+			{
+				"CategoryID": "LegFootActuator"
+			}
+		],
 	},
     "StatName" : null,
     "RelativeModifier" : 0,
