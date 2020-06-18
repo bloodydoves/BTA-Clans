@@ -14,7 +14,7 @@
 		},
 		"BonusDescriptions": {
 			"Bonuses": [
-				"MeleeAcc: -4"
+				"MeleeAcc: -10"
 			]
 		}
 	},
@@ -77,7 +77,7 @@
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_Charge_Attack_Mod",
 				"operation": "Int_Add",
-				"modValue": "4",
+				"modValue": "20",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
@@ -123,7 +123,7 @@
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_DFA_Attack_Mod",
 				"operation": "Int_Add",
-				"modValue": "4",
+				"modValue": "10",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
@@ -169,7 +169,7 @@
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_Kick_Attack_Mod",
 				"operation": "Int_Add",
-				"modValue": "4",
+				"modValue": "10",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
@@ -215,7 +215,7 @@
 				"effectsPersistAfterDestruction": false,
 				"statName": "CBTBE_Punch_Attack_Mod",
 				"operation": "Int_Add",
-				"modValue": "4",
+				"modValue": "10",
 				"modType": "System.Int32",
 				"additionalRules": "NotSet"
 			},
