@@ -140,7 +140,7 @@
         "itemCollection_MechParts_RestoTyrlon",
         "itemCollection_shop_manufacturingProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],
