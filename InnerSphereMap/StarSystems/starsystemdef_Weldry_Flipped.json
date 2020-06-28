@@ -132,7 +132,7 @@
         "itemCollection_MechParts_RestoWeldry",
         "itemCollection_shop_manufacturingProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],

@@ -139,7 +139,7 @@
     "itemCollection_major_AuriganDirectorate",
     "itemCollection_shop_battlefield"
   ],
-  "factionShopOwnerID": "INVALID_UNSET",
+  "factionShopOwnerID": "AuriganRestoration",
   "FactionShopItems": null,
   "BlackMarketShopItems": [
     "itemCollection_faction_AuriganPirates"

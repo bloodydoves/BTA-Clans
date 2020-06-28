@@ -139,7 +139,7 @@
         "itemCollection_MechParts_RestoPanzyr",
         "itemCollection_shop_battlefieldProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],

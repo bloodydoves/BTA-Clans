@@ -128,7 +128,7 @@
         "itemCollection_shop_electronics",
         "itemCollection_shop_electronicsProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],
