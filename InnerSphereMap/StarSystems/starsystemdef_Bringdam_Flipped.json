@@ -134,7 +134,7 @@
         "itemCollection_shop_battlefield",
         "itemCollection_shop_battlefieldProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],

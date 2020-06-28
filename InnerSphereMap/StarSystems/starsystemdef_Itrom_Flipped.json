@@ -141,7 +141,7 @@
         "itemCollection_MechParts_RestoItrom",
         "itemCollection_shop_battlefieldProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],

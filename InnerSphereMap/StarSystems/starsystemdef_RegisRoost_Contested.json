@@ -132,7 +132,7 @@
   "SystemShopItems": [
     "itemCollection_minor_AuriganDirectorate"
   ],
-  "factionShopOwnerID": "INVALID_UNSET",
+  "factionShopOwnerID": "AuriganRestoration",
   "FactionShopItems": null,
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RegisRoost",

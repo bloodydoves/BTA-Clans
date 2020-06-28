@@ -142,7 +142,7 @@
         "itemCollection_shop_research",
         "itemCollection_shop_researchProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
 		"itemCollection_faction_AuriganRestoration",
 	],
