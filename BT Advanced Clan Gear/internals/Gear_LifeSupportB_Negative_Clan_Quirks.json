@@ -68,7 +68,7 @@
 			"Description": {
 				"Id": "ClanQuirkMelee",
 				"Name": "Clan Melee Penalty",
-				"Details": "Charge attacks have -4 Accuracy.",
+				"Details": "Charge attacks have -40 Accuracy.",
 				"Icon": "uixSvgIcon_equipment_ActuatorArm"
 			},
 			"nature": "Buff",
@@ -114,7 +114,7 @@
 			"Description": {
 				"Id": "ClanQuirkMelee",
 				"Name": "Clan Melee Penalty",
-				"Details": "DFA attacks have -4 Accuracy.",
+				"Details": "DFA attacks have -30 Accuracy.",
 				"Icon": "uixSvgIcon_equipment_ActuatorArm"
 			},
 			"nature": "Buff",
@@ -160,7 +160,7 @@
 			"Description": {
 				"Id": "ClanQuirkMelee",
 				"Name": "Clan Melee Penalty",
-				"Details": "Kick attacks have -4 Accuracy.",
+				"Details": "Kick attacks have -30 Accuracy.",
 				"Icon": "uixSvgIcon_equipment_ActuatorArm"
 			},
 			"nature": "Buff",
@@ -206,7 +206,7 @@
 			"Description": {
 				"Id": "ClanQuirkMelee",
 				"Name": "Clan Melee Penalty",
-				"Details": "Punch attacks have -4 Accuracy.",
+				"Details": "Punch attacks have -30 Accuracy.",
 				"Icon": "uixSvgIcon_equipment_ActuatorArm"
 			},
 			"nature": "Buff",
