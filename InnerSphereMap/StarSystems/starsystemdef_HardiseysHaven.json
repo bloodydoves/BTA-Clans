@@ -158,7 +158,8 @@
     "Locals"
   ],
   "contractTargetIDs": [
-    "Steiner",
+    "Locals",
+	"Steiner",
     "Marik",
     "Marian",
 	"Rim",

@@ -130,7 +130,7 @@
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "ClanHellsHorses",
+  "factionShopOwnerID": "Outworld",
   "FactionShopItems": [
     "itemCollection_faction_Outworld"
   ],
@@ -149,6 +149,7 @@
     "Locals"
   ],
   "contractTargetIDs": [
+    "Locals",
     "Kurita",
     "Davion",
     "Tortuga",
