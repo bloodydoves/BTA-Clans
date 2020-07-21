@@ -39,7 +39,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engineslots_standad_center",
+      "ComponentDefID": "emod_engineslots_std_center",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
