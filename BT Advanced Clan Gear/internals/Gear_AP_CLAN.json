@@ -113,7 +113,7 @@
 	],
     "ComponentTags": {
         "items": [
-            "component_type_stock"
+            "component_type_stock",
             "lv-probe_m2"
         ],
         "tagSetSourceFile": ""
