@@ -158,6 +158,7 @@
     "AuriganPirates"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "AuriganDirectorate"
   ]

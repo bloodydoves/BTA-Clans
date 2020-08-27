@@ -160,6 +160,7 @@
     "TaurianConcordat"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "Liao",
     "TaurianConcordat",
