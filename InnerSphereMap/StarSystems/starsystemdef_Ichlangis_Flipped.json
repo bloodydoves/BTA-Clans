@@ -132,7 +132,7 @@
     ],
     "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
-		"itemCollection_faction_AuriganRestoration",
+		"itemCollection_faction_AuriganRestoration"
 	],
     "BlackMarketShopItems": [
         "itemCollection_faction_AuriganPirates"
