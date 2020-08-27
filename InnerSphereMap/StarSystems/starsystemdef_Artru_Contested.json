@@ -146,6 +146,7 @@
     "ComStar"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "TaurianConcordat",
     "AuriganDirectorate"

@@ -152,6 +152,7 @@
     "TaurianConcordat"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "TaurianConcordat",
     "AuriganDirectorate"
