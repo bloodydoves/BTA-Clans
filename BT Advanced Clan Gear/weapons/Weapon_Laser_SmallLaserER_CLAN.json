@@ -5,7 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "ERLaser"
+        "PipsIgnored: 1",
+		"WpnCrits: 50%"
       ]
     }
   },

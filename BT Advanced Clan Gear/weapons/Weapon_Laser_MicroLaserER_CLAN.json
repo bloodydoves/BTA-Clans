@@ -13,11 +13,11 @@
   "Type": "Laser",
   "WeaponSubType": "SmallLaser",
   "MinRange": 0,
-  "MaxRange": 60,
+  "MaxRange": 80,
   "RangeSplit": [
-    30,
     40,
-    50
+    60,
+    70
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
