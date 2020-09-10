@@ -126,9 +126,9 @@
         "itemCollection_minor_AuriganRestoration",
         "itemCollection_shop_starleague"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
-		"itemCollection_faction_AuriganRestoration",
+		"itemCollection_faction_AuriganRestoration"
 	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Artru",
@@ -150,6 +150,7 @@
 		"Locals"
     ],
     "contractTargetIDs": [
+        "Locals",
         "AuriganPirates",
         "Liao",
         "TaurianConcordat",

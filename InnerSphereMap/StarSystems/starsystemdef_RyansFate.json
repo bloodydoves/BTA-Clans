@@ -127,7 +127,7 @@
     "itemCollection_minor_AuriganDirectorate",
     "itemCollection_shop_electronics"
   ],
-  "factionShopOwnerID": "INVALID_UNSET",
+  "factionShopOwnerID": "AuriganRestoration",
   "FactionShopItems": null,
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RyansFate",
@@ -148,6 +148,7 @@
     "Liao"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "Liao",
     "AuriganDirectorate"

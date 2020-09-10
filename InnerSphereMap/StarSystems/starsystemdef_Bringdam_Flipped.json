@@ -134,9 +134,9 @@
         "itemCollection_shop_battlefield",
         "itemCollection_shop_battlefieldProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
-		"itemCollection_faction_AuriganRestoration",
+		"itemCollection_faction_AuriganRestoration"
 	],
     "BlackMarketShopItems": [
         "itemCollection_faction_AuriganPirates"
@@ -160,6 +160,7 @@
 		"Locals"
     ],
     "contractTargetIDs": [
+        "Locals",
         "AuriganPirates",
         "Liao",
         "TaurianConcordat",

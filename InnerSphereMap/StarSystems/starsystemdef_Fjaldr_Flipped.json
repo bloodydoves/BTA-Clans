@@ -127,9 +127,9 @@
         "itemCollection_shop_mining",
         "itemCollection_shop_miningProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
-		"itemCollection_faction_AuriganRestoration",
+		"itemCollection_faction_AuriganRestoration"
 	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Fjaldr",
@@ -151,6 +151,7 @@
 		"Locals"
     ],
     "contractTargetIDs": [
+        "Locals",
         "AuriganPirates",
         "Liao",
         "TaurianConcordat",

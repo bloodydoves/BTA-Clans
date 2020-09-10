@@ -138,7 +138,7 @@
     "itemCollection_minor_AuriganDirectorate",
     "itemCollection_shop_chemicals"
   ],
-  "factionShopOwnerID": "INVALID_UNSET",
+  "factionShopOwnerID": "AuriganRestoration",
   "FactionShopItems": null,
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Enkra",
@@ -160,6 +160,7 @@
     "Liao"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "TaurianConcordat",
     "Liao",

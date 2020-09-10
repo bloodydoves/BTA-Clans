@@ -17,6 +17,15 @@
     },
     {
       "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_armorslots_clstandard",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "DamageLevel": "Functional",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_engine_280",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",

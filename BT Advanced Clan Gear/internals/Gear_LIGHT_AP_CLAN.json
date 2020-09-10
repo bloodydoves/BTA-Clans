@@ -66,6 +66,24 @@
                 "modType": "System.Single"
             }
         },
+		{
+			"targetingData": {
+				"effectTriggerType": "OnActivation",
+				"effectTargetType": "EnemiesWithinRange",
+				"alsoTargetsCreator": true,
+				"forceVisRebuild": true
+			},
+			"effectType": "ActiveAbility",
+			"Description": {
+				"Id": "ActiveProbe_Ping",
+				"Name": "ACTIVE PROBE PING",
+				"Details": "Activated ability (uses Firing action). Performs a Sensor Lock against all enemies within its radius, as indicated by the spinning gold ring. Will go into cooldown state after use.",
+				"Icon": "uixSvgIcon_action_sensorlock"
+			},
+			"activeAbilityEffectData": {
+				"abilityName": "AbilityDef_ActiveProbe_Ping"
+			}
+		},
         {
             "durationData": {
                 "duration": -1,
@@ -93,7 +111,8 @@
     ],
     "ComponentTags": {
         "items": [
-            "component_type_stock"
+            "component_type_stock",
+			"lv-probe_m2"
         ],
         "tagSetSourceFile": ""
     }

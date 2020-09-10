@@ -140,7 +140,7 @@
     "itemCollection_major_AuriganDirectorate",
     "itemCollection_shop_electronics"
   ],
-  "factionShopOwnerID": "INVALID_UNSET",
+  "factionShopOwnerID": "AuriganRestoration",
   "FactionShopItems": null,
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Guldra",
@@ -159,6 +159,7 @@
     "AuriganPirates"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "AuriganDirectorate"
   ]

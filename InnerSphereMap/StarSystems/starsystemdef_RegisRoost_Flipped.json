@@ -134,9 +134,9 @@
         "itemCollection_shop_chemicals",
         "itemCollection_shop_chemicalsProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
-		"itemCollection_faction_AuriganRestoration",
+		"itemCollection_faction_AuriganRestoration"
 	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_RegisRoost",
@@ -158,6 +158,7 @@
 		"Locals"
     ],
     "contractTargetIDs": [
+        "Locals",
         "AuriganPirates",
         "Liao",
         "TaurianConcordat",

@@ -6,7 +6,8 @@
     "Government": "Compact",
     "Allies": [],
     "Enemies": [
-        "AuriganPirates"
+        "AuriganPirates",
+		"Locals"
     ],
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
