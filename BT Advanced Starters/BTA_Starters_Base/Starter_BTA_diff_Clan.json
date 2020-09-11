@@ -9,8 +9,8 @@
 					"ID": "diff_Clan",
 					"Name": "Clan (Hard)",
 					"TelemetryEventDesc": "",
-					"DifficultyValue": 0,
-					"CareerScoreModifier": 0.5,
+					"DifficultyValue": 2,
+					"CareerScoreModifier": 0.8,
 					"DifficultyConstants": [
 						{
 							"ConstantType": "CareerMode",

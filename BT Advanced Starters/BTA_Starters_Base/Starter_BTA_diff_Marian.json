@@ -7,10 +7,10 @@
             "Value":
 				{
 					"ID": "diff_Marian",
-					"Name": "Marian (Hard)",
+					"Name": "Marian",
 					"TelemetryEventDesc": "",
-					"DifficultyValue": 0,
-					"CareerScoreModifier": 0.6,
+					"DifficultyValue": 1,
+					"CareerScoreModifier": 0.4,
 					"DifficultyConstants": [
 						{
 							"ConstantType": "CareerMode",
