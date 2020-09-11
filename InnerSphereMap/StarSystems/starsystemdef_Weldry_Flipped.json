@@ -132,9 +132,9 @@
         "itemCollection_MechParts_RestoWeldry",
         "itemCollection_shop_manufacturingProgression"
     ],
-    "factionShopOwnerID": "INVALID_UNSET",
+    "factionShopOwnerID": "AuriganRestoration",
     "FactionShopItems": [
-		"itemCollection_faction_AuriganRestoration",
+		"itemCollection_faction_AuriganRestoration"
 	],
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Weldry",
@@ -156,6 +156,7 @@
 		"Locals"
     ],
     "contractTargetIDs": [
+        "Locals",
         "AuriganPirates",
         "Liao",
         "TaurianConcordat",

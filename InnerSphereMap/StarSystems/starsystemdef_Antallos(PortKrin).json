@@ -28,7 +28,8 @@
   },
   "SupportedBiomes": [
     "lowlandsCoastal",
-    "badlandsParched"
+    "badlandsParched",
+	"desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -145,7 +146,6 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Locals",
     "Locals"
   ],
   "contractTargetIDs": [

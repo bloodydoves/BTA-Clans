@@ -16,7 +16,7 @@
     "factionMapColor": "rgba(50,205,50,1.0)",
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
     "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
-    "HeraldryDefId": "heraldrydef_random",
+    "heraldryDefId": "heraldrydef_Chainelane",
     "ReputationStatements": [
         "Commander, you have already crushed our armed forces beneath the feel of your 'Mechs.  Please, if you want credits, we are quite capable of paying for you to fight for us instead of against!",
         "Commander, we are unable to compete against your mighty 'Mechs.  Please, take on this contract and spare us further damage!",
@@ -35,5 +35,5 @@
     "BadFaithFailureStatements": [
         "Seriously Commander, my armies perform tasks like this all the time, with nothing but tanks and infantry; and you and your 'Mechs failed!  You must not have tried, and I won;t pay you anything!"
     ],
-    "Description": "The Chainelane Isles is not a unified realm, but rather a collection of waring planet-states and minor principalities fighting with mostly pre-mech tech."
+    "Description": "The Chainelane Isles is not a unified realm, but rather a collection of warring planet-states and minor principalities fighting with mostly pre-mech tech."
 }

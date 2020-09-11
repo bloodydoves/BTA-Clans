@@ -17,6 +17,15 @@
     },
     {
       "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_armorslots_clstandard",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "DamageLevel": "Functional",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_engine_280",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",
@@ -85,7 +94,7 @@
   "Description": {
     "Cost": 9237800,
     "Rarity": 1,
-    "Purchasable": false,
+    "Purchasable": true,
     "Manufacturer": "",
     "Model": "",
     "UIName": "Nova Cat",

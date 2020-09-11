@@ -10,7 +10,7 @@
 	"MapBottomViewBuffer" : 75.0,
 	"use3040Map" : true,
 	"splashTitle" : "BattleTech Advanced 3062",
-	"splashText" : "<b>War is Business and War Never Changes</b> \n\n Welcome to the Inner Sphere, Commander \n\n You are a Mercenary, standing on the bridge of your Star League-vintage dropship, the Argo. Your mechbays have a few choice mechs you've scrounged up and the Inner Sphere and beyonds expand before you. \n\n This is your moment, reach out and seize it, make your name and your mark on the Inner Sphere!",
+	"splashText" : "<b>War is Business and War Never Changes</b> \n\n Welcome to the Inner Sphere, Commander \n\n You are a Mercenary, standing on the bridge of your Star League-vintage dropship, the Argo. Your mechbays have a few choice mechs you've scrounged up and the Inner Sphere and beyond expand before you. \n\n This is your moment, reach out and seize it, make your name and your mark on the Inner Sphere!",
 	"cheatcodes":[],
 	
 	
@@ -72,7 +72,7 @@
 		
 		},
 		{
-			"factionName" : "llyrian",
+			"factionName" : "Illyrian",
 			"logoImage" : "illyrianLogo"
 		
 		},

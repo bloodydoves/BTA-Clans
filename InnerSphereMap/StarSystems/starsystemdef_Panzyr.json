@@ -137,7 +137,7 @@
     "itemCollection_minor_AuriganDirectorate",
     "itemCollection_shop_battlefield"
   ],
-  "factionShopOwnerID": "INVALID_UNSET",
+  "factionShopOwnerID": "AuriganRestoration",
   "FactionShopItems": null,
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Panzyr",
@@ -158,6 +158,7 @@
     "AuriganPirates"
   ],
   "contractTargetIDs": [
+    "Locals",
     "AuriganPirates",
     "AuriganDirectorate"
   ]

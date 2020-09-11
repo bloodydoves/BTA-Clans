@@ -36,7 +36,8 @@
   },
   "SupportedBiomes": [
     "jungleTropical",
-    "urbanHighTech"
+    "urbanHighTech",
+    "desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -162,6 +163,7 @@
     "Circinus",
 	"MagistracyOfCanopus",
     "AuriganPirates",
-    "ComStar"
+    "ComStar",
+    "Locals"
   ]
 }

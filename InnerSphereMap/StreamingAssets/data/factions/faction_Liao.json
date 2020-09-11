@@ -22,7 +22,7 @@
   "factionID" : "Liao",
   "icon" : "uixTxrLogo_Liao",
   "factionStoreColor" : "rgba(30,39,27,1.0)",
-  "factionMapColor" : "rgba(208,255,144,1.0)",
+  "factionMapColor" : "rgba(0,179,60,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_LiaoDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_LiaoRepDefault",
   "HeraldryDefId": "heraldrydef_liao",

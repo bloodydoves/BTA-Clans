@@ -37,7 +37,8 @@
   },
   "SupportedBiomes": [
     "jungleTropical",
-    "urbanHighTech"
+    "urbanHighTech",
+    "desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -158,6 +159,7 @@
     "Locals"
   ],
   "contractTargetIDs": [
+    "Locals",
     "Kurita",
     "Davion",
     "Tortuga",

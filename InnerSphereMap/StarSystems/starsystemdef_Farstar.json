@@ -129,7 +129,7 @@
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "ClanSnowRaven",
+  "factionShopOwnerID": "Locals",
   "FactionShopItems": [
     "itemCollection_faction_TaurianConcordat"
   ],
@@ -144,12 +144,10 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Locals",
     "Locals"
   ],
   "contractTargetIDs": [
     "Steiner",
-    "Marik",
     "Kurita",
     "Davion",
     "Liao",
@@ -159,41 +157,19 @@
     "TaurianConcordat",
     "Outworld",
     "Marian",
-    "Oberon",
-    "Lothian",
     "Circinus",
-    "Illyrian",
     "Rasalhague",
-    "Ives",
-    "Axumite",
-    "Castile",
     "Chainelane",
-    "ClanBurrock",
-    "ClanCloudCobra",
-    "ClanCoyote",
-    "ClanDiamondShark",
-    "ClanFireMandrill",
     "ClanGhostBear",
-    "ClanGoliathScorpion",
-    "ClanHellsHorses",
-    "ClanIceHellion",
     "ClanJadeFalcon",
-    "ClanNovaCat",
-    "ClansGeneric",
-    "ClanSmokeJaguar",
-    "ClanStarAdder",
-    "ClanSteelViper",
     "ClanWolf",
     "Delphi",
-    "Elysia",
     "Hanse",
     "JarnFolk",
     "Tortuga",
-    "Valkyrate",
     "NoFaction",
     "Locals",
     "AuriganDirectorate",
-    "AuriganPirates",
-    "WordOfBlake"
+    "AuriganPirates"
   ]
 }

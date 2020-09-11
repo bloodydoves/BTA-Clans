@@ -32,7 +32,7 @@
 		"Flags": {
 			"flags": [
 				"ignore_damage",
-				"not_broken"
+				"no_salvage"
 			]
 		}
 	},

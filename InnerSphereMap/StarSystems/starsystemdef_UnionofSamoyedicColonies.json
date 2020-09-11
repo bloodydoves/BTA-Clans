@@ -143,11 +143,10 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Locals",
     "Locals"
   ],
   "contractTargetIDs": [
-    "Hanse"
+    "Hanse",
     "AuriganPirates"
   ]
 }

@@ -5,7 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "ERLaser"
+        "PipsIgnored: 1",
+		"WpnCrits: 50%"
       ]
     }
   },
@@ -13,23 +14,23 @@
   "Type": "Laser",
   "WeaponSubType": "SmallLaser",
   "MinRange": 0,
-  "MaxRange": 240,
+  "MaxRange": 200,
   "RangeSplit": [
     60,
-    120,
-    180
+    100,
+    150
   ],
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 12,
-  "Damage": 25,
+  "Damage": 20,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 0,
+  "EvasivePipsIgnored": 1,
   "DamageVariance": 0,
   "HeatDamage": 0,
   "AccuracyModifier": 0,
-  "CriticalChanceMultiplier": 1,
+  "CriticalChanceMultiplier": 1.5,
   "AOECapable": false,
   "IndirectFireCapable": false,
   "RefireModifier": 0,

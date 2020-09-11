@@ -21,7 +21,7 @@
   "factionMapColor" : "rgba(88,158,255,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_TaurianDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_TaurianRepDefault",
-  "HeraldryDefId": "heraldrydef_taurian",
+  "heraldryDefId": "heraldrydef_taurian",
   "ReputationStatements": [
     "In an earlier era, House Calderon would have had you killed rather than offer you a contract. Unfortunately, we don't live in that earlier era—and also, we need a disposable soldier. Accept or not; I don't care.",
     "I dislike your kind, mercenary. But it seems that desperate times force compromises on all of us. Bear that in mind should you accept this contract: we offer it to you only because we have no other choice. Tread carefully.",

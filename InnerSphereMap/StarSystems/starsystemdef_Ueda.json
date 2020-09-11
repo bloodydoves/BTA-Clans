@@ -27,7 +27,8 @@
     "tagSetSourceFile": ""
   },
   "SupportedBiomes": [
-    "jungleTropical"
+    "jungleTropical",
+	"desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -147,6 +148,7 @@
     "Locals"
   ],
   "contractTargetIDs": [
+    "Locals",
     "Steiner",
     "Kurita",
     "AuriganPirates"

@@ -11,7 +11,8 @@
 		"Marian",
 		"Circinus",
 		"Hanse",
-		"AuriganPirates"
+		"AuriganPirates",
+		"Locals"
   ],
   "Presence": 0.1,
   "factionID": "Rim",
@@ -20,7 +21,7 @@
     "factionMapColor": "rgba(218,165,32,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
   "DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
-  "HeraldryDefId": "heraldrydef_RimCollection",
+  "heraldryDefId": "heraldrydef_RimCollection",
   "ReputationStatements": [
     "I wouldn't turn to you unless I had no other option. Well, I have no other option. Do this, if you care, and maybe we'll talk pay.",
 	"We don't like you, you don't like us, but still, I think we can do business. Want to change that?",

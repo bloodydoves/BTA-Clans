@@ -20,7 +20,7 @@
   "factionMapColor" : "rgba(147,225,161,1.0)",
   "DefaultCombatLeaderCastDefId": "castDef_DirectorateDefaultCommander",
   "DefaultRepresentativeCastDefId": "castDef_EspinosaDefault",
-  "HeraldryDefId": "heraldrydef_directorate",
+  "heraldryDefId": "heraldrydef_directorate",
   "ReputationStatements": [
     "You are a villain and a scoundrel, and you are unworthy of even the slightest consideration. Even so, our own forces are greatly weakened at this moment—so we're willing to entertain employing you.",
     "Desperate times call for desperate measures. We wouldn't be asking to hire you unless we had no other choice. Hopefully you can help us.",

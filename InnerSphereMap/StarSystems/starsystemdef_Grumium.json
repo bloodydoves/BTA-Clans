@@ -31,7 +31,8 @@
   },
   "SupportedBiomes": [
     "jungleTropical",
-    "urbanHighTech"
+    "urbanHighTech",
+    "desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -151,6 +152,7 @@
     "Locals"
   ],
   "contractTargetIDs": [
+    "Locals",
     "Steiner",
     "Kurita",
     "AuriganPirates"

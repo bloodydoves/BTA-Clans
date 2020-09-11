@@ -105,6 +105,28 @@
     },
     {
       "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_armorslots_clstandard",
+      "SimGameUID": null,
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_kit_cdhs",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_engine_cooling_2",
       "SimGameUID": null,
       "ComponentDefType": "HeatSink",
@@ -216,7 +238,7 @@
       "Location": "CenterTorso",
       "Hardpoints": [],
       "Tonnage": 0,
-      "InventorySlots": 14,
+      "InventorySlots": 15,
       "MaxArmor": 235,
       "MaxRearArmor": 75,
       "InternalStructure": 175

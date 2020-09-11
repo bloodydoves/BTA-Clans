@@ -35,7 +35,8 @@
   },
   "SupportedBiomes": [
     "jungleTropical",
-    "urbanHighTech"
+    "urbanHighTech",
+    "desertParched"
   ],
   "MapRequiredTags": {
     "items": [],
@@ -137,7 +138,7 @@
     "itemCollection_shop_industrial",
     "itemCollection_shop_research"
   ],
-  "factionShopOwnerID": "TaurianConcordat",
+  "factionShopOwnerID": "Davion",
   "FactionShopItems": [
     "itemCollection_faction_Davion"
   ],
@@ -166,42 +167,19 @@
     "TaurianConcordat",
     "Outworld",
     "Marian",
-    "Oberon",
-    "Lothian",
     "Circinus",
-    "Illyrian",
     "Rasalhague",
-    "Ives",
-    "Axumite",
-    "Castile",
     "Chainelane",
-    "ClanBurrock",
-    "ClanCloudCobra",
-    "ClanCoyote",
-    "ClanDiamondShark",
-    "ClanFireMandrill",
     "ClanGhostBear",
-    "ClanGoliathScorpion",
-    "ClanHellsHorses",
-    "ClanIceHellion",
     "ClanJadeFalcon",
-    "ClanNovaCat",
-    "ClansGeneric",
-    "ClanSmokeJaguar",
-    "ClanSnowRaven",
-    "ClanStarAdder",
-    "ClanSteelViper",
     "ClanWolf",
     "Delphi",
-    "Elysia",
     "Hanse",
     "JarnFolk",
     "Tortuga",
-    "Valkyrate",
     "NoFaction",
     "Locals",
     "AuriganDirectorate",
-    "AuriganPirates",
-    "WordOfBlake"
+    "AuriganPirates"
   ]
 }

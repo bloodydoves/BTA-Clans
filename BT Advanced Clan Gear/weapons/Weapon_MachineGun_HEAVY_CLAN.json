@@ -1,7 +1,7 @@
 {
     "Custom": {
 		"Category": [
-			{ "CategoryID": "w/a/o/mg" }
+			{ "CategoryID": "w/a/a/mg" }
 		],
         "BonusDescriptions": {
             "Bonuses": [
@@ -10,7 +10,7 @@
             ]
         }
     },
-    "Category": "AntiPersonnel",
+    "Category": "Ballistic",
     "Type": "MachineGun",
     "WeaponSubType": "MachineGun",
     "MinRange": 0,
@@ -22,7 +22,7 @@
     ],
     "AmmoCategory": "MG",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 4,
+    "HeatGenerated": 0,
     "Damage": 3,
     "OverheatedDamageMultiplier": 0,
     "EvasiveDamageMultiplier": 0,
@@ -34,7 +34,7 @@
     "AOECapable": false,
     "IndirectFireCapable": false,
     "RefireModifier": 1,
-    "ShotsWhenFired": 4,
+    "ShotsWhenFired": 1,
     "ProjectilesPerShot": 1,
     "AttackRecoil": 1,
     "Instability": 0,
@@ -68,49 +68,50 @@
             "Id": "x1",
             "UIName": "x1",
             "isBaseMode": false,
-            "ShotsWhenFired": -3,
-            "HeatGenerated": -3
+            "ShotsWhenFired": 0,
+            "HeatGenerated": 0
         },
         {
             "Id": "x2",
             "UIName": "x2",
             "isBaseMode": false,
-            "ShotsWhenFired": -2,
-            "HeatGenerated": -2
+            "ShotsWhenFired": 1,
+            "HeatGenerated": 1
         },
         {
             "Id": "x3",
             "UIName": "x3",
             "isBaseMode": false,
-            "ShotsWhenFired": -1,
+            "ShotsWhenFired": 2,
             "RefireModifier": 1,
-            "HeatGenerated": -1
+            "HeatGenerated": 2
         },
         {
             "Id": "x4",
             "UIName": "x4",
             "isBaseMode": true,
-            "ShotsWhenFired": 0,
+            "ShotsWhenFired": 3,
             "RefireModifier": 2,
-            "FlatJammingChance": 0.25
+            "FlatJammingChance": 0.25,
+            "HeatGenerated": 3
         },
         {
             "Id": "x5",
             "UIName": "x5",
             "isBaseMode": false,
-            "ShotsWhenFired": 1,
+            "ShotsWhenFired": 4,
             "RefireModifier": 2,
             "FlatJammingChance": 0.35,
-            "HeatGenerated": 1
+            "HeatGenerated": 4
         },
         {
             "Id": "x6",
             "UIName": "x6",
             "isBaseMode": false,
-            "ShotsWhenFired": 2,
+            "ShotsWhenFired": 5,
             "RefireModifier": 3,
             "FlatJammingChance": 0.45,
-            "HeatGenerated": 2
+            "HeatGenerated": 5
         }
     ],
     "statusEffects": [],
