@@ -7,10 +7,10 @@
             "Value":
 				{
 					"ID": "diff_Outworlds",
-					"Name": "Outworlds (Hard)",
+					"Name": "Outworlds",
 					"TelemetryEventDesc": "",
-					"DifficultyValue": 0,
-					"CareerScoreModifier": 0.6,
+					"DifficultyValue": 1,
+					"CareerScoreModifier": 0.4,
 					"DifficultyConstants": [
 						{
 							"ConstantType": "CareerMode",
