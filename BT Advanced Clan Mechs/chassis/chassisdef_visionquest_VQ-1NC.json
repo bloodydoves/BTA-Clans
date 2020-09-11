@@ -203,7 +203,9 @@
   ],
   "VariantName": "VQ-1NC",
   "ChassisTags": {
-    "items": [],
+    "items": [
+      "ClanMech"
+    ],
     "tagSetSourceFile": ""
   },
   "StockRole": "Symbolism In Motion",
