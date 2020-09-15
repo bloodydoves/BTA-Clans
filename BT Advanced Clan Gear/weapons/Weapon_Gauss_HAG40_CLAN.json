@@ -12,7 +12,9 @@
         "WeaponBoom: 200",
         "HAGR",
 		"ExplodeStab: 40",
-		"WpnRecoil: 4"
+		"WpnRecoil: 4",
+		"NumberofBursts: 4",
+		"ProjectileBurst: 10"
       ]
     }
   },
