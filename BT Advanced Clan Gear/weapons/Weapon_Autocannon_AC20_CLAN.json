@@ -5,7 +5,7 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "Ultra",
+        "VariableBurstCount: 2",
 		"WpnRecoil: 4",
 		"WeaponJAMFlat: 10",
 		"Refire: 4"
