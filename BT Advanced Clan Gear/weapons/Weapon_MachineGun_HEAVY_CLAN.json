@@ -6,7 +6,8 @@
         "BonusDescriptions": {
             "Bonuses": [
                 "WpnCrits: 25%",
-				"WpnRecoil: 1"
+				"WpnRecoil: 1",
+				"VariableBurstCount: 6"
             ]
         }
     },
