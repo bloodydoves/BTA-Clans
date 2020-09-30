@@ -1,7 +1,10 @@
 {
   "Custom": {
 	"Category": [
-			{ "CategoryID": "w/a/g/hag" }
+			{ "CategoryID": "w/a/g/hag" },
+			{
+				"CategoryID": "NeverMelee"
+			}
     ],
     "ComponentExplosion": {
 		"ExplosionDamage": 150, 
@@ -11,6 +14,7 @@
       "Bonuses": [
         "WeaponBoom: 150",
         "HAGR",
+		"NoFireInMelee",
 		"ExplodeStab: 30",
 		"WpnRecoil: 4",
 		"NumberofBursts: 3",

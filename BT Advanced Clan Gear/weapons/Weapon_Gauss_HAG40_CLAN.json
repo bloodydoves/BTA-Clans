@@ -11,6 +11,7 @@
       "Bonuses": [
         "WeaponBoom: 200",
         "HAGR",
+		"NoFireInMelee",
 		"ExplodeStab: 40",
 		"WpnRecoil: 4",
 		"NumberofBursts: 4",

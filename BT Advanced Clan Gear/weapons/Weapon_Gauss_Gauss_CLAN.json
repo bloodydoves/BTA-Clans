@@ -1,7 +1,10 @@
 {
   "Custom": {
 	"Category": [
-			{ "CategoryID": "w/a/g/gaussrifle" }
+			{ "CategoryID": "w/a/g/gaussrifle" },
+			{
+				"CategoryID": "NeverMelee"
+			}
     ],
     "ComponentExplosion": {
 		"ExplosionDamage": 75, 
@@ -11,6 +14,7 @@
       "Bonuses": [
         "WeaponBoom: 75",
 		"ExplodeStab: 18",
+		"NoFireInMelee",
 		"WpnRecoil: 4"
       ]
     }

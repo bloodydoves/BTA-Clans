@@ -1,7 +1,10 @@
 {
   "Custom": {
 	"Category": [
-			{ "CategoryID": "w/a/o/mortar" }
+			{ "CategoryID": "w/a/o/mortar" },
+			{
+				"CategoryID": "NeverMelee"
+			}
 		],
 	"BonusDescriptions": {
       "Bonuses": [
