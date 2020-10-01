@@ -530,15 +530,22 @@
                             "Scope" : "SecondaryMechWarrior",
                             "Requirements" : null,
                             "AddedTags" : {
-                                "tagSetSourceFile" : "",
-                                "items" : []
+                                "items" : [],
+                                "tagSetSourceFile" : ""
                             },
                             "RemovedTags" : {
-                                "tagSetSourceFile" : "",
-                                "items" : []
+                                "items" : [],
+                                "tagSetSourceFile" : ""
                             },
                             "Stats" : null,
-                            "Actions" : null,
+                            "Actions" : [
+                                {
+                                    "Type" : "MechWarrior_Fire",
+                                    "value" : "pilot_at_Optio",
+                                    "valueConstant" : null,
+                                    "additionalValues" : null
+                                }
+                            ],
                             "ForceEvents" : null,
                             "TemporaryResult" : false,
                             "ResultDuration" : 0
