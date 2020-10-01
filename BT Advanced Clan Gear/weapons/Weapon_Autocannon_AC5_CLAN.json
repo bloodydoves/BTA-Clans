@@ -1,13 +1,17 @@
 {
   "Custom": {
 	"Category": [
-			{ "CategoryID": "w/a/a/uac" }
+			{ "CategoryID": "w/a/a/uac" },
+			{
+				"CategoryID": "NeverMelee"
+			}
     ],
     "BonusDescriptions": {
       "Bonuses": [
         "VariableBurstCount: 2",
 		"WpnRecoil: 2",
 		"WeaponJAMFlat: 10",
+		"NoFireInMelee",
 		"Refire: 2"
       ]
     }

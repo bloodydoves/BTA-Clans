@@ -1,12 +1,16 @@
 {
   "Custom": {
 	"Category": [
-			{ "CategoryID": "w/m/l/atm" }
+			{ "CategoryID": "w/m/l/atm" },
+			{
+				"CategoryID": "NeverMelee"
+			}
     ],
     "BonusDescriptions": {
       "Bonuses": [
         "DFAccuracy: +1",
         "ATM",
+		"NoFireInMelee",
 		"MissileHealth: 2"
       ]
     }
