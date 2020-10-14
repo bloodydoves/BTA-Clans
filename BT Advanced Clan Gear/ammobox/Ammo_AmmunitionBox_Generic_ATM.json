@@ -14,12 +14,13 @@
         },
         "BonusDescriptions": {
             "Bonuses": [
-                "ATMAmmo: 60"
+                "CostPerShot: 20",
+				"ATMAmmo: 60"
             ]
         },		
-        "InventorySorter": {
-            "SortKey": "000044"
-        }
+        "AmmoCost" : {
+		  "PerUnitCost" : 20
+		}
     },
     "AmmoID": "Ammunition_ATM",
     "Capacity": 60,

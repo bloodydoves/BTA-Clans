@@ -11,11 +11,12 @@
 		"BonusDescriptions": {
 			"Bonuses": [
 				"HyperGaussAmmo: 12",
+				"CostPerShot: 200",
 				"GaussNoBoom"
 			]
 		},
-		"InventorySorter": {
-			"SortKey": "000030"
+		"AmmoCost" : {
+		  "PerUnitCost" : 200
 		}
 	},
 	"AmmoID": "Ammunition_HYPERGAUSS",
