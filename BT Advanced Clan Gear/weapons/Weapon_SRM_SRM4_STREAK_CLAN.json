@@ -41,7 +41,7 @@
   "ShotsWhenFired": 4,
   "ProjectilesPerShot": 1,
   "AttackRecoil": 1,
-  "Instability": 2,
+  "Instability": 3,
   "FireTerrainChance": 0,
   "ImprovedBallistic": true,
   "ProjectileSpeedMultiplier": 1.2,
