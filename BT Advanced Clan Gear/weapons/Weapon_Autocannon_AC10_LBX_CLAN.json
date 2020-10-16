@@ -7,9 +7,7 @@
 		],
 		"BonusDescriptions": {
 			"Bonuses": [
-				"WpnRecoil: 3",
-				"Refire: 3",
-				"LBX"
+				"WpnRecoil: 3"
 			]
 		}
 	},

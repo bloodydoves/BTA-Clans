@@ -15,7 +15,8 @@
         "WeaponBoom: 75",
 		"ExplodeStab: 18",
 		"NoFireInMelee",
-		"WpnRecoil: 4"
+		"WpnRecoil: 1",
+		"PipsIgnored: 1"
       ]
     }
   },
@@ -35,7 +36,7 @@
   "Damage": 75,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 0,
+  "EvasivePipsIgnored": 1,
   "DamageVariance": 0,
   "HeatDamage": 0,
   "AccuracyModifier": 0,
@@ -46,7 +47,7 @@
   "ShotsWhenFired": 1,
   "ProjectilesPerShot": 1,
   "AttackRecoil": 4,
-  "Instability": 18,
+  "Instability": 20,
   "WeaponEffectID": "WeaponEffect-Weapon_GaussRifle",
   "Description": {
     "Cost": 1568000,

@@ -7,8 +7,7 @@
       "Bonuses": [
         "VariableBurstCount: 2",
 		"WpnRecoil: 3",
-		"WeaponJAMFlat: 10",
-		"Refire: 3"
+		"WeaponJAMFlat: 10"
       ]
     }
   },

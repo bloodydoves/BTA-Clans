@@ -2,12 +2,7 @@
   "Custom": {
 	"Category": [
 			{ "CategoryID": "w/e/l/er" }
-    ],
-    "BonusDescriptions": {
-      "Bonuses": [
-        "ERLaser"
-      ]
-    }
+    ]
   },
   "Category": "Energy",
   "Type": "Laser",

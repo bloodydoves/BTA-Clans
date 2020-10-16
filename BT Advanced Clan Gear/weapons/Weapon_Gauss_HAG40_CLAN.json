@@ -1,7 +1,10 @@
 {
   "Custom": {
 	"Category": [
-			{ "CategoryID": "w/a/g/hag" }
+			{ "CategoryID": "w/a/g/hag" },
+			{
+				"CategoryID": "NeverMelee"
+			}
     ],
     "ComponentExplosion": {
 		"ExplosionDamage": 200, 
@@ -15,6 +18,7 @@
 		"ExplodeStab: 40",
 		"WpnRecoil: 4",
 		"NumberofBursts: 4",
+		"WpnAccuracy: +1",
 		"ProjectileBurst: 10"
       ]
     }
@@ -42,7 +46,7 @@
   "CriticalChanceMultiplier": 1,
   "AOECapable": false,
   "IndirectFireCapable": false,
-  "RefireModifier": 0,
+  "RefireModifier": 4,
   "ShotsWhenFired": 4,
   "ProjectilesPerShot": 10,
   "AttackRecoil": 4,

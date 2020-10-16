@@ -11,8 +11,7 @@
         "VariableBurstCount: 2",
 		"WpnRecoil: 1",
 		"WeaponJAMFlat: 10",
-		"NoFireInMelee",
-		"Refire: 1"
+		"NoFireInMelee"
       ]
     }
   },

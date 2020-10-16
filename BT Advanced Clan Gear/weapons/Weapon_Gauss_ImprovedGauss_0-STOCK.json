@@ -14,9 +14,10 @@
 		},
 		"BonusDescriptions": {
 			"Bonuses": [
-				"IsGauss",
 				"NoFireInMelee",
-				"WeaponBoom: 75"
+				"WeaponBoom: 75",
+				"WpnAccuracy: +1",
+				"PipsIgnored: 1"
 			]
 		}
 	},
@@ -36,7 +37,7 @@
 	"Damage": 75,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
-	"EvasivePipsIgnored": 0,
+	"EvasivePipsIgnored": 1,
 	"DamageVariance": 0,
 	"HeatDamage": 0,
 	"AccuracyModifier": -1,

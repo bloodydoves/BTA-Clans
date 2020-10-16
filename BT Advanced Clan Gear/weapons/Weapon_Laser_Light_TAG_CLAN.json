@@ -24,7 +24,7 @@
   "AmmoCategory": "NotSet",
   "StartingAmmoCapacity": 0,
   "HeatGenerated": 0,
-  "Damage": 1,
+  "Damage": 0,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
   "EvasivePipsIgnored": 1,
@@ -52,7 +52,7 @@
     "Details": "While lost to the Inner Sphere during the devastation of the Succession Wars, the Clans retained the Target Acquisition Gear, but rarely made use of them due to their culture's focus on personal glory rather than supporting roles. Paints the target, making them easier to hit with other units.",
     "Icon": "uixSvgIcon_weapon_Support"
   },
-  "BonusValueA": "Target Painter",
+  "BonusValueA": "",
   "BonusValueB": "",
   "ComponentType": "Weapon",
   "ComponentSubType": "Weapon",

@@ -5,7 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "ClanPulse"
+		"PipsIgnored: 3",
+        "WpnCrits: -50%"
       ]
     }
   },

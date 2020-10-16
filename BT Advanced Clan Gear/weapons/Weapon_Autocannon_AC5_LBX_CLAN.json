@@ -11,9 +11,7 @@
 		"BonusDescriptions": {
 			"Bonuses": [
 				"WpnRecoil: 2",
-				"Refire: 2",
-				"NoFireInMelee",
-				"LBX"
+				"NoFireInMelee"
 			]
 		}
 	},

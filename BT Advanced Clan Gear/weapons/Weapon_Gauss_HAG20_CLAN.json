@@ -16,8 +16,9 @@
         "HAGR",
 		"NoFireInMelee",
 		"ExplodeStab: 20",
-		"WpnRecoil: 4",
+		"WpnRecoil: 2",
 		"NumberofBursts: 2",
+		"WpnAccuracy: +1",
 		"ProjectileBurst: 10"
       ]
     }
@@ -45,7 +46,7 @@
   "CriticalChanceMultiplier": 1,
   "AOECapable": false,
   "IndirectFireCapable": false,
-  "RefireModifier": 0,
+  "RefireModifier": 2,
   "ShotsWhenFired": 2,
   "ProjectilesPerShot": 10,
   "AttackRecoil": 4,

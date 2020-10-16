@@ -5,7 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "HeavyLaser"
+        "WpnAccuracy: -3",
+		"WpnCrits: -50%"
       ]
     }
   },
@@ -60,7 +61,7 @@
     "Details": "Clan Star Adder developed the Heavy Lasers to deal more damage, but with an increased heat output. In addition, interference with a BattleMech's sensors means that a Heavy Large Laser is penalized with a +3 to-hit modifier.",
     "Icon": "uixSvgIcon_weapon_Energy"
   },
-  "BonusValueA": "Inaccurate",
+  "BonusValueA": "",
   "BonusValueB": "",
   "ComponentType": "Weapon",
   "ComponentSubType": "Weapon",

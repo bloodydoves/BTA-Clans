@@ -5,7 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "NarcLauncher",
+        "WpnAccuracy: +1",
+		"PipsIgnored: 2",
         "AMSImmune"
       ]
     }
@@ -26,10 +27,10 @@
   "Damage": 1,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 0,
+  "EvasivePipsIgnored": 2,
   "DamageVariance": 0,
   "HeatDamage": 0,
-  "AccuracyModifier": 0,
+  "AccuracyModifier": -1,
   "CriticalChanceMultiplier": 0,
   "AOECapable": false,
   "IndirectFireCapable": false,
@@ -52,7 +53,7 @@
     "Details": "This Launcher fires a single Narc beacon that attaches itself to the enemy and emits a homing signal for all friendly weapons.",
     "Icon": "uixSvgIcon_weapon_Support"
   },
-  "BonusValueA": "Target Painter",
+  "BonusValueA": "",
   "BonusValueB": "",
   "ComponentType": "Weapon",
   "ComponentSubType": "Weapon",

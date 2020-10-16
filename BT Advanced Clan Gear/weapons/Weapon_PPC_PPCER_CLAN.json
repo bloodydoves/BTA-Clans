@@ -36,7 +36,7 @@
   "ShotsWhenFired": 1,
   "ProjectilesPerShot": 1,
   "AttackRecoil": 0,
-  "Instability": 12,
+  "Instability": 15,
   "WeaponEffectID": "WeaponEffect-Weapon_PPC",
   "Description": {
     "Cost": 1393000,
@@ -69,7 +69,7 @@
         "useActivationsOfTarget": true,
         "ticksOnEndOfRound": false,
         "ticksOnMovements": false,
-        "stackLimit": -1,
+        "stackLimit": 1,
         "clearedWhenAttacked": false
       },
       "targetingData": {
@@ -88,15 +88,15 @@
       "Description": {
         "Id": "AbilityDefPPC",
         "Name": "SENSORS IMPAIRED",
-        "Details": "EM Interference reduces sensor efficiency.",
+        "Details": "[AMT] Difficulty to all of this unit's attacks until its next activation.",
         "Icon": "uixSvgIcon_status_sensorsImpaired"
       },
       "nature": "Debuff",
       "statisticData": {
-        "statName": "LV_ECM_JAMMED",
-        "operation": "Int_Add",
-        "modValue": "2",
-        "modType": "System.Int32"
+        "statName": "AccuracyModifier",
+		"operation": "Float_Add",
+		"modValue": "2.0",
+		"modType": "System.Single",
       }
     }
   ],

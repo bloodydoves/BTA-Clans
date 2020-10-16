@@ -9,6 +9,7 @@
     "BonusDescriptions": {
       "Bonuses": [
         "DFAccuracy: +1",
+		"PipsIgnored: 1",
         "ATM",
 		"NoFireInMelee",
 		"MissileHealth: 2"
