@@ -2,7 +2,7 @@
     "Description" : {
         "Id" : "wulf_event_co_TexTalks1",
         "Name" : "Tex Talks",
-        "Details" : "You get a message from [[DM.BaseDescriptionDefs[TooltipSimGameCharacterFARAH],Farah]]: \r\n\r\n\"Commander	{Commander.LastName}, it seems that Professor [[SCN_MW,{SCN_MW.Callsign}]] is broadcasting again. Do you want to tune into the guest lecture?\"",
+        "Details" : "You get a message from [[DM.BaseDescriptionDefs[TooltipSimGameCharacterFARAH],Farah]]: \r\n\r\n\"Commander {Commander.LastName}, it seems that Professor [[SCN_MW,{SCN_MW.Callsign}]] is broadcasting again. Do you want to tune into the guest lecture?\"",
         "Icon" : "uixTxrSpot_wulf_TexTalks.png"
     },
     "Scope" : "Company",
