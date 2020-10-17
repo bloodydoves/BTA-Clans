@@ -19,11 +19,11 @@
   "Type": "Autocannon",
   "WeaponSubType": "AC5",
   "MinRange": 60,
-  "MaxRange": 700,
+  "MaxRange": 640,
   "RangeSplit": [
-    180,
-    375,
-    550
+    160,
+    320,
+    480
   ],
   "AmmoCategory": "UAC5",
   "StartingAmmoCapacity": 0,
