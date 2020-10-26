@@ -22,13 +22,13 @@
         "I'd prefer to be working for a paying client, but some things are more important than money, Commander."
     ],
     "MissionSuccessStatements" : [ 
-		"Well done, Commander. I just wish we were getting paid for this.",
+		"Well done, Commander. I just wish we were getting paid for this."
     ], 
 	"GoodFaithFailureStatements" : [ 
-		"Since we aren't getting paid, there's no sense in taking too much risk.",
+		"Since we aren't getting paid, there's no sense in taking too much risk."
     ],
 	"BadFaithFailureStatements" : [ 
-		"That was an utter catastrophe, Commander. We can't afford failures like that.",
+		"That was an utter catastrophe, Commander. We can't afford failures like that."
     ],
 	"DefaultCombatLeaderCastDefId" : "castDef_DariusDefault",
     "DefaultRepresentativeCastDefId" : "castDef_DariusDefault",
