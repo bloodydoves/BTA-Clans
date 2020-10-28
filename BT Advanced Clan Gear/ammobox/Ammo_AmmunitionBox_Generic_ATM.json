@@ -14,12 +14,12 @@
         },
         "BonusDescriptions": {
             "Bonuses": [
-                "CostPerShot: 20",
+                "CostPerShot: 150",
 				"ATMAmmo: 60"
             ]
         },		
         "AmmoCost" : {
-		  "PerUnitCost" : 20
+		  "PerUnitCost" : 150
 		}
     },
     "AmmoID": "Ammunition_ATM",

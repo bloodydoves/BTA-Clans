@@ -17,12 +17,12 @@
 				"ATMDamage: -4",
 				"StabDamage: -1",
 				"Range: +90%",
-				"CostPerShot: 20",
+				"CostPerShot: 150",
 				"ATMAmmo: 60"
 			]
 		},
 		"AmmoCost" : {
-		  "PerUnitCost" : 20
+		  "PerUnitCost" : 150
 		}
 	},
 	"AmmoID": "Ammunition_ATM_ER",
