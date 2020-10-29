@@ -16,7 +16,7 @@
 			]
 		},
 		"AmmoCost" : {
-		  "PerUnitCost" : 200
+			"PerUnitCost": 400
 		}
 	},
 	"AmmoID": "Ammunition_HYPERGAUSS",
