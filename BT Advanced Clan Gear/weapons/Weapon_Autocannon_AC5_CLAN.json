@@ -68,6 +68,7 @@
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
   "ImprovedBallistic": true,
+  "FireDelayMultiplier": 2,
   "CriticalComponent": false,
   "Modes": [
     {
@@ -83,8 +84,7 @@
       "Id": "x2",
       "UIName": "x2",
       "isBaseMode": true,
-      "FlatJammingChance": 0.10,
-      "FireDelayMultiplier": 2
+      "FlatJammingChance": 0.10
     }
   ],
   "statusEffects": [
