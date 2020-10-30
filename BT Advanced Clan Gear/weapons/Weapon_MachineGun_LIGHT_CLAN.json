@@ -89,7 +89,7 @@
 			"UIName":"x4",
 			"isBaseMode":true,
 			"ShotsWhenFired": 3,
-			"RefireModifier" : 0,
+			"RefireModifier" : 2,
 			"HeatGenerated" : 1
 		},
 		{
