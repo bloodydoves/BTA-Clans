@@ -8,6 +8,7 @@
         "WpnAccuracy: +1",
         "PipsIgnored: +1",
         "Streak",
+		"NoIndirect",
 		"MissileHealth: 1"
       ]
     }
