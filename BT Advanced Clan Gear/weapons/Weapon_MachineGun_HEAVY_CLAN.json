@@ -5,7 +5,7 @@
 		],
         "BonusDescriptions": {
             "Bonuses": [
-                "WpnCrits: 25%",
+                "WpnCrits: -25%",
 				"WpnRecoil: 1",
 				"VariableBurstCount: 6"
             ]
@@ -31,7 +31,7 @@
     "DamageVariance": 0,
     "HeatDamage": 0,
     "AccuracyModifier": 0,
-    "CriticalChanceMultiplier": 1.25,
+    "CriticalChanceMultiplier": 0.75,
     "AOECapable": false,
     "IndirectFireCapable": false,
     "RefireModifier": 1,
