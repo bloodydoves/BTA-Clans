@@ -5,8 +5,8 @@
 		],
         "BonusDescriptions": {
             "Bonuses": [
-                "WpnCrits: -25%",
-				"VariableBurstCount: 6"
+                "WpnCrits: -50%",
+				"VariableBurstCount: 3"
             ]
         }
     },
@@ -22,7 +22,7 @@
     ],
     "AmmoCategory": "MG",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 0,
+    "HeatGenerated": 1,
     "Damage": 1,
     "OverheatedDamageMultiplier": 0,
     "EvasiveDamageMultiplier": 0,
@@ -30,7 +30,7 @@
     "DamageVariance": 0,
     "HeatDamage": 0,
     "AccuracyModifier": 0,
-    "CriticalChanceMultiplier": 0.75,
+    "CriticalChanceMultiplier": 0.5,
     "AOECapable": false,
     "IndirectFireCapable": false,
     "RefireModifier": 0,
@@ -48,7 +48,7 @@
         "UIName": "LMG (C)",
         "Id": "Weapon_MachineGun_LIGHT_CLAN",
         "Name": "LMG (C)",
-        "Details": "The Light Machine Gun fires smaller caliber shells than the standard Machine Gun, doing less damage, but has much further range, which lets the LMG be more effective in general. Additionally, the LMG has increased critical damage chances over the standard Machine Gun.",
+        "Details": "The Light Machine Gun fires smaller caliber shells than the standard Machine Gun, doing less damage, but has much further range, which lets the LMG be more effective in general. \n\n <b>Has increasing jam chance and decreasing crit chance as fire speed increases!</b> \n\n <b><color=#ffcc00>Uses MG Ammo.</color></b> \n\n <b><color=#00ffff>Left Click on Mode value during battle to switch firing mode</color></b>",
         "Icon": "uixSvgIcon_weapon_Ballistic"
     },
     "BonusValueA": "",
@@ -63,52 +63,30 @@
     "DisallowedLocations": "All",
 	"ImprovedBallistic": true,
     "CriticalComponent": false,
-		"Modes":[
+	"Modes":[
 		{
-			"Id":"x1",
-			"UIName":"x1",
-			"isBaseMode":false,
+			"Id": "x1",
+			"UIName": "x1",
+			"isBaseMode": true,
 			"ShotsWhenFired": 0
 		},
 		{
-			"Id":"x2",
-			"UIName":"x2",
-			"isBaseMode":false,
+			"Id": "x2",
+			"UIName": "x2",
+			"isBaseMode": false,
 			"ShotsWhenFired": 1,
-			"RefireModifier" : 1
+			"HeatGenerated": 1,
+			"FlatJammingChance": 0.1,
+			"CriticalChanceMultiplier": -0.2
 		},
 		{
-			"Id":"x3",
-			"UIName":"x3",
-			"isBaseMode":false,
+			"Id": "x3",
+			"UIName": "x3",
+			"isBaseMode": false,
 			"ShotsWhenFired": 2,
-			"RefireModifier" : 1
-		},
-		{
-			"Id":"x4",
-			"UIName":"x4",
-			"isBaseMode":true,
-			"ShotsWhenFired": 3,
-			"RefireModifier" : 2,
-			"HeatGenerated" : 1
-		},
-		{
-			"Id":"x5",
-			"UIName":"x5",
-			"isBaseMode":false,
-			"ShotsWhenFired": 4,
-			"RefireModifier" : 2,
-			"FlatJammingChance": 0.2,
-			"HeatGenerated" : 2
-		},
-		{
-			"Id":"x6",
-			"UIName":"x6",
-			"isBaseMode":false,
-			"ShotsWhenFired": 5,
-			"RefireModifier" : 3,
-			"FlatJammingChance": 0.3,
-			"HeatGenerated" : 3
+			"HeatGenerated": 2,
+			"FlatJammingChance": 0.1,
+			"CriticalChanceMultiplier": -0.4
 		}		
 	],
     "statusEffects": [],
