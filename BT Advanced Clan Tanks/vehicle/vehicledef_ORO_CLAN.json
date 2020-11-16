@@ -4,7 +4,7 @@
 		"Id": "vehicledef_ORO_CLAN",
 		"Name": "Oro Heavy Tank",
 		"Details": "",
-		"Icon": "Manticore",
+		"Icon": "Oro",
 		"Cost": 3336000,
 		"Rarity": 0,
 		"Purchasable": false
