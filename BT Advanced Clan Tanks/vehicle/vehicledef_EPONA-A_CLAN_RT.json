@@ -4,7 +4,7 @@
 		"Id": "vehicledef_EPONA-A_CLAN_RT",
 		"Name": "Epona Pursuit Tank (A)",
 		"Details": "",
-		"Icon": "",
+		"Icon": "Epona",
 		"Cost": 1993,
 		"Rarity": 3,
 		"Purchasable": false
@@ -25,8 +25,8 @@
 			"unit_bracket_med",
 			"unit_predator",
 			"ClanWolf",
-      "ClanJadeFalcon",
-      "ClanGhostBear"
+			"ClanJadeFalcon",
+			"ClanGhostBear"
 		],
 		"tagSetSourceFile": ""
 	},
