@@ -3,7 +3,12 @@
     "ArmActuatorSupport": {
       "LeftLimit": "Lower",
       "RightLimit": "Lower"
-    }
+    },
+		"AssemblyVariant": {
+			"PrefabID": "Timberwolf",
+			"Exclude": false,
+			"Include": true
+		}
   },
   "FixedEquipment": [
     {
