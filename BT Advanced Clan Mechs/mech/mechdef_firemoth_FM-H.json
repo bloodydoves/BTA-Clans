@@ -27,7 +27,7 @@
     "UIName": "Fire Moth FM-H",
     "Id": "mechdef_firemoth_FM-H",
     "Name": "Fire Moth",
-    "Details": "The Fire Moth is a light Clan OmniMech intended for scouting. With a running speed of 162.0 km/h, accelerating up to 216.0 km/h with the MASC system installed on the 'Mech's chassis, the Fire Moth is easily one of the fastest designs ever created. The Fire Moth's superior speed comes from its 200 XL Fusion Engine. An Endo Steel chassis saves additional space. Two tons of Ferro-Fibrous armor act as the only barrier between an enemy and the 'Mech's fragile internals. Mounting the new Heavy Laser systems, the Fire Moth H sports a huge array of nine Heavy Small Lasers, which provide devastating levels of short-range firepower. Two additional double heat sinks are also present.",
+    "Details": "The Fire Moth is a light Clan OmniMech intended for scouting. With a running speed of 162.0 km/h, accelerating up to 216.0 km/h with the MASC system installed on the 'Mech's chassis, the Fire Moth is easily one of the fastest designs ever created. The Fire Moth's superior speed comes from its 200 XL Fusion Engine. An Endo Steel chassis saves additional space. Two tons of Ferro-Fibrous armor act as the only barrier between an enemy and the 'Mech's fragile internals. Mounting the new Heavy Laser systems, the Fire Moth H sports a huge array of nine Heavy Small Lasers, which provide devastating levels of short-range firepower. One additional double heat sink is also present.",
     "Icon": "uixTxrIcon_firemoth"
   },
   "simGameMechPartCost": 410000,
@@ -361,17 +361,6 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
-      "SimGameUID": null,
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-	{
       "MountedLocation": "RightTorso",
       "ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
       "SimGameUID": null,

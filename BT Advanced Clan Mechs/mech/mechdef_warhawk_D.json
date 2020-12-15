@@ -251,17 +251,6 @@
       "prefabName": null,
       "hasPrefabName": false
     },
-	{
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Ammo_AmmunitionBox_Ultra_AC10",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
     {
       "MountedLocation": "LeftArm",
       "ComponentDefID": "emod_arm_part_shoulder",
