@@ -1,0 +1,58 @@
+[
+	{
+		"conditions": {
+			"tag": "planet_pop_small",
+			"owner": "Marian",
+			"rep": ">liked"
+		},
+		"items": "BTA_Liked_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "Marian",
+			"rep": ">liked"
+		},
+		"items": "BTA_Liked_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "Marian",
+			"rep": ">liked"
+		},
+		"items": "BTA_Liked_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "Marian",
+			"rep": ">FRIENDLY"
+		},
+		"items": "itemCollection_Mechs_faction_Generic_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "Marian",
+			"rep": ">FRIENDLY"
+		},
+		"items": "itemCollection_Mechs_faction_Generic_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "Marian",
+			"rep": "HONORED"
+		},
+		"items": "BTA_Honored_Marian"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "Marian",
+			"rep": "HONORED"
+		},
+		"items": "BTA_Honored_Marian"
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"conditions": {
+			"tag": "planet_pop_small",
+			"owner": "Outworld",
+			"rep": ">liked"
+		},
+		"items": "BTA_Liked_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "Outworld",
+			"rep": ">liked"
+		},
+		"items": "BTA_Liked_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "Outworld",
+			"rep": ">liked"
+		},
+		"items": "BTA_Liked_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "Outworld",
+			"rep": ">FRIENDLY"
+		},
+		"items": "itemCollection_Mechs_faction_Generic_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "Outworld",
+			"rep": ">FRIENDLY"
+		},
+		"items": "itemCollection_Mechs_faction_Generic_Periphery"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "Outworld",
+			"rep": "HONORED"
+		},
+		"items": "BTA_Honored_Outworld"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "Outworld",
+			"rep": "HONORED"
+		},
+		"items": "BTA_Honored_Outworld"
+	}
+]
