@@ -8,7 +8,7 @@
     "UIName": "Piranha",
     "Id": "chassisdef_piranha_PIR-1",
     "Name": "Piranha",
-    "Details": "The Piranha was developed by Clan Diamond Shark shortly before the Battle of Tukayyid to combat Inner Sphere conventional infantry and light vehicles. The Piranha is protected mostly by its speed, though it does mount four tons of armor. The Piranha's main threat is its twelve Machine Guns, such a large array allows the 'Mech to chew through an opponent's rear armor almost instantly. For work against hardened targets, the Piranha mounts a pair of ER Medium Lasers and a single ER Small Laser. Since the design only uses ten single heat sinks, the MechWarrior must still manage heat levels.",
+    "Details": "The Piranha was developed by Clan Diamond Shark shortly before the Battle of Tukayyid to combat Inner Sphere conventional infantry and light vehicles. The Piranha is protected mostly by its speed, though it does mount four tons of armor. The Piranha's main threat is its twelve Machine Guns, such a large array allows the 'Mech to chew through an opponent's rear armor almost instantly. For work against hardened targets, the Piranha mounts a pair of ER Medium Lasers and a single ER Small Laser.",
     "Icon": "uixTxrIcon_piranha"
   },
   "MovementCapDefID": "movedef_piranha",
@@ -237,7 +237,7 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Harrasser",
-  "YangsThoughts": "The Piranha was developed by Clan Diamond Shark shortly before the Battle of Tukayyid to combat Inner Sphere conventional infantry and light vehicles. The Piranha is protected mostly by its speed, though it does mount four tons of armor. The Piranha's main threat is its twelve Machine Guns, such a large array allows the 'Mech to chew through an opponent's rear armor almost instantly. For work against hardened targets, the Piranha mounts a pair of ER Medium Lasers and a single ER Small Laser. Since the design only uses ten single heat sinks, the MechWarrior must still manage heat levels.",
+  "YangsThoughts": "The Piranha was developed by Clan Diamond Shark shortly before the Battle of Tukayyid to combat Inner Sphere conventional infantry and light vehicles. The Piranha is protected mostly by its speed, though it does mount four tons of armor. The Piranha's main threat is its twelve Machine Guns, such a large array allows the 'Mech to chew through an opponent's rear armor almost instantly. For work against hardened targets, the Piranha mounts a pair of ER Medium Lasers and a single ER Small Laser.",
   "FixedEquipment": [
 	{
       "MountedLocation": "CenterTorso",
