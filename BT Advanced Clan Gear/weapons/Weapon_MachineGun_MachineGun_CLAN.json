@@ -75,7 +75,6 @@
 			"UIName": "x2",
 			"isBaseMode": false,
 			"ShotsWhenFired": 1,
-			"HeatGenerated": 3,
 			"RefireModifier": 1,
 			"FlatJammingChance": 0.1,
 			"CriticalChanceMultiplier": -0.2
@@ -85,7 +84,6 @@
 			"UIName": "x3",
 			"isBaseMode": false,
 			"ShotsWhenFired": 2,
-			"HeatGenerated": 6,
 			"RefireModifier": 2,
 			"FlatJammingChance": 0.2,
 			"CriticalChanceMultiplier": -0.4
