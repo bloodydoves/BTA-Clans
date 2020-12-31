@@ -3,7 +3,7 @@
 		"conditions": {
 			"tag": "planet_pop_small",
 			"owner": "ComStar",
-			"rep": ">liked"
+			"rep": "+liked"
 		},
 		"items": "BTA_Liked_GreatHouse"
 	},
@@ -11,7 +11,7 @@
 		"conditions": {
 			"tag": "planet_pop_large",
 			"owner": "ComStar",
-			"rep": ">liked"
+			"rep": "+liked"
 		},
 		"items": "BTA_Liked_GreatHouse"
 	},
@@ -19,7 +19,7 @@
 		"conditions": {
 			"tag": "planet_pop_medium",
 			"owner": "ComStar",
-			"rep": ">liked"
+			"rep": "+liked"
 		},
 		"items": "BTA_Liked_GreatHouse"
 	},
@@ -27,7 +27,7 @@
 		"conditions": {
 			"tag": "planet_pop_large",
 			"owner": "ComStar",
-			"rep": ">FRIENDLY"
+			"rep": "+FRIENDLY"
 		},
 		"items": "itemCollection_systemStores_MechParts_ComStar_Light"
 	},
@@ -35,7 +35,7 @@
 		"conditions": {
 			"tag": "planet_pop_medium",
 			"owner": "ComStar",
-			"rep": ">FRIENDLY"
+			"rep": "+FRIENDLY"
 		},
 		"items": "itemCollection_systemStores_MechParts_ComStar_Light"
 	},
