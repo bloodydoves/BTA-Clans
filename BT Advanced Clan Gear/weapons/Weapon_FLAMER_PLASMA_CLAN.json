@@ -53,7 +53,6 @@
 	"ProjectileSpeedMultiplier": 0.75,
 	"ProjectileScale": {"x":1,"y":1,"z":0.7},
     "WeaponEffectID": "WeaponEffect-Weapon_PPC",
-	"preFireSFX": "Play_ion_cannon",
     "Description": {
         "Cost": 1079000,
         "Rarity": 10,
