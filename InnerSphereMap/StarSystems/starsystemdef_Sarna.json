@@ -150,7 +150,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Liao"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Sarna",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

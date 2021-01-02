@@ -138,7 +138,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Kurita"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Brihuega",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

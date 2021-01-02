@@ -140,7 +140,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Kurita"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_TurtleBay",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

@@ -149,7 +149,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Davion"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Manapire",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

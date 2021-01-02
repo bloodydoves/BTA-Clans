@@ -152,7 +152,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Outworld"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Ramora",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

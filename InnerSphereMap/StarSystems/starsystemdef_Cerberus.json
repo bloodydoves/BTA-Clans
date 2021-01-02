@@ -155,7 +155,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Outworld"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Cerberus",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

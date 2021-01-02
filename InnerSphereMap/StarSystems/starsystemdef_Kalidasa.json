@@ -141,7 +141,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Marik"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Kalidasa",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",
