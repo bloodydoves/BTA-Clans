@@ -137,7 +137,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Marik"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Butzfleth",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

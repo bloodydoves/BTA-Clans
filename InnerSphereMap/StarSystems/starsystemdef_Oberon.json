@@ -146,7 +146,9 @@
   "FactionShopItems": [
     "itemCollection_faction_ClanWorlds"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Oberon",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

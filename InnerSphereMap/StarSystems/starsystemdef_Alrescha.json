@@ -135,7 +135,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Liao"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Alrescha",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

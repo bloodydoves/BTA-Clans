@@ -152,7 +152,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Steiner"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_NewKyoto",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

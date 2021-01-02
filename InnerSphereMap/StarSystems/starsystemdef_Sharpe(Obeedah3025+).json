@@ -141,7 +141,9 @@
   "FactionShopItems": [
     "itemCollection_faction_ComStar"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Sharpe(Obeedah3025+)",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

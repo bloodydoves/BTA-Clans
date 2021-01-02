@@ -147,7 +147,9 @@
   "FactionShopItems": [
     "itemCollection_faction_MagistracyOfCanopus"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Palm",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

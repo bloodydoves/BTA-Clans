@@ -133,7 +133,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Tortuga"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_NewHaiti(NewHati)",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

@@ -152,7 +152,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Marian"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Lordinax",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",
