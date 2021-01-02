@@ -129,7 +129,9 @@
 	"itemCollection_faction_Rezak"
   ],
   "factionShopOwnerID": "SelfEmployed",
-  "FactionShopItems": [],
+  "FactionShopItems": [
+	"itemCollection_faction_Rezak"
+  ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_RezaksHole",
   "StartingSystemModes": [
