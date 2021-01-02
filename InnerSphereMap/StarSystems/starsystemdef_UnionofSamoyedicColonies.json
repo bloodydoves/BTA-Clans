@@ -132,7 +132,9 @@
   "SystemShopItems": [],
   "factionShopOwnerID": "Locals",
   "FactionShopItems": [],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_UnionofSamoyedicColonies",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

@@ -150,7 +150,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Delphi"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Dania",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

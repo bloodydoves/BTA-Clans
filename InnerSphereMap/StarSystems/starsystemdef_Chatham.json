@@ -150,7 +150,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Kurita"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Chatham",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

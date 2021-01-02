@@ -143,7 +143,9 @@
   "FactionShopItems": [
     "itemCollection_faction_ClanWorlds"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Alshain",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

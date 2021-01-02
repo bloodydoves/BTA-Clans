@@ -146,7 +146,9 @@
   "FactionShopItems": [
     "itemCollection_faction_MagistracyOfCanopus"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Marantha",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

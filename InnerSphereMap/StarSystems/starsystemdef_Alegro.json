@@ -136,7 +136,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Outworld"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Alegro",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

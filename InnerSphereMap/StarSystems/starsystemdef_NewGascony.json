@@ -129,7 +129,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Tortuga"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_NewGascony",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

@@ -138,7 +138,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Outworld"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Valasha",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",

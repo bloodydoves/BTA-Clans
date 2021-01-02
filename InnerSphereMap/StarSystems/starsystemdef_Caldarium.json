@@ -132,7 +132,9 @@
   "FactionShopItems": [
     "itemCollection_faction_Rim"
   ],
-  "BlackMarketShopItems": null,
+  "BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
   "CoreSystemID": "starsystemdef_Caldarium",
   "StartingSystemModes": [
     "KAMEA_CAMPAIGN",
