@@ -8,11 +8,11 @@
             "Bonuses": [
                 "AMS",
 				"OLAMSAttacks",
-                "AMSAcc: 35%",
-                "AMSShots: 15",
+                "AMSAcc: 40%",
+                "AMSShots: 10",
 				"OLAMSHeat: 6",
-				"OLAMSJam: 30%",
-				"OLAMSShots: 30",
+				"OLAMSJam: 35%",
+				"OLAMSShots: 20",
 				"AMSDamage: 1"
             ]
         },
