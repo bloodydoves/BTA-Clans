@@ -19,7 +19,7 @@
       "planet_civ_innersphere",
       "planet_industry_mining",
       "planet_other_starleague",
-      "planet_faction_kurita"
+      "planet_faction_clannovacat"
     ],
     "tagSetSourceFile": ""
   },
@@ -37,7 +37,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 9,
-  "ownerID": "Kurita",
+  "ownerID": "ClanNovaCat",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -123,13 +123,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Kurita",
+    "itemCollection_major_ClanWorld",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "Kurita",
-  "FactionShopItems": [
-    "itemCollection_faction_Kurita"
+  "factionShopOwnerID": "ClanNovaCat",
+"FactionShopItems": [
+    "itemCollection_faction_ClanNovaCat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Mualang",
@@ -142,15 +142,16 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Kurita",
+    "ClanNovaCat",
     "Locals"
   ],
   "contractTargetIDs": [
-    "Steiner",
-    "Davion",
-    "ComStar",
-    "Outworld",
-    "Rasalhague",
-    "AuriganPirates"
+	"Steiner",
+	"Davion",
+	"ComStar",
+	"ClanGhostBear",
+	"ClanJadeFalcon",
+	"ClanWolf",
+	"Locals"
   ]
 }

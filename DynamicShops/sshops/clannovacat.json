@@ -1,0 +1,58 @@
+[
+	{
+		"conditions": {
+			"tag": "planet_pop_small",
+			"owner": "ClanNovaCat",
+			"rep": "+liked"
+		},
+		"items": "BTA_Liked_Clan"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "ClanNovaCat",
+			"rep": "+liked"
+		},
+		"items": "BTA_Liked_Clan"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "ClanNovaCat",
+			"rep": "+liked"
+		},
+		"items": "BTA_Liked_Clan"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "ClanNovaCat",
+			"rep": "+FRIENDLY"
+		},
+		"items": "itemCollection_systemStores_MechParts_ClanNovaCat_Light"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "ClanNovaCat",
+			"rep": "+FRIENDLY"
+		},
+		"items": "itemCollection_systemStores_MechParts_ClanNovaCat_Light"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_large",
+			"owner": "ClanNovaCat",
+			"rep": "HONORED"
+		},
+		"items": "BTA_Honored_ClanNovaCat"
+	},
+	{
+		"conditions": {
+			"tag": "planet_pop_medium",
+			"owner": "ClanNovaCat",
+			"rep": "HONORED"
+		},
+		"items": "BTA_Honored_ClanNovaCat"
+	}
+]

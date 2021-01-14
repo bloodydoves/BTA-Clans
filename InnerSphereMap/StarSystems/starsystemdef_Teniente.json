@@ -24,7 +24,7 @@
       "planet_industry_research",
       "planet_industry_manufacturing",
       "planet_other_boreholes",
-      "planet_faction_nofaction",
+      "planet_faction_clannovacat",
       "planet_other_empty"
     ],
     "tagSetSourceFile": ""
@@ -43,7 +43,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 10,
-  "ownerID": "NoFaction",
+  "ownerID": "ClanNovaCat",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -129,13 +129,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_TaurianConcordat",
+    "itemCollection_major_ClanWorld",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "NoFaction",
-  "FactionShopItems": [
-    "itemCollection_faction_TaurianConcordat"
+  "factionShopOwnerID": "ClanNovaCat",
+"FactionShopItems": [
+    "itemCollection_faction_ClanNovaCat"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Teniente",
@@ -147,55 +147,17 @@
   "DefaultDifficulty": 5,
   "DifficultyList": [],
   "DifficultyModes": [],
-  "contractEmployerIDs": [],
-  "contractTargetIDs": [
-    "Steiner",
-    "Marik",
-    "Kurita",
-    "Davion",
-    "Liao",
-    "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
-    "Outworld",
-    "Marian",
-    "Oberon",
-    "Lothian",
-    "Circinus",
-    "Illyrian",
-    "Rasalhague",
-    "Ives",
-    "Axumite",
-    "Castile",
-    "Chainelane",
-    "ClanBurrock",
-    "ClanCloudCobra",
-    "ClanCoyote",
-    "ClanDiamondShark",
-    "ClanFireMandrill",
-    "ClanGhostBear",
-    "ClanGoliathScorpion",
-    "ClanHellsHorses",
-    "ClanIceHellion",
-    "ClanJadeFalcon",
+  "contractEmployerIDs": [
     "ClanNovaCat",
-    "ClansGeneric",
-    "ClanSmokeJaguar",
-    "ClanSnowRaven",
-    "ClanStarAdder",
-    "ClanSteelViper",
-    "ClanWolf",
-    "Delphi",
-    "Elysia",
-    "Hanse",
-    "JarnFolk",
-    "Tortuga",
-    "Valkyrate",
-    "NoFaction",
-    "Locals",
-    "AuriganDirectorate",
-    "AuriganPirates",
-    "WordOfBlake"
+    "Locals"
+  ],
+  "contractTargetIDs": [
+	"Steiner",
+	"Davion",
+	"ComStar",
+	"ClanGhostBear",
+	"ClanJadeFalcon",
+	"ClanWolf",
+	"Locals"
   ]
 }
