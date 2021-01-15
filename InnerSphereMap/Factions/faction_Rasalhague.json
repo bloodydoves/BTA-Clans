@@ -12,7 +12,8 @@
         "AuriganPirates",
 		"ClanWolf",
 		"ClanJadeFalcon",
-		"ClanGhostBear"
+		"ClanGhostBear",
+		"ClanNovaCat"
     ],
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
