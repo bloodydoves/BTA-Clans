@@ -28,7 +28,7 @@
       "planet_industry_manufacturing",
       "planet_other_boreholes",
       "planet_ruins",
-      "planet_faction_clanjadefalcon"
+      "planet_faction_clandiamondshark"
     ],
     "tagSetSourceFile": ""
   },
@@ -44,8 +44,8 @@
     "tagSetSourceFile": ""
   },
   "FuelingStation": true,
-  "JumpDistance": 22,
-  "ownerID": "ClanJadeFalcon",
+  "JumpDistance": 10,
+  "ownerID": "ClanDiamondShark",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -131,13 +131,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ClanWorlds",
-    "itemCollection_shop_chemicalsProgression",
-    "itemCollection_shop_miningProgression"
+    "itemCollection_major_ClanDiamondShark"
   ],
-  "factionShopOwnerID": "ClanJadeFalcon",
+  "factionShopOwnerID": "ClanDiamondShark",
   "FactionShopItems": [
-    "itemCollection_faction_ClanWorlds"
+    "itemCollection_major_ClanDiamondShark"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Twycross",
@@ -149,16 +147,6 @@
   "DefaultDifficulty": 1,
   "DifficultyList": [],
   "DifficultyModes": [],
-  "contractEmployerIDs": [
-    "Steiner",
-    "Marik",
-    "Kurita",
-    "Davion",
-    "Liao",
-    "ComStar",
-    "Rasalhague"
-  ],
-  "contractTargetIDs": [
-    "ClanJadeFalcon"
-  ]
+  "contractEmployerIDs": [],
+  "contractTargetIDs": []
 }
