@@ -85,6 +85,12 @@
 	},
 	{
 		"conditions": {
+			"tag": "planet_name_solaris"
+		},
+		"items": "BTA_List_Solaris"
+	},
+	{
+		"conditions": {
 			"tag": "planet_faction_clandiamondshark"
 		},
 		"items": "itemCollection_major_ClanDiamondShark"
