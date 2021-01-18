@@ -2,7 +2,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_small",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "+liked"
 		},
 		"items": "BTA_Liked_Clan"
@@ -10,7 +10,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_large",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "+liked"
 		},
 		"items": "BTA_Liked_Clan"
@@ -18,7 +18,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_medium",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "+liked"
 		},
 		"items": "BTA_Liked_Clan"
@@ -26,7 +26,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_large",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "+FRIENDLY"
 		},
 		"items": "itemCollection_systemStores_MechParts_ClanNovaCat_Light"
@@ -34,7 +34,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_medium",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "+FRIENDLY"
 		},
 		"items": "itemCollection_systemStores_MechParts_ClanNovaCat_Light"
@@ -42,7 +42,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_large",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "HONORED"
 		},
 		"items": "BTA_Honored_ClanNovaCat"
@@ -50,7 +50,7 @@
 	{
 		"conditions": {
 			"tag": "planet_pop_medium",
-			"owner": "ClanNovaCat",
+			"owner": "Nova Cat",
 			"rep": "HONORED"
 		},
 		"items": "BTA_Honored_ClanNovaCat"
