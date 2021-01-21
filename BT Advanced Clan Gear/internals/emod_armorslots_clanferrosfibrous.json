@@ -41,8 +41,6 @@
             "Bonuses": [
                 "ArmorFactor: -12%",
                 "Reserved: 7",
-                "ArmorTPCost: 30%",
-                "ArmorCBCost: 65%",
                 "CASE"
             ]
         }
