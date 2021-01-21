@@ -43,9 +43,9 @@
 		"Purchasable": true,
 		"Manufacturer": "Clan",
 		"Model": "Engine Kit",
-		"UIName": "Heat Sink Kit (C)",
+		"UIName": "Heat Sink Kit (CDHS)",
 		"Id": "emod_kit_cdhs",
-		"Name": "Engine Kit (C)",
+		"Name": "Engine Sink Kit (CDHS)",
 		"Details": "Converts an SHS engine to CDHS. A Mech' <b>Cooling System</b> provides heat dissipation for components inside the mech and compatible extension points for additional heat sinks throughout the mech. It differs from the closed cooling system of the engine.",
 		"Icon": "uixSvgIcon_equipment_Heatsink"
 	},
