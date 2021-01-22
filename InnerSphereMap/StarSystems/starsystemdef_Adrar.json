@@ -153,8 +153,6 @@
         "CAREER"
     ],
     "contractEmployerIDs": [
-        "Liao",
-        "MagistracyOfCanopus",
         "Locals",
         "AuriganPirates"
     ],
@@ -162,6 +160,7 @@
         "AuriganPirates",
         "Liao",
         "MagistracyOfCanopus",
-        "Locals"
+        "AuriganRestoration",
+        "TaurianConcordat"
     ]
 }

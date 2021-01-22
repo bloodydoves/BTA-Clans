@@ -145,36 +145,13 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 6,
+  "DefaultDifficulty": 2,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
     "Locals"
   ],
   "contractTargetIDs": [
-    "Steiner",
-    "Kurita",
-    "Davion",
-    "Liao",
-    "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
-    "Outworld",
-    "Marian",
-    "Circinus",
-    "Rasalhague",
-    "Chainelane",
-    "ClanGhostBear",
-    "ClanJadeFalcon",
-    "ClanWolf",
-    "Delphi",
-    "Hanse",
-    "JarnFolk",
-    "Tortuga",
-    "NoFaction",
-    "Locals",
-    "AuriganDirectorate",
     "AuriganPirates"
   ]
 }
