@@ -1,36 +1,33 @@
 {
     "Description": {
-        "Id": "starsystemdef_Balawat",
-        "Name": "Balawat",
-        "Details": "Long ago, frozen Balawat was struck by a meteor that dug a hole deep in the planet's crust, letting shine its inner light. Now, only in this giant crater, life thrives, including a single large Magistracy port initially established as an art colony and since maintained by the mining industry.",
+        "Id": "starsystemdef_Calseraigne",
+        "Name": "Calseraigne",
+        "Details": "A mining and industrial world of more strategic than economic value, Calseraigne was seized from the Capellans during the Third Succession War by the Free Worlds League. The inhabitants chafe under Marik rule, and unrest and minor sabotage is common.",
         "Icon": ""
     },
     "Position": {
-        "x": -52.05,
-        "y": -510.48,
+        "x": -8.35,
+        "y": -370.86,
         "z": 0
     },
     "Tags": {
         "items": [
-            "planet_size_large",
-            "planet_climate_arctic",
-            "planet_pop_small",
+            "planet_size_medium",
+            "planet_climate_arid",
+            "planet_pop_medium",
             "planet_civ_periphery",
             "planet_progress_3",
-            "planet_feature_moon02",
-            "planet_industry_manufacturing",
-            "planet_other_moon",
-            "planet_name_balawat",
-            "planet_faction_magistracy",
-			"planet_faction_magistracyofcanopus"
+            "planet_feature_asteroids",
+            "planet_other_battlefield",
+            "planet_name_calseraigne",
+            "planet_faction_marik"
         ],
         "tagSetSourceFile": ""
     },
     "SupportedBiomes": [
-        "highlandsSpring",
-        "highlandsFall",
-        "polarFrozen",
-        "tundraFrozen"
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen"
     ],
     "MapRequiredTags": {
         "items": [],
@@ -40,12 +37,12 @@
         "items": [],
         "tagSetSourceFile": ""
     },
-    "FuelingStation": false,
-    "JumpDistance": 3,
-    "ownerID": "MagistracyOfCanopus",
+    "FuelingStation": true,
+    "JumpDistance": 4,
+    "ownerID": "Marik",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
-    "ShopMaxSpecials": 4,
+    "ShopMaxSpecials": 8,
     "SystemInfluence": [
         {
             "factionID": "NoFaction",
@@ -128,38 +125,38 @@
     "UseMaxContractOverride": false,
     "MaxContractOverride": 0,
     "SystemShopItems": [
-        "itemCollection_minor_MagistracyOfCanopus",
-        "itemCollection_shop_manufacturing"
+        "itemCollection_minor_Marik",
+        "itemCollection_shop_battlefield"
     ],
     "factionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
-    "CoreSystemID": "starsystemdef_Balawat",
+    "CoreSystemID": "starsystemdef_Calseraigne",
     "StartingSystemModes": [
         "KAMEA_CAMPAIGN",
         "CAREER",
         "NONE"
     ],
-    "DefaultDifficulty": -1,
+    "DefaultDifficulty": 3,
     "DifficultyList": [
-        -1,
-        5
+        3,
+        9
     ],
     "DifficultyModes": [
         "KAMEA_CAMPAIGN",
         "CAREER"
     ],
     "contractEmployerIDs": [
-        "Locals",
-        "MagistracyOfCanopus"
-    ],
-    "contractTargetIDs": [
-    "Liao",
-    "Marik",
-    "Marian",
-	"TaurianConcordat",
-    "AuriganPirates",
-	"AuriganRestoration",
-    "ComStar"
-  ]
+		"Marik",
+		"Locals"
+	  ],
+	  "contractTargetIDs": [
+		"Steiner",
+		"Liao",
+		"ComStar",
+		"MagistracyOfCanopus",
+		"Marian",
+		"Circinus",
+		"AuriganPirates"
+	  ]
 }
