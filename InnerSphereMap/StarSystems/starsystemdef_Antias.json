@@ -155,15 +155,14 @@
         "CAREER"
     ],
     "contractEmployerIDs": [
-        "Marik",
-        "Liao",
         "Locals",
         "AuriganPirates"
     ],
     "contractTargetIDs": [
         "AuriganPirates",
-        "Marik",
         "Liao",
-        "Locals"
+        "MagistracyOfCanopus",
+        "AuriganRestoration",
+        "TaurianConcordat"
     ]
 }
