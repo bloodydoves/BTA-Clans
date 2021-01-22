@@ -12,6 +12,7 @@
 	"ChassisID": "vehiclechassisdef_APC_INDRA_CLAN",
 	"VehicleTags": {
 		"items": [
+			"unit_noncontrollableTank",
 			"mr-resize-1.25",
 			"unit_vehicle",
 			"unit_light",

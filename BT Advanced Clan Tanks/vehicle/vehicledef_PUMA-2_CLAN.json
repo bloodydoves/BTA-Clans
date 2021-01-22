@@ -12,6 +12,7 @@
 	"ChassisID": "vehiclechassisdef_PUMA-2_CLAN",
 	"VehicleTags": {
 		"items": [
+			"unit_noncontrollableTank",
 			"mr-resize-2.67",
 			"unit_vehicle",
 			"unit_notsacellum",

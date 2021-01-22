@@ -12,6 +12,7 @@
 	"ChassisID": "vehiclechassisdef_TYR",
 	"VehicleTags": {
 		"items": [
+			"unit_noncontrollableTank",
 			"mr-resize-1.15",
 			"unit_vehicle",
 			"unit_medium",
