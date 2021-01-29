@@ -22,7 +22,7 @@
     ],
     "AmmoCategory": "MG",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 3,
+    "HeatGenerated": 2,
     "Damage": 5,
     "OverheatedDamageMultiplier": 0,
     "EvasiveDamageMultiplier": 0,
