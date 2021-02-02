@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Syrstart",
     "Name": "Syrstart",
-    "Details": "Once the site of numerous SLDF caches, they were bombarded from orbit when the SLDF left - leaving the world in ruins. Numerous plagues have not done the population much good over recent years.",
+    "Details": "Once the site of numerous SLDF caches, they were bombarded from orbit when the SLDF left - leaving the world in ruins. Numerous plagues have not done the population much good over recent years and Syrstart remains the weakest of the worlds in the Isles, with little to nothing of note or importance.",
     "Icon": ""
   },
   "Position": {
@@ -140,7 +140,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 5,
+  "DefaultDifficulty": 1,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [

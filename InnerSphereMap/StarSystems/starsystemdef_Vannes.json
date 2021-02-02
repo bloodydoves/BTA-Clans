@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Vannes",
     "Name": "Vannes",
-    "Details": "Settled during the Reunification War, Vannes was originally the site of a large Merkava tank production line. The SLDF also set up a Castle Brian here, now known as Castle Vannes with a vast underground network underneath.",
+    "Details": "Once a Rim Worlds Republic system and later occupied, briefly, by Star League forces, Vannes is now home to a powerful group of raiders calling themselves the Vannite Pirate Kingdom. The kingdom is strengthened by its discovery of a still-operational Merkava tank factory from the RWR days and by the presence of a Star League Castle Brian, called Castle Vannes locally.",
     "Icon": ""
   },
   "Position": {
@@ -148,7 +148,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 1,
+  "DefaultDifficulty": 7,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [

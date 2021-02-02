@@ -1,8 +1,8 @@
 {
   "Description": {
     "Id": "starsystemdef_Idrmach(Idrmarch)",
-    "Name": "Idrmach (Idrmarch)",
-    "Details": "NOT DONE",
+    "Name": "Idrmarch",
+    "Details": "Generally regarded as a pirate haven, Idrmarch was on the slow decline into death when it was saved by the arrival of a misjumped DropShip, the Pendragon, which claimed to have entered jump 5 centuries before arriving at Idrmarch. The truth of that story was never determined but the colonists saved the planet. Now, Idrmarch is known for its slaving and piracy, but is by all accounts thriving regardless.",
     "Icon": ""
   },
   "Position": {
@@ -155,7 +155,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 3,
+  "DefaultDifficulty": 4,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [

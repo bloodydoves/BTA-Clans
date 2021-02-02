@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Haublan",
     "Name": "Haublan",
-    "Details": "Haublan was once a failed colony world inside the borders of the Rim Worlds Republic, before being abandoned to it's own devices. Now the world is ruled by the remains of an Agricorp, a pirate band and the few nobles who are left. ",
+    "Details": "Haublan was once a failed colony world inside the borders of the Rim Worlds Republic, before being abandoned to it's own devices. Now the world is ruled by a council of the three powers left: Agricorp, the Hanju Imperium, and the Star Skulls pirate band. Haublan remains a relatively backwater system in the Isles though.",
     "Icon": ""
   },
   "Position": {
@@ -39,7 +39,7 @@
     "tagSetSourceFile": ""
   },
   "FuelingStation": false,
-  "JumpDistance": 138,
+  "JumpDistance": 24,
   "ownerID": "Chainelane",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
@@ -143,7 +143,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 9,
+  "DefaultDifficulty": 3,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [

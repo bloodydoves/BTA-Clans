@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Ingvolstand",
     "Name": "Ingvolstand",
-    "Details": "NOT DONE",
+    "Details": "The collapse of the Rim Worlds Republic led many worlds to a slow decline and death, Ingvolstand among them. That is, until the Hell's Queens pirate band arrived in 2802. The Queens rapidly took over and reshaped the world into a matriarchal society, the Helena Collective, based on their own structure. A trade agreement with Rondane led to great prosperity and Ingvolstand is one of the most powerful of the nations in the Chainelane Isles.",
     "Icon": ""
   },
   "Position": {
@@ -153,7 +153,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 10,
+  "DefaultDifficulty": 6,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
