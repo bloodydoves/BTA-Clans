@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Rondane",
     "Name": "Rondane",
-    "Details": "NOT DONE",
+    "Details": "The capital world of the powerful Rondane Syndicate, Rondane is an economic powerhouse among the Isles, largely due to its alliance with the Helena Collective of Ingvolstand. That economic and political alliance has strengthened both worlds considerably and let the shadowy Syndicate grow in influence and power quietly.",
     "Icon": ""
   },
   "Position": {
@@ -152,7 +152,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 9,
+  "DefaultDifficulty": 5,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [

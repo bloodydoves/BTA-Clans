@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_Paran",
     "Name": "Paran",
-    "Details": "Paran VI served as a breadbasket system for the Rim Worlds Republic, covered in island-spanning orchards and massive fisheries. After the Amaris Civil War ended, Paran kept to itself, and slid back into 20th century tech.",
+    "Details": "Paran VI served as a breadbasket system for the Rim Worlds Republic, covered in island-spanning orchards and massive fisheries. After the Amaris Civil War ended, Paran kept to itself, eventually becoming a haven for outcasts and misanthropes across the isles. Paran is a safe haven for anyone, as long as they keep to themselves.",
     "Icon": ""
   },
   "Position": {
@@ -143,7 +143,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 8,
+  "DefaultDifficulty": 2,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [

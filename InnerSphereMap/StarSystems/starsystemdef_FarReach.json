@@ -2,7 +2,7 @@
   "Description": {
     "Id": "starsystemdef_FarReach",
     "Name": "Far Reach",
-    "Details": "NOT DONE",
+    "Details": "Originally the corporate center for the Rim Worlds Republic, Far Reach fell into disarray when the RWR was destroyed. It survived only by the grace and hard work of its abandoned corporations and their workers. Today, it forms the basis of the Far Reach Collective, one of the many minor powers of the Chainelane Isles.",
     "Icon": ""
   },
   "Position": {
@@ -153,7 +153,7 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 3,
+  "DefaultDifficulty": 8,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
