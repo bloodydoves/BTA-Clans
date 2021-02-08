@@ -1,7 +1,7 @@
 {
 	"Description" : {
 		"Id" : "turretchassisdef_lightlbx_C",
-		"Name" : LB-2X Sniper Turret",
+		"Name" : "LB-2X Sniper Turret",
 		"Details" : "",
 		"Icon" : "TURRET",
 		"Cost" : 993,
