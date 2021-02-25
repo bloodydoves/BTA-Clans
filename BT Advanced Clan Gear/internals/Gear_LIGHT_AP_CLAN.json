@@ -60,7 +60,7 @@
             },
             "nature": "Buff",
             "statisticData": {
-                "statName": "SensorDistanceAbsolute",
+                "statName": "SensorDistanceMultiplier",
                 "operation": "Float_Multiply",
                 "modValue": "1.1",
                 "modType": "System.Single"
@@ -102,7 +102,7 @@
             },
             "nature": "Buff",
             "statisticData": {
-                "statName": "SpotterDistanceAbsolute",
+                "statName": "SpotterDistanceMultiplier",
                 "operation": "Float_Multiply",
                 "modValue": "1.1",
                 "modType": "System.Single"
