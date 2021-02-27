@@ -17,8 +17,8 @@
 				"WalkSpeed: +10%",
 				"RunSpeed: +0.1",
 				"JumpDistance: +10%",
-				"Accuracy: +2",
-				"EndMoveHeat: -12"
+				"Accuracy: +1",
+				"EndMoveHeat: -6"
 			]
 		}
 	},
@@ -170,7 +170,7 @@
 			"statisticData": {
 				"statName": "AccuracyModifier",
 				"operation": "Float_Add",
-				"modValue": "-2.0",
+				"modValue": "-1.0",
 				"modType": "System.Single",
 				"targetCollection": "Weapon"
 			}
@@ -190,14 +190,14 @@
             "Description": {
                 "Id": "ClanQuirkHeat",
                 "Name": "Improved Heat Bank",
-                "Details": "Improved Heat Bank system venting 12 heat",
+                "Details": "Improved Heat Bank system venting 6 heat",
                 "Icon": "uixSvgIcon_equipment_ThermalExchanger"
             },
             "nature": "Buff",
             "statisticData": {
                 "statName": "EndMoveHeat",
                 "operation": "Int_Add",
-                "modValue": "-12",
+                "modValue": "-6",
                 "modType": "System.Int32"
             }
         }
