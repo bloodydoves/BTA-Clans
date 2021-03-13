@@ -12,6 +12,7 @@
 	"ChassisID": "vehiclechassisdef_ODIN_CLAN",
 	"VehicleTags": {
 		"items": [
+			"unit_noncontrollableTank",
 			"mr-resize-1.35",
 			"unit_vehicle",
 			"unit_light",

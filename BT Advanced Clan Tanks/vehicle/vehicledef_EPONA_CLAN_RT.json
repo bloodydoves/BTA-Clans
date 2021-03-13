@@ -12,6 +12,7 @@
 	"ChassisID": "vehiclechassisdef_EPONA_CLAN_RT",
 	"VehicleTags": {
 		"items": [
+			"unit_noncontrollableTank",
 			"mr-resize-1.68",
 			"unit_vehicle",
 			"unit_medium",

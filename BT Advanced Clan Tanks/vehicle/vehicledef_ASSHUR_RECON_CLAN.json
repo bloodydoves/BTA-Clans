@@ -12,6 +12,7 @@
 	"ChassisID": "vehiclechassisdef_ASSHUR_RECON_CLAN",
 	"VehicleTags": {
 		"items": [
+			"unit_noncontrollableTank",
 			"mr-resize-2.02",
 			"unit_vehicle",
 			"unit_light",
