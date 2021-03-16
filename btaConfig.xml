@@ -102,7 +102,7 @@
 			<isSelected>false</isSelected>
 			<jobOrder>1</jobOrder>
 			<jobType>Install</jobType>
-			<optionGroupId>BTACommunityContent</optionGroupId>
+			<optionGroupId>ClanExpansionOptions</optionGroupId>
 			<promptConfirmation>false</promptConfirmation>
 			<promptText/>
 			<sourcePath>Community Content</sourcePath>
