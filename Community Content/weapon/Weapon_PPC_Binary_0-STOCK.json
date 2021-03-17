@@ -11,7 +11,12 @@
 		"BonusDescriptions": {
 			"Bonuses": [
 				"NoFireInMelee",
-				"PPCDEBUFF: 1"
+				"PPCDEBUFF: 2",
+				"ModalWeapon: Paired Projectors",
+				"ModalWeapon2: Split Projectors",
+				"DmgFallOffMode: 40%",
+				"DmgFallOffStartMode: 185",
+				"DmgFallOffEndMode: 540"
 			]
 		}
 	},
@@ -27,8 +32,8 @@
 	],
 	"AmmoCategory": "NotSet",
 	"StartingAmmoCapacity": 0,
-	"HeatGenerated": 35,
-	"Damage": 50,
+	"HeatGenerated": 55,
+	"Damage": 110,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
 	"EvasivePipsIgnored": 0,
@@ -42,7 +47,7 @@
 	"ShotsWhenFired": 1,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 1,
-	"Instability": 15,
+	"Instability": 20,
 	"WeaponEffectID": "WeaponEffect-Weapon_PPC",
 	"Description": {
 		"Cost": 280000,
@@ -50,10 +55,10 @@
 		"Purchasable": true,
 		"Manufacturer": "Jimbo's Crabshack",
 		"Model": "Particle Projector Cannon",
-		"UIName": "Rotary PPC",
-		"Id": "Weapon_PPC_Rotary_0-STOCK",
-		"Name": "Rotary PPC",
-		"Details": "Heavy PPCs trade increased weight and heat generation for increased damage output.",
+		"UIName": "Binary PPC",
+		"Id": "Weapon_PPC_Binary_0-STOCK",
+		"Name": "Binary PPC",
+		"Details": "Modeled after the rare and mostly forgotten Binary Laser Cannon, the Binary Particle Projector Cannon is a pair of PPC projectors fused together into a single weapon. Able to fire either in concert or in sequence, the Bleeper, as it is affectionately known to its creators, has proven effective if unusual.",
 		"Icon": "uixSvgIcon_weapon_Energy"
 	},
 	"BonusValueA": "",
@@ -91,32 +96,28 @@
 			"statisticData": {
 				"statName": "AccuracyModifier",
 				"operation": "Float_Add",
-				"modValue": "1.0",
+				"modValue": "2.0",
 				"modType": "System.Single"
 			}
 		}
 	],
 	"Modes": [
 		{
-			"Id": "x1",
-			"UIName": "x1",
-			"isBaseMode": true
-		},
-		{
-			"Id": "x2",
-			"UIName": "x2",
+			"Id": "Split_Cores",
+			"UIName": "Split",
 			"isBaseMode": false,
+			"DamagePerShot": -50,
 			"ShotsWhenFired": 1,
-			"RefireModifier": 1,
-			"HeatGenerated": 35
+			"DistantVariance": 0.4,
+			"DamageFalloffStartDistance": 185,
+			"DamageFalloffEndDistance": 540,
+			"DistantVarianceReversed": false,
+			"RangedDmgFalloffType": "Linear"
 		},
 		{
-			"Id": "x3",
-			"UIName": "x3",
-			"isBaseMode": false,
-			"ShotsWhenFired": 2,
-			"RefireModifier": 2,
-			"HeatGenerated": 70
+			"Id": "Linked_Cores",
+			"UIName": "Paired",
+			"isBaseMode": true
 		}
 	],
 	"ComponentTags": {
