@@ -1,4 +1,15 @@
 {
+  "Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "DireWolf",
+			"Exclude": false,
+			"Include": true
+		},
+    "ArmActuatorSupport": {
+      "LeftLimit": "Upper",
+      "RightLimit": "Upper"
+    }
+  },
     "FixedEquipment": [
         {
             "MountedLocation": "CenterTorso", 
