@@ -59,7 +59,7 @@
     "Id": "Weapon_Laser_MicroLaserPulse_CLAN",
     "Name": "Micro Pulse (C)",
     "Details": "The Micro Pulse Laser was designed by Clan Smoke Jaguar (alongside the ER Micro Laser) primarily for use on their ProtoMechs. It has since spread to all the Clans. Micro lasers do less damage and have less crit chance than normal Small Lasers, but weigh less.",
-    "Icon": "uixSvgIcon_weapon_Energy"
+    "Icon": "uixSvgIcon_weapon_Support"
   },
   "BonusValueA": "",
   "BonusValueB": "",
