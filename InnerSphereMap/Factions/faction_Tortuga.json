@@ -11,7 +11,8 @@
         "ComStar",
         "TaurianConcordat",
         "Outworld",
-        "Delphi"
+        "Delphi",
+		"Locals"
     ],
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

@@ -10,7 +10,8 @@
         "Davion",
         "Tortuga",
         "AuriganPirates",
-        "ComStar"
+        "ComStar",
+		"Locals"
     ],
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

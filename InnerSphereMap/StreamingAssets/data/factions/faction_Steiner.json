@@ -18,7 +18,8 @@
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanGhostBear",
-		"ClanNovaCat"
+		"ClanNovaCat",
+		"Locals"
   ],
   "Presence": 0.25,
   "factionID" : "Steiner",

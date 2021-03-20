@@ -13,7 +13,8 @@
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanGhostBear",
-		"ClanNovaCat"
+		"ClanNovaCat",
+		"Locals"
     ],
     "Presence": 0.1,
     "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

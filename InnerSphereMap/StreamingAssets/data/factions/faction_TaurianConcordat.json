@@ -12,7 +12,8 @@
     "AuriganRestoration",
 	"MagistracyOfCanopus",
     "AuriganPirates",
-    "ComStar"
+    "ComStar",
+	"Locals"
   ],
   "Presence": 1.5,
   "factionID" : "TaurianConcordat",

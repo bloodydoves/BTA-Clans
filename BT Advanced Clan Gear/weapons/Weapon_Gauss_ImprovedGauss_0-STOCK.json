@@ -60,7 +60,7 @@
 		"Id": "Weapon_Gauss_ImprovedGauss_0-STOCK",
 		"Name": "Improved Gauss Rifle",
 		"Details": "A strange and mostly forgotten transition technology, this Improved Gauss Rifle was pioneered by the Clans during their formative years. It is not as advanced as the Clan Gauss Rifle but features some improvements over the Inner Sphere Gauss. Unlike Autocannons, Gauss Rifles ammunition will not explode upon a Critical Hit.  <b><color=#099ff2>VOLATILE!</color></b>",
-		"Icon": "uixSvgIcon_weapon_Ballistic"
+		"Icon": "FerroMag"
 	},
 	"BonusValueA": "",
 	"BonusValueB": "",
