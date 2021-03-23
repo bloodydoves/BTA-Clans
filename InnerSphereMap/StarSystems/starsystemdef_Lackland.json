@@ -20,7 +20,8 @@
       "planet_industry_recreation",
       "planet_industry_aquaculture",
       "planet_other_alienvegetation",
-      "planet_faction_davion"
+      "planet_faction_davion",
+	  "planet_tortugan_raids"
     ],
     "tagSetSourceFile": ""
   },

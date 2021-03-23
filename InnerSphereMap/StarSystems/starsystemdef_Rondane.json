@@ -32,7 +32,8 @@
       "planet_other_hub",
       "planet_other_newcolony",
       "planet_ruins",
-      "planet_faction_chainelane"
+      "planet_faction_chainelane",
+	  "planet_hanseatic_raids"
     ],
     "tagSetSourceFile": ""
   },

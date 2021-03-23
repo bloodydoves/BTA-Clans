@@ -1,7 +1,7 @@
 {
   "Description": {
     "Id": "starsystemdef_Micanos(Mica)",
-    "Name": "Micanos (Mica)",
+    "Name": "Mica Majority",
     "Details": "The Micanos system was originally colonized by the Draconis Combine in the second half of the twenty-sixth century to take advantage of the rich mineral deposits on three of the worlds within the system.",
     "Icon": ""
   },
@@ -20,7 +20,8 @@
       "planet_pop_large",
       "planet_civ_innersphere",
       "planet_industry_agriculture",
-      "planet_faction_locals"
+      "planet_faction_locals",
+	  "planet_davion_raids"
     ],
     "tagSetSourceFile": ""
   },
