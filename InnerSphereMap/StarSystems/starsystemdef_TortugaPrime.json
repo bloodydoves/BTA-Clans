@@ -24,7 +24,8 @@
       "planet_industry_agriculture",
       "planet_industry_manufacturing",
 	  "planet_civ_innersphere",
-      "planet_faction_tortuga"
+      "planet_faction_tortuga",
+	  "planet_davion_raids"
     ],
     "tagSetSourceFile": ""
   },

@@ -18,7 +18,8 @@
       "planet_other_volcanic",
       "planet_pop_none",
       "planet_other_newcolony",
-      "planet_faction_taurianconcordat"
+      "planet_faction_taurianconcordat",
+	  "planet_tortugan_raids"
     ],
     "tagSetSourceFile": ""
   },
