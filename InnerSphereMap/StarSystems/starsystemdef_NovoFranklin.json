@@ -22,7 +22,8 @@
       "planet_industry_mining",
       "planet_industry_agriculture",
       "planet_ruins",
-      "planet_faction_locals"
+      "planet_faction_locals",
+	  "planet_davion_raids"
     ],
     "tagSetSourceFile": ""
   },

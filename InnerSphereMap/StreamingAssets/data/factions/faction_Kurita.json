@@ -15,7 +15,8 @@
 	"Rasalhague",
 	"ClanWolf",
 	"ClanJadeFalcon",
-	"ClanGhostBear"
+	"ClanGhostBear",
+	"Locals"
   ],
   "Presence": 0.25,
   "factionID" : "Kurita",

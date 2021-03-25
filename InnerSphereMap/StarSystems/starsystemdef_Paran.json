@@ -19,7 +19,8 @@
       "planet_other_moon",
       "planet_pop_none",
       "planet_industry_agriculture",
-      "planet_faction_chainelane"
+      "planet_faction_chainelane",
+	  "planet_hanseatic_raids"
     ],
     "tagSetSourceFile": ""
   },

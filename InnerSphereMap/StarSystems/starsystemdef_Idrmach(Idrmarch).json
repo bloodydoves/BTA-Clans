@@ -36,7 +36,8 @@
       "planet_other_alienvegetation",
       "planet_other_boreholes",
       "planet_ruins",
-      "planet_faction_chainelane"
+      "planet_faction_chainelane",
+	  "planet_hanseatic_raids"
     ],
     "tagSetSourceFile": ""
   },

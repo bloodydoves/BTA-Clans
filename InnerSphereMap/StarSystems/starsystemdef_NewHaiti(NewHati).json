@@ -1,7 +1,7 @@
 {
   "Description": {
     "Id": "starsystemdef_NewHaiti(NewHati)",
-    "Name": "New Haiti (New Hati)",
+    "Name": "New Haiti",
     "Details": "After the stable and self-sufficient colony on Tortuga was well-established enough, colonization begun on other worlds, leading to the settlement of New Gascony and four other worlds.",
     "Icon": ""
   },
@@ -23,7 +23,8 @@
       "planet_industry_aquaculture",
       "planet_other_blackmarket",
       "planet_other_pirate",
-      "planet_faction_tortuga"
+      "planet_faction_tortuga",
+	  "planet_davion_raids"
     ],
     "tagSetSourceFile": ""
   },
