@@ -36,7 +36,9 @@
 			"clansmokejaguar",
 			"clancloudcobra",
 			"clannovacat",
-			"clanburrock"
+			"clanburrock",
+			"unit_notsacellum",
+			"NOSALVAGE"
 		],
 		"tagSetSourceFile": ""
 	},

@@ -17,6 +17,7 @@
 			"unit_vehicle",
 			"unit_heavy",
 			"unit_notsacellum",
+			"NOSALVAGE",
 			"unit_tracks",
 			"unit_release",
 			"unit_carrier",
