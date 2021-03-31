@@ -21,7 +21,8 @@
       "planet_pop_none",
       "planet_civ_primitive",
       "planet_industry_poor",
-      "planet_faction_chainelane"
+      "planet_faction_chainelane",
+	  "planet_hanseatic_raids"
     ],
     "tagSetSourceFile": ""
   },

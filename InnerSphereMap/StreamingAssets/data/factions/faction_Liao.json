@@ -16,7 +16,9 @@
 		"AuriganPirates",
 		"ClanWolf",
 		"ClanJadeFalcon",
-		"ClanGhostBear"
+		"ClanGhostBear",
+		"Locals",
+		"Ives"
 	],
   "Presence": 1.5,
   "factionID" : "Liao",

@@ -17,7 +17,9 @@
 	"ClanWolf",
 	"ClanJadeFalcon",
 	"ClanGhostBear",
-	"ClanNovaCat"
+	"ClanNovaCat",
+	"Locals",
+	"Ives"
   ],
   "Presence": 1,
   "factionID" : "Davion",

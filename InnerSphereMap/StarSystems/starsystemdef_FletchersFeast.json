@@ -32,7 +32,8 @@
       "planet_other_newcolony",
       "planet_other_prison",
       "planet_ruins",
-      "planet_faction_tortuga"
+      "planet_faction_tortuga",
+	  "planet_davion_raids"
     ],
     "tagSetSourceFile": ""
   },

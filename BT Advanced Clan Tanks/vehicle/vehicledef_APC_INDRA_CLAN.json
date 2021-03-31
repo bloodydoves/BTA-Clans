@@ -17,6 +17,7 @@
 			"unit_vehicle",
 			"unit_light",
 			"unit_notsacellum",
+			"NOSALVAGE",
 			"unit_medium",
 			"unit_wheels",
 			"unit_vehicle_apc",

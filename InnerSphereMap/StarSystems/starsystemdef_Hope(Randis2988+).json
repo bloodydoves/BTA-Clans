@@ -1,7 +1,7 @@
 {
   "Description": {
     "Id": "starsystemdef_Hope(Randis2988+)",
-    "Name": "Hope (Randis 2988+)",
+    "Name": "Randis IV",
     "Details": "A remote Periphery world, Randis IV was unremarkable until an order of warrior monks decided to call it home. Many pirates have since been driven offworld, and it looks as though stability may finally have arrived at last.",
     "Icon": ""
   },
@@ -22,7 +22,8 @@
       "planet_industry_mining",
       "planet_industry_agriculture",
       "planet_other_pirate",
-      "planet_faction_locals"
+      "planet_faction_locals",
+	  "planet_tortugan_raids"
     ],
     "tagSetSourceFile": ""
   },
