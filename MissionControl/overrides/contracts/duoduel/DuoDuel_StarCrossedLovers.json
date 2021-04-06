@@ -348,12 +348,15 @@
           "lanceTagSet" : {
               "items" : [
                 "lance_type_dynamic",
-                "lance_type_heavy"
+                "lance_type_heavy",
+						"lance_type_mech"
               ],
               "tagSetSourceFile" : "tags/LanceTags"
           },
           "lanceExcludedTagSet" : {
-              "items" : [],
+              "items" : [
+						"lance_type_turret"
+					],
               "tagSetSourceFile" : "tags/LanceTags"
           },
           "spawnEffectTags" : {
