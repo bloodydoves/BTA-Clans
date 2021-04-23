@@ -21,7 +21,7 @@
       "planet_civ_innersphere",
       "planet_industry_agriculture",
       "planet_industry_aquaculture",
-      "planet_faction_liao"
+      "planet_faction_ives"
     ],
     "tagSetSourceFile": ""
   },
@@ -44,7 +44,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 5,
-  "ownerID": "Liao",
+  "ownerID": "Ives",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -130,13 +130,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Liao",
+    "itemCollection_major_Ives",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "Liao",
+  "factionShopOwnerID": "Ives",
   "FactionShopItems": [
-    "itemCollection_faction_Liao"
+    "itemCollection_faction_Ives"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Nashuar",
@@ -149,16 +149,14 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Liao",
+    "Ives",
     "Locals"
   ],
   "contractTargetIDs": [
-    "Marik",
     "Davion",
+    "Liao",
     "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
+    "Locals",
     "AuriganPirates"
   ]
 }
