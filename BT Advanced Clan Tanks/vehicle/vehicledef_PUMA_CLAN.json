@@ -13,6 +13,7 @@
 	"VehicleTags": {
 		"items": [
 			"unit_noncontrollableTank",
+			"no_parts",
 			"unit_vehicle",
 			"unit_notsacellum",
 			"unit_assault",
