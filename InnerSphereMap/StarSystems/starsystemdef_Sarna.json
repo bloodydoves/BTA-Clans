@@ -37,7 +37,7 @@
       "planet_other_blackmarket",
       "planet_other_boreholes",
       "planet_ruins",
-      "planet_faction_liao"
+      "planet_faction_ives"
     ],
     "tagSetSourceFile": ""
   },
@@ -56,7 +56,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 12,
-  "ownerID": "Liao",
+  "ownerID": "Ives",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -142,13 +142,13 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Liao",
+    "itemCollection_major_Ives",
     "itemCollection_shop_chemicalsProgression",
     "itemCollection_shop_miningProgression"
   ],
-  "factionShopOwnerID": "Liao",
+  "factionShopOwnerID": "Ives",
   "FactionShopItems": [
-    "itemCollection_faction_Liao"
+    "itemCollection_faction_Ives"
   ],
   "BlackMarketShopItems": [
 		"itemCollection_faction_AuriganPirates"
@@ -159,20 +159,18 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 10,
+  "DefaultDifficulty": 7,
   "DifficultyList": [],
   "DifficultyModes": [],
- "contractEmployerIDs": [
-    "Liao",
+  "contractEmployerIDs": [
+    "Ives",
     "Locals"
   ],
   "contractTargetIDs": [
-    "Marik",
     "Davion",
+    "Liao",
     "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
+    "Locals",
     "AuriganPirates"
   ]
 }
