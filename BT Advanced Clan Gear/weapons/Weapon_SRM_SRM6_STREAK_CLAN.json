@@ -7,6 +7,7 @@
       "Bonuses": [
         "WpnAccuracy: +1",
         "PipsIgnored: +1",
+		"Clustering: 2",
         "Streak",
 		"MissileHealth: 3"
       ]
@@ -15,12 +16,12 @@
   "Category": "Missile",
   "Type": "SRM",
   "WeaponSubType": "SRM6",
-  "MinRange": 0,
-  "MaxRange": 240,
+   "MinRange": 0,
+  "MaxRange": 280,
   "RangeSplit": [
-    60,
-    120,
-    180
+    70,
+    140,
+    210
   ],
   "AmmoCategory": "STREAKSRM",
   "StartingAmmoCapacity": 0,
@@ -46,6 +47,7 @@
   "ImprovedBallistic": true,
   "ProjectileSpeedMultiplier": 1.2,
   "MissileHealth": 3,
+  "ClusteringModifier": 2,
   "WeaponEffectID": "WeaponEffect-Weapon_SRM6",
   "Description": {
     "Cost": 1116000,
@@ -70,9 +72,7 @@
   "AllowedLocations": "All",
   "DisallowedLocations": "All",
   "CriticalComponent": false,
-  "statusEffects": [
-
-  ],
+  "statusEffects": [],
   "ComponentTags": {
     "items": [
       "component_type_stock",
