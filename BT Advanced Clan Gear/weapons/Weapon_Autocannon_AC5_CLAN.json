@@ -76,8 +76,7 @@
 			"UIName": "x1",
 			"isBaseMode": false,
 			"ShotsWhenFired": -1,
-			"RefireModifier": -1,
-			"HeatGenerated": -7,
+			"HeatGenerated": -5,
 			"Instability": -5
 		},
 		{
