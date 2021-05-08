@@ -19,11 +19,11 @@
 	"Type": "Autocannon",
 	"WeaponSubType": "AC5",
 	"MinRange": 90,
-	"MaxRange": 840,
+	"MaxRange": 720,
 	"RangeSplit": [
-		210,
-		420,
-		630
+		180,
+		360,
+		540
 	],
 	"AmmoCategory": "LBX5",
 	"StartingAmmoCapacity": 0,
@@ -38,7 +38,7 @@
 	"CriticalChanceMultiplier": 1,
 	"AOECapable": false,
 	"IndirectFireCapable": false,
-	"RefireModifier": 2,
+	"RefireModifier": 3,
 	"ShotsWhenFired": 1,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 2,
