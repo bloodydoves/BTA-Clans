@@ -9,7 +9,7 @@
 		{ "Type": "ChassisDef", "Path": "chassis", "AddToDB": true },
 		{ "Type": "MechDef", "Path": "mech", "AddToDB": true },
 		{ "Type": "UpgradeDef", "Path": "upgrade" },
-		{ "Type": "JumpJetDef", "Path": "jumpjet" }
+		{ "Type": "JumpJetDef", "Path": "jumpjet" },
 		{ "Type": "PilotDef", "Path": "pilot" },
         { "Type": "Sprite", "Path": "sprite" },
 		{ "Type": "StarSystemDef", "Path": "planet" },
