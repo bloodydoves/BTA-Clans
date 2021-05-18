@@ -5,7 +5,7 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "PipsIgnored: 4"
+        "PipsIgnored: 6"
       ]
     }
   },
@@ -25,7 +25,7 @@
   "Damage": 25,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 4,
+  "EvasivePipsIgnored": 6,
   "DamageVariance": 0,
   "HeatDamage": 0,
   "AccuracyModifier": 0,

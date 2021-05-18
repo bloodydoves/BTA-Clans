@@ -5,7 +5,7 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "PipsIgnored: 2",
+        "PipsIgnored: 4",
         "WpnAccuracy: +1",
 		"TAG: 1"
       ]
@@ -27,7 +27,7 @@
   "Damage": 0,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 2,
+  "EvasivePipsIgnored": 4,
   "DamageVariance": 0,
   "HeatDamage": 0,
   "AccuracyModifier": -1,
