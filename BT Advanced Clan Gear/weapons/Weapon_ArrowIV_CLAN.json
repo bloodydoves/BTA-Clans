@@ -25,16 +25,16 @@
 	"Category": "Missile",
 	"Type": "LRM",
 	"WeaponSubType": "LRM20",
-	"MinRange": 180,
-	"MaxRange": 1750,
+	"MinRange": 210,
+	"MaxRange": 1550,
 	"RangeSplit": [
-		460,
-		800,
-		1480
+		410,
+		700,
+		1330
 	],
 	"AmmoCategory": "ArrowIV",
 	"StartingAmmoCapacity": 0,
-	"HeatGenerated": 30,
+	"HeatGenerated": 35,
 	"Damage": 75,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,

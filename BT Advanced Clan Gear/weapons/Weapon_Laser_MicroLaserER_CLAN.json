@@ -5,7 +5,8 @@
     ],
     "BonusDescriptions": {
       "Bonuses": [
-        "WpnCrits: -50%"
+        "WpnCrits: -50%",
+		"PipsIgnored: 4"
       ]
     }
   },
@@ -25,7 +26,7 @@
   "Damage": 10,
   "OverheatedDamageMultiplier": 0,
   "EvasiveDamageMultiplier": 0,
-  "EvasivePipsIgnored": 0,
+  "EvasivePipsIgnored": 4,
   "DamageVariance": 0,
   "HeatDamage": 0,
   "AccuracyModifier": 0,

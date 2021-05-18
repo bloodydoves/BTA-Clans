@@ -10,7 +10,7 @@
 		],
 		"BonusDescriptions": {
 			"Bonuses": [
-				"WpnRecoil: 1",
+				"WpnRecoil: 2",
 				"NoFireInMelee"
 			]
 		}
@@ -19,11 +19,11 @@
 	"Type": "Autocannon",
 	"WeaponSubType": "AC2",
 	"MinRange": 120,
-	"MaxRange": 1040,
+	"MaxRange": 920,
 	"RangeSplit": [
-		270,
-		520,
-		810
+		240,
+		460,
+		720
 	],
 	"AmmoCategory": "LBX2",
 	"StartingAmmoCapacity": 0,
@@ -38,7 +38,7 @@
 	"CriticalChanceMultiplier": 1,
 	"AOECapable": false,
 	"IndirectFireCapable": false,
-	"RefireModifier": 1,
+	"RefireModifier": 2,
 	"ShotsWhenFired": 1,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 1,

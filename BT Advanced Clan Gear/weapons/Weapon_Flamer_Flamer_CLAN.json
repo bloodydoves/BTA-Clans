@@ -5,7 +5,7 @@
 		],
         "BonusDescriptions": {
             "Bonuses": [
-                "PipsIgnored: 1",
+                "PipsIgnored: 4",
 				"OHDamage: +20%",
 				"AlwaysStartsFire"
             ]
@@ -23,11 +23,11 @@
     ],
     "AmmoCategory": "NotSet",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 9,
+    "HeatGenerated": 4,
     "Damage": 5,
     "OverheatedDamageMultiplier": 1.2,
     "EvasiveDamageMultiplier": 0,
-    "EvasivePipsIgnored": 1,
+    "EvasivePipsIgnored": 4,
     "DamageVariance": 0,
     "HeatDamage": 5,
     "AccuracyModifier": 0,
