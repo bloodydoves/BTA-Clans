@@ -51,7 +51,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 6,
-  "ownerID": "Liao",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -156,16 +156,16 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Liao",
-    "Locals"
+    "WordOfBlake",
+	"Locals"
   ],
   "contractTargetIDs": [
-    "Marik",
-    "Davion",
-    "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
-    "AuriganPirates"
+    "Steiner",
+	"Marik",
+	"Davion",
+	"Liao",
+	"Kurita",
+	"ComStar",
+	"Rasalhague"
   ]
 }

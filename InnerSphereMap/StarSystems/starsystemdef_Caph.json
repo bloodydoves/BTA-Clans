@@ -48,7 +48,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 7,
-  "ownerID": "Davion",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -153,33 +153,16 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Davion",
-    "Locals"
+    "WordOfBlake",
+	"Locals"
   ],
   "contractTargetIDs": [
     "Steiner",
-    "Marik",
-    "Kurita",
-    "Liao",
-    "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
-    "Outworld",
-    "Marian",
-    "Circinus",
-    "Rasalhague",
-    "Chainelane",
-    "ClanGhostBear",
-    "ClanJadeFalcon",
-    "ClanWolf",
-    "Delphi",
-    "Hanse",
-    "JarnFolk",
-    "Tortuga",
-    "NoFaction",
-    "Locals",
-    "AuriganDirectorate",
-    "AuriganPirates"
+	"Marik",
+	"Davion",
+	"Liao",
+	"Kurita",
+	"ComStar",
+	"Rasalhague"
   ]
 }

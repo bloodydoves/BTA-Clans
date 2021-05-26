@@ -55,7 +55,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 9,
-  "ownerID": "ComStar",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -158,13 +158,16 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "ComStar"
+    "WordOfBlake",
+	"Locals"
   ],
   "contractTargetIDs": [
     "Steiner",
 	"Marik",
 	"Davion",
 	"Liao",
-	"Kurita"
+	"Kurita",
+	"ComStar",
+	"Rasalhague"
   ]
 }
