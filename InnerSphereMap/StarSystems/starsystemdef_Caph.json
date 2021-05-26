@@ -134,13 +134,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Davion",
-    "itemCollection_shop_industrial",
-    "itemCollection_shop_research"
+    "itemCollection_major_WordOfBlake"
   ],
-  "factionShopOwnerID": "Davion",
+  "factionShopOwnerID": "WordOfBlake",
   "FactionShopItems": [
-    "itemCollection_faction_Davion"
+    "itemCollection_faction_WoB"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Caph",

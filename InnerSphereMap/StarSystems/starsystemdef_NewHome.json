@@ -126,13 +126,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Liao",
-    "itemCollection_shop_chemicalsProgression",
-    "itemCollection_shop_miningProgression"
+    "itemCollection_major_WordOfBlake"
   ],
-  "factionShopOwnerID": "Liao",
+  "factionShopOwnerID": "WordOfBlake",
   "FactionShopItems": [
-    "itemCollection_faction_Liao"
+    "itemCollection_faction_WoB"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_NewHome",

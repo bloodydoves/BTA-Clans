@@ -29,7 +29,7 @@
       "planet_industry_aquaculture",
       "planet_other_alienvegetation",
       "planet_other_prison",
-      "planet_faction_comstar"
+      "planet_faction_wordofblake"
     ],
     "tagSetSourceFile": ""
   },
@@ -47,7 +47,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": -8,
-  "ownerID": "ComStar",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -133,11 +133,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ComStar"
+    "itemCollection_major_WordOfBlake"
   ],
-  "factionShopOwnerID": "ComStar",
+  "factionShopOwnerID": "WordOfBlake",
   "FactionShopItems": [
-    "itemCollection_faction_ComStar"
+    "itemCollection_faction_WoB"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Jardine(Herakleion2822+)",
@@ -150,7 +150,7 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "ComStar"
+    "WordOfBlake"
   ],
   "contractTargetIDs": [
     "Marik"

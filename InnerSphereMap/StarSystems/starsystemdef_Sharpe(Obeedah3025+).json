@@ -23,10 +23,9 @@
       "planet_industry_mining",
       "planet_industry_research",
       "planet_industry_manufacturing",
-      "planet_other_comstar",
       "planet_other_starleague",
       "planet_other_blackmarket",
-      "planet_faction_comstar"
+      "planet_faction_wordofblake"
     ],
     "tagSetSourceFile": ""
   },
@@ -49,7 +48,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 5,
-  "ownerID": "ComStar",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -135,11 +134,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ComStar"
+    "itemCollection_major_WordOfBlake"
   ],
-  "factionShopOwnerID": "ComStar",
+  "factionShopOwnerID": "WordOfBlake",
   "FactionShopItems": [
-    "itemCollection_faction_ComStar"
+    "itemCollection_faction_WoB"
   ],
   "BlackMarketShopItems": [
 		"itemCollection_faction_AuriganPirates"
@@ -154,7 +153,7 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "ComStar"
+    "WordOfBlake"
   ],
   "contractTargetIDs": [
     "Liao"
