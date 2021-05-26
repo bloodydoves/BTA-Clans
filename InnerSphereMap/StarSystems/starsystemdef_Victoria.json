@@ -159,15 +159,14 @@
     "Locals"
   ],
   "contractTargetIDs": [
-    "Steiner",
     "Marik",
-    "Kurita",
     "Davion",
     "AuriganRestoration",
     "ComStar",
+    "WordOfBlake",
+    "Ives",
     "MagistracyOfCanopus",
     "TaurianConcordat",
-    "Ives",
     "AuriganPirates"
   ]
 }
