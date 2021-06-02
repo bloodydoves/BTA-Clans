@@ -42,7 +42,7 @@
   },
   "FuelingStation": false,
   "JumpDistance": 14,
-  "ownerID": "Liao",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -128,13 +128,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_Liao",
-    "itemCollection_shop_chemicalsProgression",
-    "itemCollection_shop_miningProgression"
+    "itemCollection_major_WordOfBlake"
   ],
-  "factionShopOwnerID": "Liao",
+  "factionShopOwnerID": "WordOfBlake",
   "FactionShopItems": [
-    "itemCollection_faction_Liao"
+    "itemCollection_faction_WoB"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Capolla",
@@ -143,20 +141,20 @@
     "CAREER",
     "NONE"
   ],
-  "DefaultDifficulty": 1,
+  "DefaultDifficulty": 4,
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "Liao",
-    "Locals"
+    "WordOfBlake",
+	"Locals"
   ],
   "contractTargetIDs": [
-    "Marik",
-    "Davion",
-    "AuriganRestoration",
-    "ComStar",
-    "MagistracyOfCanopus",
-    "TaurianConcordat",
-    "AuriganPirates"
+    "Steiner",
+	"Marik",
+	"Davion",
+	"Liao",
+	"Kurita",
+	"ComStar",
+	"Rasalhague"
   ]
 }

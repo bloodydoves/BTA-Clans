@@ -22,7 +22,7 @@
       "planet_civ_innersphere",
       "planet_other_starleague",
       "planet_ruins",
-      "planet_faction_comstar"
+      "planet_faction_wordofblake"
     ],
     "tagSetSourceFile": ""
   },
@@ -45,7 +45,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 5,
-  "ownerID": "ComStar",
+  "ownerID": "WordOfBlake",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
@@ -131,11 +131,11 @@
   "UseMaxContractOverride": false,
   "MaxContractOverride": 0,
   "SystemShopItems": [
-    "itemCollection_major_ComStar"
+    "itemCollection_major_WordOfBlake"
   ],
-  "factionShopOwnerID": "ComStar",
+  "factionShopOwnerID": "WordOfBlake",
   "FactionShopItems": [
-    "itemCollection_faction_ComStar"
+    "itemCollection_faction_WoB"
   ],
   "BlackMarketShopItems": null,
   "CoreSystemID": "starsystemdef_Versailles(Taussen2822+)",
@@ -148,7 +148,7 @@
   "DifficultyList": [],
   "DifficultyModes": [],
   "contractEmployerIDs": [
-    "ComStar"
+    "WordOfBlake"
   ],
   "contractTargetIDs": [
     "Davion"
