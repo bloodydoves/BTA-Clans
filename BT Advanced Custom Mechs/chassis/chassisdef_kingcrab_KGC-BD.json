@@ -228,7 +228,9 @@
 	],
 	"VariantName": "KGC-BD",
 	"ChassisTags": {
-		"items": [],
+		"items": [
+			"HeroMech"
+		],
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Juggernaut & Ranged Assault",

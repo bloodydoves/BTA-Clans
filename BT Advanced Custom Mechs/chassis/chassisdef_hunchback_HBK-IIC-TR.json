@@ -194,7 +194,8 @@
   "VariantName": "HBK-IIC-TR",
   "ChassisTags": {
     "items": [
-      "ClanMech"
+      "ClanMech",
+	  "HeroMech"
     ],
     "tagSetSourceFile": ""
   },

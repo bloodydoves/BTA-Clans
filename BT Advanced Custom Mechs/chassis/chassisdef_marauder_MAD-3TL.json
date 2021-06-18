@@ -213,7 +213,9 @@
 	],
 	"VariantName": "MAD-3TL",
 	"ChassisTags": {
-		"items": [],
+		"items": [
+			"HeroMech"
+		],
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Sniper & Ranged Assault",

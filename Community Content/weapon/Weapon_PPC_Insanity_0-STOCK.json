@@ -3,9 +3,6 @@
 		"Category": [
 			{
 				"CategoryID": "w/e/p/hppc"
-			},
-			{
-				"CategoryID": "NeverMelee"
 			}
 		],
 		"ComponentExplosion": {
@@ -38,7 +35,7 @@
 		450,
 		660
 	],
-	"AmmoCategory": "NotSet",
+	"AmmoCategory": "Flamer",
 	"StartingAmmoCapacity": 6,
 	"HeatGenerated": 80,
 	"Damage": 50,
@@ -62,6 +59,8 @@
 	"AOEInstability": 2,
 	"Streak": true,
 	"HitGenerator": "Streak",
+	"ImprovedBallistic": true,
+	"FireDelayMultiplier": 0.12,
 	"WeaponEffectID": "WeaponEffect-Weapon_PPC",
 	"Description": {
 		"Cost": 2500000,

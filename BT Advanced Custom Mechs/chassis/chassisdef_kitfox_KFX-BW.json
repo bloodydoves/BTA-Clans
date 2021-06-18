@@ -312,7 +312,8 @@
   "ChassisTags": {
     "items": [
       "ClanMech",
-      "OmniMech"
+      "OmniMech",
+	  "HeroMech"
     ],
     "tagSetSourceFile": ""
   },

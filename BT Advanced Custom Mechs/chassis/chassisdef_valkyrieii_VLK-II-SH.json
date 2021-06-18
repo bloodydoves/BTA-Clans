@@ -232,7 +232,9 @@
 	],
 	"VariantName": "VLK-II-SH",
 	"ChassisTags": {
-		"items": [],
+		"items": [
+			"HeroMech"
+		],
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Heavy Striker",

@@ -238,7 +238,9 @@
 	],
 	"VariantName": "CTF-FR",
 	"ChassisTags": {
-		"items": [],
+		"items": [
+			"HeroMech"
+		],
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Brawler & Close Assault",
